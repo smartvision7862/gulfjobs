@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GullfJob | Premium Job Portal in the GCC</title>
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Find premium career opportunities in the Gulf region. Discover engineering, IT, hospitality, healthcare and finance jobs in Dubai, Abu Dhabi, Riyadh, Doha, Muscat, and more.">
+    <meta name="keywords" content="GCC jobs, Gulf jobs, Dubai jobs, Qatar jobs, Saudi Arabia jobs, engineering jobs, IT jobs, healthcare jobs, hospitality jobs, GullfJob">
+    <meta name="author" content="GullfJob Portal">
+    <meta property="og:title" content="GullfJob | Premium Job Portal in the GCC">
+    <meta property="og:description" content="Connecting top international talent with premium roles across Dubai, Riyadh, Doha, Muscat and the wider GCC.">
+    <meta property="og:type" content="website">
+    
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <!-- Apply saved theme before paint to prevent flash -->
+    <script>
+        (function(){
+            var t = localStorage.getItem("theme") || "dark";
+            document.documentElement.setAttribute("data-theme", t);
+        })();
+    </script>
+    
+    <!-- Scripts -->
+    <script src="app.js" defer></script>
+</head>
+<body>
+
+    <!-- Header Navigation -->
+    <header>
+        <div class="container nav-container">
+            <a href="#" class="logo" id="header-logo-link">
+                <div class="logo-icon">G</div>
+                Gullf<span>Job</span>
+            </a>
+            
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="#" class="active" id="nav-home">Find Jobs</a></li>
+                    <li><a href="#categories-anchor" id="nav-categories">Categories</a></li>
+                    <li><a href="#testimonials-anchor" id="nav-testimonials">Success Stories</a></li>
+                    <li><a href="#footer-anchor" id="nav-about">About Us</a></li>
+                </ul>
+            </nav>
+            
+            <div class="nav-actions">
+                <!-- Theme Toggle Icon Button -->
+                <button class="theme-toggle" id="theme-toggle" aria-label="Toggle Dark/Light Mode">
+                    <!-- Light Theme (Sun) Icon -->
+                    <svg class="theme-toggle-light-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364-6.364l-.707.707M6.343 17.657l-.707.707m0-12.728l.707.707m12.728 12.728l.707-.707M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                    <!-- Dark Theme (Moon) Icon -->
+                    <svg class="theme-toggle-dark-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+                    </svg>
+                </button>
+                <button class="btn-secondary" id="btn-login" onclick="openLoginModal()">Login</button>
+                <a href="post-job.html" class="btn-primary" id="btn-post-job">Post a Job</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content Area -->
+    <main>
+        
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="container">
+                <div class="hero-tagline">
+                    <svg style="width: 16px; height: 16px;" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
+                    </svg>
+                    <span>Trusted by over 1,200 verified GCC companies — Updated daily</span>
+                </div>
+                
+                <h1 class="hero-title">Find Your Dream Career in the <span>Gulf Region</span></h1>
+                <p class="hero-subtitle">Connecting top international talent with premium executive, technical, and specialist roles in Dubai, Abu Dhabi, Riyadh, Doha, Muscat, and beyond.</p>
+                
+                <!-- Hero Search Panel -->
+                <form class="search-panel" id="search-form">
+                    <div class="search-input-group">
+                        <svg fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                        </svg>
+                        <input type="text" id="search-keyword" placeholder="Job title, keywords, or company...">
+                    </div>
+                    
+                    <div class="search-input-group">
+                        <svg fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+                        </svg>
+                        <select id="search-category">
+                            <option value="">All Categories</option>
+                            <option value="Engineering">Engineering</option>
+                            <option value="IT & Tech">IT & Tech</option>
+                            <option value="Safety">Safety (HSE)</option>
+                            <option value="Hospitality">Hospitality</option>
+                            <option value="Healthcare">Healthcare</option>
+                            <option value="Sales & Marketing">Sales & Marketing</option>
+                            <option value="Finance">Finance</option>
+                        </select>
+                    </div>
+                    
+                    <div class="search-input-group">
+                        <svg fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                        </svg>
+                        <select id="search-location">
+                            <option value="">All Locations</option>
+                            <option value="Dubai">Dubai, UAE</option>
+                            <option value="Abu Dhabi">Abu Dhabi, UAE</option>
+                            <option value="Riyadh">Riyadh, Saudi Arabia</option>
+                            <option value="Jeddah">Jeddah, Saudi Arabia</option>
+                            <option value="Jubail">Jubail, Saudi Arabia</option>
+                            <option value="Doha">Doha, Qatar</option>
+                            <option value="Manama">Manama, Bahrain</option>
+                            <option value="Muscat">Muscat, Oman</option>
+                            <option value="Kuwait">Kuwait City, Kuwait</option>
+                        </select>
+                    </div>
+                    
+                    <button type="submit" class="btn-primary" id="btn-search-submit">Search Jobs</button>
+                </form>
+                
+                <!-- Hero Statistics -->
+                <div class="hero-stats">
+                    <div class="stat-item">
+                        <h3 id="stat-count-jobs">58+</h3>
+                        <p>Live Openings</p>
+                    </div>
+                    <div class="stat-item">
+                        <h3 id="stat-count-companies">1,200+</h3>
+                        <p>Employers</p>
+                    </div>
+                    <div class="stat-item">
+                        <h3 id="stat-count-hires">15K+</h3>
+                        <p>Talents Hired</p>
+                    </div>
+                    <div class="stat-item">
+                        <h3>6</h3>
+                        <p>GCC Countries</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Categories Section -->
+        <section class="categories" id="categories-anchor">
+            <div class="container">
+                <div class="section-title">
+                    <h2>Browse by Category</h2>
+                    <p>Find immediate opportunities mapped to your domain of expertise across all GCC sectors.</p>
+                </div>
+                
+                <!-- Dynamic categories populated by app.js -->
+                <div class="categories-grid" id="categories-grid"></div>
+            </div>
+        </section>
+
+        <!-- Main Portal Filter/Listing Section -->
+        <section class="job-portal-section" id="job-search-anchor">
+            <div class="container portal-layout">
+                
+                <!-- Filters Sidebar -->
+                <aside class="filters-sidebar">
+                    <div class="filters-header">
+                        <h3>Filter Jobs</h3>
+                        <button class="btn-reset" id="reset-filters">Clear All</button>
+                    </div>
+                    
+                    <!-- Category Filter -->
+                    <div class="filter-group">
+                        <h4 class="filter-title">Category</h4>
+                        <div class="filter-options">
+                            <label class="filter-checkbox" id="label-cat-eng">
+                                <input type="checkbox" name="category" value="Engineering">
+                                <span class="checkmark"></span>
+                                Engineering
+                            </label>
+                            <label class="filter-checkbox" id="label-cat-it">
+                                <input type="checkbox" name="category" value="IT & Tech">
+                                <span class="checkmark"></span>
+                                IT &amp; Tech
+                            </label>
+                            <label class="filter-checkbox" id="label-cat-hse">
+                                <input type="checkbox" name="category" value="Safety">
+                                <span class="checkmark"></span>
+                                Safety (HSE)
+                            </label>
+                            <label class="filter-checkbox" id="label-cat-hosp">
+                                <input type="checkbox" name="category" value="Hospitality">
+                                <span class="checkmark"></span>
+                                Hospitality
+                            </label>
+                            <label class="filter-checkbox" id="label-cat-health">
+                                <input type="checkbox" name="category" value="Healthcare">
+                                <span class="checkmark"></span>
+                                Healthcare
+                            </label>
+                            <label class="filter-checkbox" id="label-cat-sales">
+                                <input type="checkbox" name="category" value="Sales & Marketing">
+                                <span class="checkmark"></span>
+                                Sales &amp; Marketing
+                            </label>
+                            <label class="filter-checkbox" id="label-cat-fin">
+                                <input type="checkbox" name="category" value="Finance">
+                                <span class="checkmark"></span>
+                                Finance
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Job Type Filter Group -->
+                    <div class="filter-group">
+                        <h4 class="filter-title">Job Type</h4>
+                        <div class="filter-options">
+                            <label class="filter-checkbox" id="label-ft">
+                                <input type="checkbox" name="jobType" value="Full-time">
+                                <span class="checkmark"></span>
+                                Full-time
+                            </label>
+                            <label class="filter-checkbox" id="label-pt">
+                                <input type="checkbox" name="jobType" value="Part-time">
+                                <span class="checkmark"></span>
+                                Part-time
+                            </label>
+                            <label class="filter-checkbox" id="label-ct">
+                                <input type="checkbox" name="jobType" value="Contract">
+                                <span class="checkmark"></span>
+                                Contract
+                            </label>
+                            <label class="filter-checkbox" id="label-rm">
+                                <input type="checkbox" name="jobType" value="Remote">
+                                <span class="checkmark"></span>
+                                Remote
+                            </label>
+                        </div>
+                    </div>
+                    
+                    <!-- Experience Level Filter Group -->
+                    <div class="filter-group">
+                        <h4 class="filter-title">Experience Level</h4>
+                        <div class="filter-options">
+                            <label class="filter-checkbox" id="label-el-entry">
+                                <input type="checkbox" name="experience" value="Entry Level">
+                                <span class="checkmark"></span>
+                                Entry Level
+                            </label>
+                            <label class="filter-checkbox" id="label-el-mid">
+                                <input type="checkbox" name="experience" value="Mid Level">
+                                <span class="checkmark"></span>
+                                Mid Level
+                            </label>
+                            <label class="filter-checkbox" id="label-el-senior">
+                                <input type="checkbox" name="experience" value="Senior Level">
+                                <span class="checkmark"></span>
+                                Senior Level
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Location Filter -->
+                    <div class="filter-group">
+                        <h4 class="filter-title">Country</h4>
+                        <div class="filter-options">
+                            <label class="filter-checkbox" id="label-loc-uae">
+                                <input type="checkbox" name="locationFilter" value="UAE">
+                                <span class="checkmark"></span>
+                                UAE
+                            </label>
+                            <label class="filter-checkbox" id="label-loc-ksa">
+                                <input type="checkbox" name="locationFilter" value="Saudi Arabia">
+                                <span class="checkmark"></span>
+                                Saudi Arabia
+                            </label>
+                            <label class="filter-checkbox" id="label-loc-qa">
+                                <input type="checkbox" name="locationFilter" value="Qatar">
+                                <span class="checkmark"></span>
+                                Qatar
+                            </label>
+                            <label class="filter-checkbox" id="label-loc-om">
+                                <input type="checkbox" name="locationFilter" value="Oman">
+                                <span class="checkmark"></span>
+                                Oman
+                            </label>
+                            <label class="filter-checkbox" id="label-loc-bh">
+                                <input type="checkbox" name="locationFilter" value="Bahrain">
+                                <span class="checkmark"></span>
+                                Bahrain
+                            </label>
+                            <label class="filter-checkbox" id="label-loc-kw">
+                                <input type="checkbox" name="locationFilter" value="Kuwait">
+                                <span class="checkmark"></span>
+                                Kuwait
+                            </label>
+                        </div>
+                    </div>
+                </aside>
+
+                <!-- Listings Panel -->
+                <div class="listings-panel">
+                    <div class="listings-meta">
+                        <h3>Showing <span id="job-count">0</span> Openings</h3>
+                        
+                        <div class="listings-sort">
+                            <label for="sort-by">Sort by:</label>
+                            <select id="sort-by">
+                                <option value="newest">Newest Listed</option>
+                                <option value="salary-high">Highest Salary</option>
+                                <option value="featured">Featured First</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <!-- Jobs list container dynamically rendered by app.js -->
+                    <div id="job-list-container"></div>
+                </div>
+                
+            </div>
+        </section>
+
+        <!-- Testimonials Section -->
+        <section class="testimonials" id="testimonials-anchor">
+            <div class="container">
+                <div class="section-title">
+                    <h2>Success Stories</h2>
+                    <p>Read about professional growth journeys unlocked through GullfJob across the GCC.</p>
+                </div>
+                
+                <div class="testimonials-grid">
+                    <!-- Testimonial 1 -->
+                    <div class="testimonial-card">
+                        <p class="testimonial-content">"Finding a certified structural engineering job in Doha, Qatar can be tough from abroad. Thanks to GullfJob, I found my role at Group IMAR and got visa sponsorship within a month!"</p>
+                        <div class="testimonial-user">
+                            <div class="user-avatar">MK</div>
+                            <div class="user-info">
+                                <h4>Mohammad Khan</h4>
+                                <p>Structural Engineer — Doha, Qatar 🇶🇦</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Testimonial 2 -->
+                    <div class="testimonial-card">
+                        <p class="testimonial-content">"The Send CV button made applying incredibly easy — I emailed my resume directly and heard back from IHG Dubai in 3 days. Got my dream hospitality job without any agency fee!"</p>
+                        <div class="testimonial-user">
+                            <div class="user-avatar">SA</div>
+                            <div class="user-info">
+                                <h4>Sarah Al-Mutawa</h4>
+                                <p>Revenue Manager — Dubai, UAE 🇦🇪</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Testimonial 3 -->
+                    <div class="testimonial-card">
+                        <p class="testimonial-content">"GullfJob helped me land a DevOps Engineer role at Etisalat in Abu Dhabi. Within two weeks, I moved from Hyderabad to Abu Dhabi. The transition was so smooth and well-managed."</p>
+                        <div class="testimonial-user">
+                            <div class="user-avatar">AN</div>
+                            <div class="user-info">
+                                <h4>Anirudh Nair</h4>
+                                <p>DevOps Engineer — Abu Dhabi, UAE 🇦🇪</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Testimonial 4 -->
+                    <div class="testimonial-card">
+                        <p class="testimonial-content">"As a NEBOSH-certified Safety Officer, I was struggling to find the right role. GullfJob's HSE category had exactly what I needed — I joined QatarEnergy within 6 weeks!"</p>
+                        <div class="testimonial-user">
+                            <div class="user-avatar">RJ</div>
+                            <div class="user-info">
+                                <h4>Rajan Joshi</h4>
+                                <p>HSE Officer — Doha, Qatar 🇶🇦</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Testimonial 5 -->
+                    <div class="testimonial-card">
+                        <p class="testimonial-content">"I applied for the Cardiologist position at Saudi German Hospital through GullfJob. The email apply feature was seamless. My family and I relocated to Riyadh with full package including accommodation!"</p>
+                        <div class="testimonial-user">
+                            <div class="user-avatar">DR</div>
+                            <div class="user-info">
+                                <h4>Dr. Reza Ahmadi</h4>
+                                <p>Consultant Cardiologist — Riyadh, KSA 🇸🇦</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Testimonial 6 -->
+                    <div class="testimonial-card">
+                        <p class="testimonial-content">"The filter system on GullfJob is incredibly precise. I searched for SAP FICO roles in Riyadh and found my Deloitte position within minutes. Highly recommend this portal to anyone targeting GCC jobs!"</p>
+                        <div class="testimonial-user">
+                            <div class="user-avatar">FC</div>
+                            <div class="user-info">
+                                <h4>Fatima Chaudhry</h4>
+                                <p>SAP Consultant — Riyadh, KSA 🇸🇦</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- CTA Section -->
+        <section class="cta-section">
+            <div class="container">
+                <div class="cta-banner">
+                    <h2>Ready to Elevate Your Career?</h2>
+                    <p>Browse 58+ verified GCC openings across Engineering, IT, Healthcare, Hospitality, Sales, Safety and Finance. Apply directly via email — no agency fees, no middlemen.</p>
+                    
+                    <div class="cta-actions">
+                        <button class="btn-primary" id="btn-cta-upload" onclick="document.getElementById('job-search-anchor').scrollIntoView({behavior:'smooth'})">Browse All Jobs</button>
+                        <a href="post-job.html" class="btn-secondary" id="btn-cta-browse">Post a Job Free</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer id="footer-anchor">
+        <div class="container footer-grid">
+            <div class="footer-brand">
+                <a href="#" class="logo" id="footer-logo-link">
+                    <div class="logo-icon">G</div>
+                    Gullf<span>Job</span>
+                </a>
+                <p>GullfJob is the leading digital job marketplace connecting global professional talent with premium enterprises and public sector projects across the Arabian Gulf — UAE, Qatar, KSA, Oman, Bahrain, and Kuwait.</p>
+                <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
+                    <span style="font-size: 11px; color: var(--text-muted); background: var(--bg-card); padding: 4px 10px; border-radius: 20px;">🇦🇪 UAE</span>
+                    <span style="font-size: 11px; color: var(--text-muted); background: var(--bg-card); padding: 4px 10px; border-radius: 20px;">🇶🇦 Qatar</span>
+                    <span style="font-size: 11px; color: var(--text-muted); background: var(--bg-card); padding: 4px 10px; border-radius: 20px;">🇸🇦 Saudi Arabia</span>
+                    <span style="font-size: 11px; color: var(--text-muted); background: var(--bg-card); padding: 4px 10px; border-radius: 20px;">🇴🇲 Oman</span>
+                    <span style="font-size: 11px; color: var(--text-muted); background: var(--bg-card); padding: 4px 10px; border-radius: 20px;">🇧🇭 Bahrain</span>
+                    <span style="font-size: 11px; color: var(--text-muted); background: var(--bg-card); padding: 4px 10px; border-radius: 20px;">🇰🇼 Kuwait</span>
+                </div>
+            </div>
+            
+            <div class="footer-col">
+                <h4>For Candidates</h4>
+                <ul>
+                    <li><a href="#job-search-anchor" id="foot-cand-browse" onclick="document.getElementById('job-search-anchor').scrollIntoView({behavior:'smooth'}); return false;">Browse Jobs</a></li>
+                    <li><a href="#categories-anchor" id="foot-cand-categories" onclick="document.getElementById('categories-anchor').scrollIntoView({behavior:'smooth'}); return false;">Job Categories</a></li>
+                    <li><a href="#" id="foot-cand-salaries" onclick="alert('GCC Salary Guide — Coming Soon! Contact us at info@gullfjob.com'); return false;">Salaries in GCC</a></li>
+                    <li><a href="#" id="foot-cand-alerts" onclick="alert('Job Alerts — Register your email to get daily job updates! Feature coming soon.'); return false;">Job Alerts</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-col">
+                <h4>For Employers</h4>
+                <ul>
+                    <li><a href="post-job.html" id="foot-emp-post">Post a Job</a></li>
+                    <li><a href="#" id="foot-emp-talent" onclick="alert('Talent Search — Find from our pool of 15,000+ GCC-ready professionals. Contact info@gullfjob.com'); return false;">Search Talent</a></li>
+                    <li><a href="#" id="foot-emp-solutions" onclick="alert('HR Solutions — Bulk hiring, CV screening, and placement. Contact info@gullfjob.com'); return false;">HR Solutions</a></li>
+                    <li><a href="#" id="foot-emp-advertise" onclick="alert('Advertise With Us — Feature your company banner on GullfJob. Contact info@gullfjob.com'); return false;">Advertise With Us</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-col">
+                <h4>Contact & Info</h4>
+                <ul>
+                    <li><a href="#testimonials-anchor" id="foot-corp-about" onclick="document.getElementById('testimonials-anchor').scrollIntoView({behavior:'smooth'}); return false;">Success Stories</a></li>
+                    <li><a href="post-job.html" id="foot-corp-postjob">Post Your Job</a></li>
+                    <li><a href="mailto:info@gullfjob.com" id="foot-corp-contact">Contact Support</a></li>
+                    <li><a href="mailto:info@gullfjob.com" id="foot-corp-email">info@gullfjob.com</a></li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="container footer-bottom">
+            <p>&copy; 2026 GullfJob Portal Inc. All rights reserved.</p>
+            <p>Designed with ❤️ for GCC Professionals worldwide.</p>
+        </div>
+    </footer>
+
+    <!-- Login Modal -->
+    <div class="modal-backdrop" id="login-modal" style="display:none;" onclick="if(event.target===this)closeLoginModal()">
+        <div class="modal-container" style="max-width: 420px; padding: 40px;">
+            <button class="modal-close-btn" onclick="closeLoginModal()" aria-label="Close">&times;</button>
+            <div style="text-align:center; margin-bottom: 28px;">
+                <div class="logo-icon" style="margin: 0 auto 12px; width: 48px; height: 48px; font-size: 20px;">G</div>
+                <h2 style="font-size: 22px; margin-bottom: 6px;">Welcome Back</h2>
+                <p style="color: var(--text-muted); font-size: 14px;">Sign in to manage your applications and profile</p>
+            </div>
+            <div class="form-group">
+                <label class="form-label">Email Address</label>
+                <input type="email" class="form-input" id="login-email" placeholder="you@example.com">
+            </div>
+            <div class="form-group" style="margin-bottom: 24px;">
+                <label class="form-label">Password</label>
+                <input type="password" class="form-input" id="login-password" placeholder="••••••••">
+            </div>
+            <button class="btn-primary" style="width:100%; justify-content:center;" onclick="handleLogin()">Sign In</button>
+            <p style="text-align:center; margin-top: 16px; font-size: 13px; color: var(--text-muted);">
+                Want to post jobs? <a href="post-job.html" style="color: var(--color-gold);">Employer Portal →</a>
+            </p>
+        </div>
+    </div>
+
+    <!-- Job Details & Quick Apply Modal -->
+    <div class="modal-backdrop" id="job-modal">
+        <div class="modal-container">
+            <!-- Close Button -->
+            <button class="modal-close-btn" id="modal-close-btn" aria-label="Close Modal">&times;</button>
+            
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <div class="company-logo-container">
+                    <div class="company-logo-placeholder" id="modal-logo-letters">GJ</div>
+                </div>
+                <div class="modal-header-info">
+                    <h2 id="modal-job-title">Job Title Details</h2>
+                    <p style="color: var(--text-muted); font-size: 15px; margin-bottom: 8px;" id="modal-company">Company Ltd.</p>
+                    <div class="job-tags" id="modal-tags">
+                        <!-- tags dynamic -->
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Tabs Navigation -->
+            <div class="modal-tabs" id="modal-tabs">
+                <!-- tab buttons dynamic -->
+            </div>
+            
+            <!-- Dynamic Modal Content Body -->
+            <div class="modal-body" id="modal-body">
+                <!-- dynamic tab contents -->
+            </div>
+
+            <!-- Quick Apply Form Panel (hidden by default, switches state) -->
+            <div class="modal-body apply-panel" id="apply-panel">
+                <h3 style="font-size: 20px; margin-bottom: 8px;">Quick Apply</h3>
+                <p style="color: var(--text-secondary); margin-bottom: 24px;">Complete this brief form to apply instantly. The recruiter will review your profile directly.</p>
+                
+                <form id="apply-form">
+                    <div class="form-group">
+                        <label class="form-label" for="apply-name">Full Name *</label>
+                        <input type="text" id="apply-name" class="form-input" required placeholder="John Doe">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label class="form-label" for="apply-email">Email Address *</label>
+                        <input type="email" id="apply-email" class="form-input" required placeholder="johndoe@example.com">
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-label" for="apply-phone">Phone / WhatsApp</label>
+                        <input type="tel" id="apply-phone" class="form-input" placeholder="+971 50 123 4567">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label class="form-label">Upload CV / Resume *</label>
+                        <div class="file-upload-box" id="file-upload-trigger">
+                            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12" />
+                            </svg>
+                            <p>Drag and drop your PDF/Word resume here, or <strong>browse files</strong></p>
+                            <span>Supports PDF, DOCX (Max 5MB)</span>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group" style="margin-bottom: 30px;">
+                        <label class="form-label" for="apply-cover">Brief Cover Note (Optional)</label>
+                        <textarea id="apply-cover" class="form-input" rows="4" placeholder="Introduce yourself and explain why you're a great fit..."></textarea>
+                    </div>
+                    
+                    <div style="display: flex; justify-content: flex-end; gap: 12px;">
+                        <button type="button" class="btn-secondary" onclick="closeQuickApply()" id="btn-cancel-apply">Back to Job Details</button>
+                        <button type="submit" class="btn-primary" id="btn-submit-apply">Submit Application</button>
+                    </div>
+                </form>
+            </div>
+            
+            <!-- Modal Actions Footer -->
+            <div class="modal-footer" id="modal-footer">
+                <div class="salary-tag" id="modal-salary">SAR 15,000 <span>/ month</span></div>
+                <div style="display:flex; gap: 10px; align-items: center;">
+                    <a id="btn-apply-email" href="#" class="btn-secondary" style="display:none; text-decoration:none; align-items:center; gap:6px;">
+                        <svg style="width:14px;height:14px;flex-shrink:0;" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+                        Send CV
+                    </a>
+                    <button class="btn-primary" onclick="openQuickApply(activeJob.id)" id="btn-apply-now">Apply Now</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Success Toast Notification -->
+    <div class="toast" id="toast-notification">
+        <div class="toast-icon">
+            <svg style="width: 16px; height: 16px;" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+            </svg>
+        </div>
+        <div class="toast-message">
+            <h4>Success Toast</h4>
+            <p>Your action completed successfully.</p>
+        </div>
+    </div>
+
+    <script>
+        function openLoginModal() {
+            document.getElementById('login-modal').style.display = 'flex';
+            document.body.style.overflow = 'hidden';
+        }
+        function closeLoginModal() {
+            document.getElementById('login-modal').style.display = 'none';
+            document.body.style.overflow = '';
+        }
+        function handleLogin() {
+            const email = document.getElementById('login-email').value;
+            const pass = document.getElementById('login-password').value;
+            if (!email || !pass) { alert('Please enter your email and password.'); return; }
+            // For employer/admin redirect
+            if (email === 'admin' && pass === 'admin123') {
+                window.location.href = 'post-job.html';
+                return;
+            }
+            alert('Login feature for candidates is coming soon! For employer access, use admin / admin123.');
+        }
+    </script>
+
+</body>
+</html>
