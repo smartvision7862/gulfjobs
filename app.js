@@ -2368,7 +2368,7 @@ function getDeliveryConfig() {
     return {
         channel: localStorage.getItem("recruiter_delivery_channel") || "google_sheets",
         email: localStorage.getItem("recruiter_email") || "smartvisionwll@gmail.com",
-        sheetUrl: localStorage.getItem("recruiter_sheet_url") || "https://script.google.com/macros/s/AKfycbyHF-bic8vjRSJXrOW5S54Fmg5aUpa0hCoXzb9i0jrqmNhr-_5aemCX1KmloRgPMccI/exec"
+        sheetUrl: localStorage.getItem("recruiter_sheet_url") || "https://script.google.com/macros/s/AKfycbyBhAZSE_bO-273uWU93LIlQkzEcs_w7elEBgHC0Ey5rIzW2N6ZQW8Xet_efuYIx99j/exec"
     };
 }
 
