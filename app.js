@@ -2232,6 +2232,57 @@ function renderJobs() {
             </div>
         </div>
     `).join("");
+    
+    // Inject dynamic search schemas for active job listings
+    injectJobSchema(filteredJobs);
+}
+
+// Dynamic Google Job Search Schema.org JSON-LD Injector
+function injectJobSchema(jobs) {
+    document.querySelectorAll('script[data-schema="job-posting"]').forEach(el => el.remove());
+    jobs.slice(0, 12).forEach(job => {
+        try {
+            const script = document.createElement("script");
+            script.type = "application/ld+json";
+            script.setAttribute("data-schema", "job-posting");
+            const schema = {
+                "@context": "https://schema.org",
+                "@type": "JobPosting",
+                "title": job.title,
+                "description": job.description || `${job.title} job vacancy at ${job.company} in ${job.location}.`,
+                "datePosted": new Date().toISOString().split('T')[0],
+                "validThrough": new Date(Date.now() + 8 * 24 * 60 * 60 * 1000).toISOString().split('T')[0],
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": job.company,
+                    "sameAs": "https://smartvision7862.github.io/gulfjobs/"
+                },
+                "jobLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": job.location.split(',')[0].trim(),
+                        "addressCountry": job.location.includes(',') ? job.location.split(',')[1].trim() : "GCC"
+                    }
+                },
+                "baseSalary": {
+                    "@type": "MonetaryAmount",
+                    "currency": job.salary.includes("QAR") ? "QAR" : (job.salary.includes("SAR") ? "SAR" : "AED"),
+                    "value": {
+                        "@type": "QuantitativeValue",
+                        "value": job.salary,
+                        "unitText": "MONTH"
+                    }
+                },
+                "employmentType": job.jobType === "Remote" ? "TELECOMMUTE" : "FULL_TIME",
+                "url": `https://smartvision7862.github.io/gulfjobs/#job-${job.id}`
+            };
+            script.textContent = JSON.stringify(schema);
+            document.head.appendChild(script);
+        } catch (e) {
+            console.error("Schema injection error:", e);
+        }
+    });
 }
 
 // --- Job Detail Modal Management ---
