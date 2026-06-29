@@ -2372,6 +2372,19 @@ function getDeliveryConfig() {
     };
 }
 
+// Function to convert file to base64
+function readFileAsBase64(file) {
+    return new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.onload = () => {
+            const base64String = reader.result.split(",")[1];
+            resolve(base64String);
+        };
+        reader.onerror = (error) => reject(error);
+        reader.readAsDataURL(file);
+    });
+}
+
 // Handle submission
 function handleApplyFormSubmit(event) {
     event.preventDefault();
@@ -2388,13 +2401,12 @@ function handleApplyFormSubmit(event) {
         return;
     }
     
-    let cvName = "No CV uploaded";
-    if (cvInput && cvInput.files.length > 0) {
-        cvName = cvInput.files[0].name;
-    } else {
+    if (!cvInput || cvInput.files.length === 0) {
         alert("Please upload your CV / Resume file.");
         return;
     }
+    
+    const file = cvInput.files[0];
     
     // Change apply button to loading state
     const submitBtn = elements.applyForm.querySelector("button[type='submit']");
@@ -2412,37 +2424,49 @@ function handleApplyFormSubmit(event) {
     const jobTitle = activeJob ? activeJob.title : "General Application";
     const companyName = activeJob ? activeJob.company : "GullfJob Portal";
     
-    if (config.channel === "google_sheets" && config.sheetUrl) {
-        // Submit directly to Google Sheets Apps Script Web App
-        const formData = new FormData();
-        formData.append("name", name);
-        formData.append("email", email);
-        formData.append("phone", phone || "Not Provided");
-        formData.append("jobTitle", jobTitle);
-        formData.append("company", companyName);
-        formData.append("cvName", cvName);
-        formData.append("cover", cover || "None");
-        
-        fetch(config.sheetUrl, {
-            method: "POST",
-            body: formData
-        })
-        .then(() => {
-            saveApplicationLocally(jobTitle);
-            submitBtn.disabled = false;
-            submitBtn.innerHTML = originalText;
-            closeJobModal();
-            showToast(`Application Sent!`, `Your profile was successfully saved to the Google Drive database.`);
-        })
-        .catch((err) => {
-            console.error("Google Sheet submission failed:", err);
-            // Fallback to email if Google Sheets fails
-            sendEmailFallback(name, email, phone, jobTitle, companyName, cvName, cover, config.email, submitBtn, originalText);
-        });
-    } else {
-        // Send directly via Email Inbox (FormSubmit)
-        sendEmailFallback(name, email, phone, jobTitle, companyName, cvName, cover, config.email, submitBtn, originalText);
-    }
+    // Read file and send
+    readFileAsBase64(file).then(base64Data => {
+        if (config.channel === "google_sheets" && config.sheetUrl) {
+            // Post directly to Google Sheets Web App (with base64 file payload)
+            const payload = {
+                name: name,
+                email: email,
+                phone: phone || "Not Provided",
+                jobTitle: jobTitle,
+                company: companyName,
+                cover: cover || "None",
+                cvName: file.name,
+                cvType: file.type,
+                cvData: base64Data
+            };
+            
+            fetch(config.sheetUrl, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/x-www-form-urlencoded"
+                },
+                body: new URLSearchParams(payload)
+            })
+            .then(() => {
+                saveApplicationLocally(jobTitle);
+                submitBtn.disabled = false;
+                submitBtn.innerHTML = originalText;
+                closeJobModal();
+                showToast(`Application Sent!`, `Your profile and CV were successfully saved to your Google Drive.`);
+            })
+            .catch((err) => {
+                console.error("Google Sheet submission failed:", err);
+                sendEmailFallback(name, email, phone, jobTitle, companyName, file.name, cover, config.email, submitBtn, originalText);
+            });
+        } else {
+            sendEmailFallback(name, email, phone, jobTitle, companyName, file.name, cover, config.email, submitBtn, originalText);
+        }
+    }).catch(err => {
+        console.error("File serialization failed:", err);
+        submitBtn.disabled = false;
+        submitBtn.innerHTML = originalText;
+        alert("Error processing your CV file. Please try again with a different document.");
+    });
 }
 
 function saveApplicationLocally(jobTitle) {
