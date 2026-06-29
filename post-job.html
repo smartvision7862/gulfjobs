@@ -194,61 +194,26 @@
                 </form>
             </div>
             
-            <!-- Google Form Integration Card (Hidden by default, shown when logged in) -->
+            <!-- Recruiter Application Settings Card (Hidden by default, shown when logged in) -->
             <div class="post-job-container" id="gform-settings-container" style="margin-top: 30px; display: none;">
                 <div class="post-job-header">
-                    <h2>Google Sheets <span>Database Settings</span></h2>
+                    <h2>Application Delivery <span>Settings</span></h2>
                 </div>
                 <p style="color: var(--text-secondary); margin-bottom: 20px; font-size: 14px; line-height: 1.5;">
-                    Connect GullfJob candidate applications directly to your Google Sheets database via Google Forms. 
-                    <a href="https://docs.google.com/forms" target="_blank" style="color: var(--color-gold); text-decoration: underline;">Create a Google Form</a> with the fields listed below, copy its <strong>formResponse</strong> action URL, and map the entry IDs.
+                    Configure the destination email address where candidate quick apply submissions should be sent. 
+                    We use a secure, direct delivery channel that forwards all applicant info (Name, Email, Phone, CV File name, Cover note) directly to your inbox.
                 </p>
                 <form id="gform-settings-form">
-                    <div class="form-group" style="margin-bottom: 20px;">
-                        <label class="form-label" for="gform-url">Google Form Response URL *</label>
-                        <input type="url" id="gform-url" class="form-input" required placeholder="https://docs.google.com/forms/d/e/1FAIpQLS.../formResponse">
-                    </div>
-                    
-                    <div class="form-row">
-                        <div class="form-group">
-                            <label class="form-label" for="gform-field-name">Candidate Name Entry ID *</label>
-                            <input type="text" id="gform-field-name" class="form-input" required placeholder="entry.1000001">
-                        </div>
-                        <div class="form-group">
-                            <label class="form-label" for="gform-field-email">Candidate Email Entry ID *</label>
-                            <input type="text" id="gform-field-email" class="form-input" required placeholder="entry.1000002">
-                        </div>
-                    </div>
-                    
-                    <div class="form-row">
-                        <div class="form-group">
-                            <label class="form-label" for="gform-field-phone">Candidate Phone Entry ID *</label>
-                            <input type="text" id="gform-field-phone" class="form-input" required placeholder="entry.1000003">
-                        </div>
-                        <div class="form-group">
-                            <label class="form-label" for="gform-field-job">Job Title Entry ID *</label>
-                            <input type="text" id="gform-field-job" class="form-input" required placeholder="entry.1000004">
-                        </div>
-                    </div>
-
-                    <div class="form-row">
-                        <div class="form-group">
-                            <label class="form-label" for="gform-field-company">Company Entry ID *</label>
-                            <input type="text" id="gform-field-company" class="form-input" required placeholder="entry.1000005">
-                        </div>
-                        <div class="form-group">
-                            <label class="form-label" for="gform-field-cv">CV File Name Entry ID *</label>
-                            <input type="text" id="gform-field-cv" class="form-input" required placeholder="entry.1000006">
-                        </div>
-                    </div>
-
                     <div class="form-group" style="margin-bottom: 24px;">
-                        <label class="form-label" for="gform-field-cover">Cover Note Entry ID *</label>
-                        <input type="text" id="gform-field-cover" class="form-input" required placeholder="entry.1000007">
+                        <label class="form-label" for="gform-url">Recruiter Email Address *</label>
+                        <input type="email" id="gform-url" class="form-input" required placeholder="smartvisionwll@gmail.com">
+                        <small style="color: var(--text-muted); display: block; margin-top: 6px; font-size: 12px;">
+                            The first time an application is sent to a new email address, you will receive a verification email from FormSubmit.co. Click the link inside it to activate delivery.
+                        </small>
                     </div>
                     
                     <div style="display: flex; gap: 12px; justify-content: flex-end;">
-                        <button type="submit" class="btn-primary" id="btn-gform-save">Save Database Connection</button>
+                        <button type="submit" class="btn-primary" id="btn-gform-save">Save Connection</button>
                     </div>
                 </form>
             </div>

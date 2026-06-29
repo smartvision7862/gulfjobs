@@ -2363,34 +2363,9 @@ window.closeQuickApply = function() {
     elements.modalFooter.style.display = "flex";
 };
 
-// --- Google Form Database Configuration ---
-const GOOGLE_FORM_SETTINGS = {
-    formUrl: "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfD_u5eX9gP3Lz1zH-n0U5wT6yN2vT8-X8v7Vp2R2Nn9a9A9A/formResponse",
-    fields: {
-        name: "entry.1000001",
-        email: "entry.1000002",
-        phone: "entry.1000003",
-        jobTitle: "entry.1000004",
-        company: "entry.1000005",
-        cvFile: "entry.1000006",
-        coverNote: "entry.1000007"
-    }
-};
-
-function getGoogleFormConfig() {
-    const savedUrl = localStorage.getItem("gform_url");
-    const savedFields = localStorage.getItem("gform_fields");
-    if (savedUrl && savedFields) {
-        try {
-            return {
-                formUrl: savedUrl,
-                fields: JSON.parse(savedFields)
-            };
-        } catch (e) {
-            console.error("Error parsing Google Form config:", e);
-        }
-    }
-    return GOOGLE_FORM_SETTINGS;
+// --- Recruiter Application Delivery Configuration ---
+function getRecruiterEmail() {
+    return localStorage.getItem("recruiter_email") || "smartvisionwll@gmail.com";
 }
 
 // Handle submission
@@ -2429,22 +2404,28 @@ function handleApplyFormSubmit(event) {
         Submitting Application...
     `;
     
-    const config = getGoogleFormConfig();
-    const formData = new FormData();
-    formData.append(config.fields.name, name);
-    formData.append(config.fields.email, email);
-    formData.append(config.fields.phone, phone || "Not Provided");
-    formData.append(config.fields.jobTitle, activeJob ? activeJob.title : "General Application");
-    formData.append(config.fields.company, activeJob ? activeJob.company : "GullfJob Portal");
-    formData.append(config.fields.cvFile, cvName);
-    formData.append(config.fields.coverNote, cover || "None");
+    const targetEmail = getRecruiterEmail();
+    const payload = {
+        Name: name,
+        Email: email,
+        Phone: phone || "Not Provided",
+        "Job Title": activeJob ? activeJob.title : "General Application",
+        Company: activeJob ? activeJob.company : "GullfJob Portal",
+        "CV File Name": cvName,
+        "Cover Note": cover || "None",
+        _subject: `New Job Application: ${name} - ${activeJob ? activeJob.title : "General Application"}`
+    };
     
-    // Submit via AJAX POST (no-cors prevents cross-origin errors)
-    fetch(config.formUrl, {
+    // Submit via AJAX FormSubmit API
+    fetch(`https://formsubmit.co/ajax/${targetEmail}`, {
         method: "POST",
-        mode: "no-cors",
-        body: formData
+        headers: {
+            "Content-Type": "application/json",
+            "Accept": "application/json"
+        },
+        body: JSON.stringify(payload)
     })
+    .then(response => response.json())
     .then(() => {
         // Store the application locally as well for candidate reference
         const applications = JSON.parse(localStorage.getItem("gullfjob_applications") || "[]");
@@ -2459,13 +2440,11 @@ function handleApplyFormSubmit(event) {
         submitBtn.disabled = false;
         submitBtn.innerHTML = originalText;
         
-        const companyName = activeJob ? activeJob.company : "the employer";
-        
         // Close modal
         closeJobModal();
         
         // Show Toast Success
-        showToast(`Application Sent!`, `Your profile was successfully saved to the Google Drive database for ${companyName}.`);
+        showToast(`Application Sent!`, `Your profile was successfully sent to ${targetEmail}.`);
     })
     .catch((err) => {
         console.error("Submission failed:", err);
