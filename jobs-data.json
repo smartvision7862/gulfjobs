@@ -1,5 +1,95 @@
 [
   {
+    "id": "pool-009-2026-06-29",
+    "title": "Front Office Manager",
+    "company": "Waldorf Astoria Hotels",
+    "logoLetters": "WA",
+    "location": "Dubai, UAE",
+    "category": "Hospitality",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "AED 18,000 - 24,000",
+    "featured": false,
+    "description": "Waldorf Astoria Dubai Palm Jumeirah is seeking a Front Office Manager to oversee all front-of-house operations, ensuring bespoke service for our ultra-luxury guests.",
+    "responsibilities": [
+      "Manage front desk, concierge, and guest services operations.",
+      "Lead and coach a team of 35+ front office associates.",
+      "Ensure seamless VIP and repeat guest recognition programmes.",
+      "Collaborate with Housekeeping, F&B, and Revenue teams on room inventory.",
+      "Handle guest escalations and drive service recovery excellence."
+    ],
+    "requirements": [
+      "Bachelor's degree in Hospitality Management.",
+      "Minimum 5 years of front office experience with 2+ years in management.",
+      "Opera PMS expertise required.",
+      "Fluency in English; Arabic or Russian is a significant advantage.",
+      "Experience in luxury Dubai hotel is preferred."
+    ],
+    "applyEmail": "careers@waldorfastoria.com",
+    "dateAdded": "2026-06-29",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-008-2026-06-29",
+    "title": "Executive Chef",
+    "company": "Rosewood Hotels & Resorts",
+    "logoLetters": "RW",
+    "location": "Riyadh, Saudi Arabia",
+    "category": "Hospitality",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "SAR 28,000 - 38,000 + Benefits",
+    "featured": true,
+    "description": "Rosewood Riyadh is seeking a talented Executive Chef to lead culinary operations across our fine dining, all-day dining, and banqueting outlets at this ultra-luxury property.",
+    "responsibilities": [
+      "Lead and inspire a team of 60+ chefs across multiple restaurant concepts.",
+      "Develop innovative menus that reflect Rosewood's culinary philosophy.",
+      "Ensure consistency, presentation standards, and food safety compliance.",
+      "Control food cost, wastage, and kitchen operating budgets.",
+      "Recruit, train, and mentor culinary team members."
+    ],
+    "requirements": [
+      "Culinary arts degree or equivalent professional training.",
+      "Minimum 8 years of culinary experience with 3+ years as Executive Chef.",
+      "Luxury 5-star hotel or restaurant background required.",
+      "Experience in multiple cuisines (Western, Arabic/Levantine, Asian).",
+      "HACCP certification and strong leadership skills."
+    ],
+    "applyEmail": "culinary.careers@rosewoodhotels.com",
+    "dateAdded": "2026-06-29",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-007-2026-06-29",
+    "title": "Radiographer – MRI & CT",
+    "company": "Aster DM Healthcare",
+    "logoLetters": "AS",
+    "location": "Dubai, UAE",
+    "category": "Healthcare",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 9,000 - 13,000",
+    "featured": false,
+    "description": "Aster DM Healthcare is looking for a qualified Radiographer with experience in MRI and CT imaging to join our diagnostic imaging department in Dubai.",
+    "responsibilities": [
+      "Perform MRI, CT, and X-ray examinations on patients following radiologist protocols.",
+      "Ensure accurate patient positioning and image quality.",
+      "Administer IV contrast media as prescribed and monitor for reactions.",
+      "Maintain imaging equipment and escalate maintenance issues.",
+      "Maintain patient safety standards and radiation protection guidelines."
+    ],
+    "requirements": [
+      "Bachelor's degree in Radiography or Medical Imaging Technology.",
+      "Minimum 2 years of MRI/CT radiographer experience.",
+      "DHA/DOH license required; support provided for UAE registration.",
+      "Experience with Siemens, GE, or Philips MRI and CT systems.",
+      "Strong patient communication and attention to detail."
+    ],
+    "applyEmail": "careers@asterhospitals.in",
+    "dateAdded": "2026-06-29",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-006-2026-06-29",
     "title": "Registered Nurse – ICU",
     "company": "King Faisal Specialist Hospital & Research Centre",
