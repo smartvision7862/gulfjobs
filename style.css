@@ -1477,6 +1477,10 @@ footer {
 }
 
 /* --- AI Chatbot Floating Widget --- */
+:root {
+    --color-gold: var(--color-primary);
+}
+
 .chatbot-trigger {
     position: fixed;
     bottom: 30px;
