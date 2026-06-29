@@ -180,20 +180,39 @@ function handleJobSubmit(event) {
     }, 2000);
 }
 
-// --- Recruiter Email Settings Handler ---
+// --- Recruiter Application Delivery Settings Handler ---
 function handleGformSettingsSubmit(event) {
     event.preventDefault();
     
+    const channel = document.getElementById("delivery-channel").value;
     const email = document.getElementById("gform-url").value.trim();
-    localStorage.setItem("recruiter_email", email);
+    const sheetUrl = document.getElementById("google-sheet-url").value.trim();
     
-    showToast("Settings Saved", "Recruiter application delivery email updated successfully.");
+    localStorage.setItem("recruiter_delivery_channel", channel);
+    localStorage.setItem("recruiter_email", email);
+    localStorage.setItem("recruiter_sheet_url", sheetUrl);
+    
+    showToast("Settings Saved", "Recruiter application delivery configuration updated successfully.");
 }
 
 // Load existing settings into form fields
 function loadGformSettings() {
+    const savedChannel = localStorage.getItem("recruiter_delivery_channel") || "email";
     const savedEmail = localStorage.getItem("recruiter_email") || "smartvisionwll@gmail.com";
+    const savedSheetUrl = localStorage.getItem("recruiter_sheet_url") || "";
+    
+    document.getElementById("delivery-channel").value = savedChannel;
     document.getElementById("gform-url").value = savedEmail;
+    document.getElementById("google-sheet-url").value = savedSheetUrl;
+    
+    // Set field visibilities
+    if (savedChannel === "email") {
+        document.getElementById("settings-group-email").style.display = "block";
+        document.getElementById("settings-group-sheet").style.display = "none";
+    } else {
+        document.getElementById("settings-group-email").style.display = "none";
+        document.getElementById("settings-group-sheet").style.display = "block";
+    }
 }
 
 // --- Toast Controller ---
@@ -229,5 +248,20 @@ function setupEventListeners() {
     
     if (elements.gformForm) {
         elements.gformForm.addEventListener("submit", handleGformSettingsSubmit);
+    }
+    
+    // Toggling the settings fields
+    const channelSelect = document.getElementById("delivery-channel");
+    if (channelSelect) {
+        channelSelect.addEventListener("change", (e) => {
+            const value = e.target.value;
+            if (value === "email") {
+                document.getElementById("settings-group-email").style.display = "block";
+                document.getElementById("settings-group-sheet").style.display = "none";
+            } else {
+                document.getElementById("settings-group-email").style.display = "none";
+                document.getElementById("settings-group-sheet").style.display = "block";
+            }
+        });
     }
 }

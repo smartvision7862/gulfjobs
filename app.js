@@ -2364,8 +2364,12 @@ window.closeQuickApply = function() {
 };
 
 // --- Recruiter Application Delivery Configuration ---
-function getRecruiterEmail() {
-    return localStorage.getItem("recruiter_email") || "smartvisionwll@gmail.com";
+function getDeliveryConfig() {
+    return {
+        channel: localStorage.getItem("recruiter_delivery_channel") || "email",
+        email: localStorage.getItem("recruiter_email") || "smartvisionwll@gmail.com",
+        sheetUrl: localStorage.getItem("recruiter_sheet_url") || ""
+    };
 }
 
 // Handle submission
@@ -2404,19 +2408,65 @@ function handleApplyFormSubmit(event) {
         Submitting Application...
     `;
     
-    const targetEmail = getRecruiterEmail();
+    const config = getDeliveryConfig();
+    const jobTitle = activeJob ? activeJob.title : "General Application";
+    const companyName = activeJob ? activeJob.company : "GullfJob Portal";
+    
+    if (config.channel === "google_sheets" && config.sheetUrl) {
+        // Submit directly to Google Sheets Apps Script Web App
+        const formData = new FormData();
+        formData.append("name", name);
+        formData.append("email", email);
+        formData.append("phone", phone || "Not Provided");
+        formData.append("jobTitle", jobTitle);
+        formData.append("company", companyName);
+        formData.append("cvName", cvName);
+        formData.append("cover", cover || "None");
+        
+        fetch(config.sheetUrl, {
+            method: "POST",
+            body: formData
+        })
+        .then(() => {
+            saveApplicationLocally(jobTitle);
+            submitBtn.disabled = false;
+            submitBtn.innerHTML = originalText;
+            closeJobModal();
+            showToast(`Application Sent!`, `Your profile was successfully saved to the Google Drive database.`);
+        })
+        .catch((err) => {
+            console.error("Google Sheet submission failed:", err);
+            // Fallback to email if Google Sheets fails
+            sendEmailFallback(name, email, phone, jobTitle, companyName, cvName, cover, config.email, submitBtn, originalText);
+        });
+    } else {
+        // Send directly via Email Inbox (FormSubmit)
+        sendEmailFallback(name, email, phone, jobTitle, companyName, cvName, cover, config.email, submitBtn, originalText);
+    }
+}
+
+function saveApplicationLocally(jobTitle) {
+    const applications = JSON.parse(localStorage.getItem("gullfjob_applications") || "[]");
+    applications.push({
+        jobId: activeJob ? activeJob.id : "general",
+        jobTitle: jobTitle,
+        appliedAt: new Date().toISOString()
+    });
+    localStorage.setItem("gullfjob_applications", JSON.stringify(applications));
+}
+
+function sendEmailFallback(name, email, phone, jobTitle, companyName, cvName, cover, targetEmail, submitBtn, originalText) {
     const payload = {
         Name: name,
         Email: email,
         Phone: phone || "Not Provided",
-        "Job Title": activeJob ? activeJob.title : "General Application",
-        Company: activeJob ? activeJob.company : "GullfJob Portal",
+        "Job Title": jobTitle,
+        Company: companyName,
         "CV File Name": cvName,
         "Cover Note": cover || "None",
-        _subject: `New Job Application: ${name} - ${activeJob ? activeJob.title : "General Application"}`
+        _subject: `New Job Application: ${name} - ${jobTitle}`
     };
     
-    // Submit via AJAX FormSubmit API
     fetch(`https://formsubmit.co/ajax/${targetEmail}`, {
         method: "POST",
         headers: {
@@ -2427,28 +2477,14 @@ function handleApplyFormSubmit(event) {
     })
     .then(response => response.json())
     .then(() => {
-        // Store the application locally as well for candidate reference
-        const applications = JSON.parse(localStorage.getItem("gullfjob_applications") || "[]");
-        applications.push({
-            jobId: activeJob ? activeJob.id : "general",
-            jobTitle: activeJob ? activeJob.title : "General Application",
-            appliedAt: new Date().toISOString()
-        });
-        localStorage.setItem("gullfjob_applications", JSON.stringify(applications));
-        
-        // Reset button
+        saveApplicationLocally(jobTitle);
         submitBtn.disabled = false;
         submitBtn.innerHTML = originalText;
-        
-        // Close modal
         closeJobModal();
-        
-        // Show Toast Success
         showToast(`Application Sent!`, `Your profile was successfully sent to ${targetEmail}.`);
     })
     .catch((err) => {
-        console.error("Submission failed:", err);
-        // Reset button
+        console.error("Email submission failed:", err);
         submitBtn.disabled = false;
         submitBtn.innerHTML = originalText;
         alert("Submission error. Please check your network connection and try again.");
