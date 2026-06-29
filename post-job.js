@@ -26,6 +26,9 @@ function cacheElements() {
         postJobForm: document.getElementById("post-job-form"),
         logoutBtn: document.getElementById("btn-logout"),
         
+        gformContainer: document.getElementById("gform-settings-container"),
+        gformForm: document.getElementById("gform-settings-form"),
+        
         toastNotification: document.getElementById("toast-notification")
     };
 }
@@ -61,9 +64,12 @@ function checkAuthSession() {
     if (isLoggedIn) {
         elements.authCard.style.display = "none";
         elements.postJobContainer.style.display = "block";
+        if (elements.gformContainer) elements.gformContainer.style.display = "block";
+        loadGformSettings();
     } else {
         elements.authCard.style.display = "block";
         elements.postJobContainer.style.display = "none";
+        if (elements.gformContainer) elements.gformContainer.style.display = "none";
     }
 }
 
@@ -174,6 +180,65 @@ function handleJobSubmit(event) {
     }, 2000);
 }
 
+// --- Google Form Settings Handler ---
+function handleGformSettingsSubmit(event) {
+    event.preventDefault();
+    
+    const formUrl = document.getElementById("gform-url").value.trim();
+    const fields = {
+        name: document.getElementById("gform-field-name").value.trim(),
+        email: document.getElementById("gform-field-email").value.trim(),
+        phone: document.getElementById("gform-field-phone").value.trim(),
+        jobTitle: document.getElementById("gform-field-job").value.trim(),
+        company: document.getElementById("gform-field-company").value.trim(),
+        cvFile: document.getElementById("gform-field-cv").value.trim(),
+        coverNote: document.getElementById("gform-field-cover").value.trim()
+    };
+    
+    localStorage.setItem("gform_url", formUrl);
+    localStorage.setItem("gform_fields", JSON.stringify(fields));
+    
+    showToast("Settings Saved", "Google Sheets connection configuration updated successfully.");
+}
+
+// Load existing settings into form fields
+function loadGformSettings() {
+    const savedUrl = localStorage.getItem("gform_url");
+    const savedFields = localStorage.getItem("gform_fields");
+    
+    if (savedUrl) {
+        document.getElementById("gform-url").value = savedUrl;
+    } else {
+        document.getElementById("gform-url").value = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfD_u5eX9gP3Lz1zH-n0U5wT6yN2vT8-X8v7Vp2R2Nn9a9A9A/formResponse";
+    }
+    
+    let fields = {
+        name: "entry.1000001",
+        email: "entry.1000002",
+        phone: "entry.1000003",
+        jobTitle: "entry.1000004",
+        company: "entry.1000005",
+        cvFile: "entry.1000006",
+        coverNote: "entry.1000007"
+    };
+    
+    if (savedFields) {
+        try {
+            fields = JSON.parse(savedFields);
+        } catch (e) {
+            console.error(e);
+        }
+    }
+    
+    document.getElementById("gform-field-name").value = fields.name;
+    document.getElementById("gform-field-email").value = fields.email;
+    document.getElementById("gform-field-phone").value = fields.phone;
+    document.getElementById("gform-field-job").value = fields.jobTitle;
+    document.getElementById("gform-field-company").value = fields.company;
+    document.getElementById("gform-field-cv").value = fields.cvFile;
+    document.getElementById("gform-field-cover").value = fields.coverNote;
+}
+
 // --- Toast Controller ---
 function showToast(title, message) {
     const toast = elements.toastNotification;
@@ -203,5 +268,9 @@ function setupEventListeners() {
     
     if (elements.postJobForm) {
         elements.postJobForm.addEventListener("submit", handleJobSubmit);
+    }
+    
+    if (elements.gformForm) {
+        elements.gformForm.addEventListener("submit", handleGformSettingsSubmit);
     }
 }

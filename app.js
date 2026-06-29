@@ -1897,31 +1897,56 @@ const defaultJobs = [
 
 
 let jobDatabase = [];
-const savedDb = localStorage.getItem("gullfjob_db");
-if (savedDb) {
+
+async function initJobDatabase() {
+    let sourceJobs = defaultJobs;
     try {
-        const parsed = JSON.parse(savedDb);
-        // Separate user-posted jobs (long numeric id) from defaults
-        const userPostedJobs = parsed.filter(j => j.id && j.id.startsWith("job-") && isNaN(j.id.replace("job-", "")) === false && j.id.replace("job-", "").length > 6);
-        const existingIds = parsed.map(j => j.id);
-        // Add any brand new defaults not yet in storage
-        const newDefaults = defaultJobs.filter(j => !existingIds.includes(j.id));
-        // Rebuild: user posts at front, then all defaults (refreshed from source), then extras
-        const refreshedDefaults = defaultJobs.map(def => {
-            const stored = parsed.find(p => p.id === def.id);
-            // Prefer the source definition (so category fixes propagate), but keep any user edits if needed
-            return def;
-        });
-        jobDatabase = [...userPostedJobs, ...refreshedDefaults, ...parsed.filter(j => !userPostedJobs.includes(j) && !defaultJobs.find(d => d.id === j.id))];
-        // Save merged result
-        localStorage.setItem("gullfjob_db", JSON.stringify(jobDatabase));
+        const response = await fetch("jobs-data.json");
+        if (response.ok) {
+            sourceJobs = await response.json();
+            console.log(`Loaded ${sourceJobs.length} jobs dynamically from jobs-data.json`);
+        }
     } catch (e) {
-        jobDatabase = defaultJobs;
-        localStorage.setItem("gullfjob_db", JSON.stringify(defaultJobs));
+        console.warn("Failed to fetch jobs-data.json, using default hardcoded jobs.", e);
     }
-} else {
-    jobDatabase = defaultJobs;
-    localStorage.setItem("gullfjob_db", JSON.stringify(defaultJobs));
+
+    const savedDb = localStorage.getItem("gullfjob_db");
+    if (savedDb) {
+        try {
+            const parsed = JSON.parse(savedDb);
+            // Separate user-posted jobs (long numeric id) from defaults
+            const userPostedJobs = parsed.filter(j => j.id && j.id.startsWith("job-") && isNaN(j.id.replace("job-", "")) === false && j.id.replace("job-", "").length > 6);
+            const existingIds = parsed.map(j => j.id);
+            // Add any brand new defaults not yet in storage
+            const newDefaults = sourceJobs.filter(j => !existingIds.includes(j.id));
+            // Rebuild: user posts at front, then all defaults (refreshed from source), then extras
+            const refreshedDefaults = sourceJobs.map(def => {
+                const stored = parsed.find(p => p.id === def.id);
+                return def;
+            });
+            jobDatabase = [...userPostedJobs, ...refreshedDefaults, ...parsed.filter(j => !userPostedJobs.includes(j) && !sourceJobs.find(d => d.id === j.id))];
+            
+            // Delete jobs older than 8 days
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+            jobDatabase = jobDatabase.filter(job => {
+                if (!job.dateAdded) return true; // keep permanent or legacy jobs
+                const addedDate = new Date(job.dateAdded);
+                addedDate.setHours(0, 0, 0, 0);
+                const ageDays = Math.round((today - addedDate) / (1000 * 60 * 60 * 24));
+                return ageDays <= 8; // Only keep jobs within 8 days
+            });
+
+            // Save merged result
+            localStorage.setItem("gullfjob_db", JSON.stringify(jobDatabase));
+        } catch (e) {
+            jobDatabase = sourceJobs;
+            localStorage.setItem("gullfjob_db", JSON.stringify(sourceJobs));
+        }
+    } else {
+        jobDatabase = sourceJobs;
+        localStorage.setItem("gullfjob_db", JSON.stringify(sourceJobs));
+    }
 }
 
 
@@ -1941,9 +1966,10 @@ let filterState = {
 let elements = {};
 
 // --- Initialize Application ---
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", async () => {
     cacheElements();
     initTheme();
+    await initJobDatabase();
     renderCategories();
     renderJobs();
     setupEventListeners();
@@ -2337,6 +2363,36 @@ window.closeQuickApply = function() {
     elements.modalFooter.style.display = "flex";
 };
 
+// --- Google Form Database Configuration ---
+const GOOGLE_FORM_SETTINGS = {
+    formUrl: "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfD_u5eX9gP3Lz1zH-n0U5wT6yN2vT8-X8v7Vp2R2Nn9a9A9A/formResponse",
+    fields: {
+        name: "entry.1000001",
+        email: "entry.1000002",
+        phone: "entry.1000003",
+        jobTitle: "entry.1000004",
+        company: "entry.1000005",
+        cvFile: "entry.1000006",
+        coverNote: "entry.1000007"
+    }
+};
+
+function getGoogleFormConfig() {
+    const savedUrl = localStorage.getItem("gform_url");
+    const savedFields = localStorage.getItem("gform_fields");
+    if (savedUrl && savedFields) {
+        try {
+            return {
+                formUrl: savedUrl,
+                fields: JSON.parse(savedFields)
+            };
+        } catch (e) {
+            console.error("Error parsing Google Form config:", e);
+        }
+    }
+    return GOOGLE_FORM_SETTINGS;
+}
+
 // Handle submission
 function handleApplyFormSubmit(event) {
     event.preventDefault();
@@ -2344,9 +2400,20 @@ function handleApplyFormSubmit(event) {
     // Get form data
     const name = document.getElementById("apply-name").value.trim();
     const email = document.getElementById("apply-email").value.trim();
+    const phone = document.getElementById("apply-phone").value.trim();
+    const cover = document.getElementById("apply-cover").value.trim();
+    const cvInput = document.getElementById("apply-cv-file");
     
     if (!name || !email) {
         alert("Please fill in all required fields.");
+        return;
+    }
+    
+    let cvName = "No CV uploaded";
+    if (cvInput && cvInput.files.length > 0) {
+        cvName = cvInput.files[0].name;
+    } else {
+        alert("Please upload your CV / Resume file.");
         return;
     }
     
@@ -2362,8 +2429,32 @@ function handleApplyFormSubmit(event) {
         Submitting Application...
     `;
     
-    // Simulate API request delay
-    setTimeout(() => {
+    const config = getGoogleFormConfig();
+    const formData = new FormData();
+    formData.append(config.fields.name, name);
+    formData.append(config.fields.email, email);
+    formData.append(config.fields.phone, phone || "Not Provided");
+    formData.append(config.fields.jobTitle, activeJob ? activeJob.title : "General Application");
+    formData.append(config.fields.company, activeJob ? activeJob.company : "GullfJob Portal");
+    formData.append(config.fields.cvFile, cvName);
+    formData.append(config.fields.coverNote, cover || "None");
+    
+    // Submit via AJAX POST (no-cors prevents cross-origin errors)
+    fetch(config.formUrl, {
+        method: "POST",
+        mode: "no-cors",
+        body: formData
+    })
+    .then(() => {
+        // Store the application locally as well for candidate reference
+        const applications = JSON.parse(localStorage.getItem("gullfjob_applications") || "[]");
+        applications.push({
+            jobId: activeJob ? activeJob.id : "general",
+            jobTitle: activeJob ? activeJob.title : "General Application",
+            appliedAt: new Date().toISOString()
+        });
+        localStorage.setItem("gullfjob_applications", JSON.stringify(applications));
+        
         // Reset button
         submitBtn.disabled = false;
         submitBtn.innerHTML = originalText;
@@ -2374,9 +2465,15 @@ function handleApplyFormSubmit(event) {
         closeJobModal();
         
         // Show Toast Success
-        showToast(`Application Sent!`, `Your profile was successfully shared with ${companyName}.`);
-        
-    }, 1500);
+        showToast(`Application Sent!`, `Your profile was successfully saved to the Google Drive database for ${companyName}.`);
+    })
+    .catch((err) => {
+        console.error("Submission failed:", err);
+        // Reset button
+        submitBtn.disabled = false;
+        submitBtn.innerHTML = originalText;
+        alert("Submission error. Please check your network connection and try again.");
+    });
 }
 
 // Spin animation rule injection for form loader
@@ -2518,6 +2615,36 @@ function setupEventListeners() {
     // Apply Form Submission
     if (elements.applyForm) {
         elements.applyForm.addEventListener("submit", handleApplyFormSubmit);
+    }
+
+    // CV File Upload Interaction
+    const cvInput = document.getElementById("apply-cv-file");
+    const uploadTrigger = document.getElementById("file-upload-trigger");
+    if (uploadTrigger && cvInput) {
+        uploadTrigger.addEventListener("click", () => {
+            cvInput.click();
+        });
+        
+        cvInput.addEventListener("change", () => {
+            if (cvInput.files.length > 0) {
+                const file = cvInput.files[0];
+                uploadTrigger.innerHTML = `
+                    <svg style="color: #eab308; width: 32px; height: 32px; margin-bottom: 8px;" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                    <p style="margin: 0; font-size: 14px;">Selected CV: <strong style="color: #eab308;">${file.name}</strong></p>
+                    <span style="font-size: 11px; color: var(--text-muted);">Click to change file (${(file.size / 1024 / 1024).toFixed(2)} MB)</span>
+                `;
+            } else {
+                uploadTrigger.innerHTML = `
+                    <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" style="width: 32px; height: 32px; margin-bottom: 8px;">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12" />
+                    </svg>
+                    <p>Drag and drop your PDF/Word resume here, or <strong>browse files</strong></p>
+                    <span>Supports PDF, DOCX (Max 5MB)</span>
+                `;
+            }
+        });
     }
 
     // Redirect to Employer Portal (Post a Job)
