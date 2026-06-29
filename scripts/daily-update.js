@@ -141,3 +141,52 @@ Object.entries(catCounts).sort((a,b) => b[1]-a[1]).forEach(([cat, count]) => {
     console.log(`   ${cat}: ${count}`);
 });
 console.log('═══════════════════════════════════════');
+
+// 9. Generate feed.xml for Indeed and LinkedIn XML feed ingestion
+const feedFile = path.join(rootDir, 'feed.xml');
+generateXmlFeed(jobs, feedFile);
+
+function generateXmlFeed(jobsList, filePath) {
+    let xml = '<?xml version="1.0" encoding="utf-8"?>\n';
+    xml += '<source>\n';
+    xml += '  <publisher>GullfJob Portal</publisher>\n';
+    xml += '  <publisherurl>https://smartvision7862.github.io/gulfjobs/</publisherurl>\n';
+    xml += `  <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>\n`;
+    
+    jobsList.forEach(job => {
+        xml += '  <job>\n';
+        xml += `    <title><![CDATA[${job.title}]]></title>\n`;
+        xml += `    <date><![CDATA[${new Date(job.dateAdded || Date.now()).toUTCString()}]]></date>\n`;
+        xml += `    <referencenumber><![CDATA[${job.id}]]></referencenumber>\n`;
+        xml += `    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-${job.id}]]></url>\n`;
+        xml += `    <company><![CDATA[${job.company}]]></company>\n`;
+        
+        let city = "Dubai";
+        let country = "AE";
+        if (job.location) {
+            const parts = job.location.split(',');
+            city = parts[0].trim();
+            if (parts.length > 1) {
+                const countryPart = parts[1].trim().toLowerCase();
+                if (countryPart === "uae") country = "AE";
+                else if (countryPart === "qatar") country = "QA";
+                else if (countryPart === "saudi arabia") country = "SA";
+                else if (countryPart === "kuwait") country = "KW";
+                else if (countryPart === "oman") country = "OM";
+                else if (countryPart === "bahrain") country = "BH";
+            }
+        }
+        
+        xml += `    <city><![CDATA[${city}]]></city>\n`;
+        xml += `    <country><![CDATA[${country}]]></country>\n`;
+        xml += `    <description><![CDATA[${job.description || (job.responsibilities || []).join(' ') || job.title}]]></description>\n`;
+        xml += `    <salary><![CDATA[${job.salary}]]></salary>\n`;
+        xml += `    <category><![CDATA[${job.category}]]></category>\n`;
+        xml += '  </job>\n';
+    });
+    
+    xml += '</source>\n';
+    
+    fs.writeFileSync(filePath, xml, 'utf8');
+    console.log(`📡 XML RSS Job Feed generated at feed.xml (Total jobs: ${jobsList.length})`);
+}

@@ -1,5 +1,95 @@
 [
   {
+    "id": "pool-006-2026-06-29",
+    "title": "Registered Nurse – ICU",
+    "company": "King Faisal Specialist Hospital & Research Centre",
+    "logoLetters": "KF",
+    "location": "Riyadh, Saudi Arabia",
+    "category": "Healthcare",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "SAR 12,000 - 16,000 + Benefits",
+    "featured": true,
+    "description": "King Faisal Specialist Hospital & Research Centre (KFSH&RC) is recruiting ICU Registered Nurses to join our world-class critical care team in Riyadh. Tax-free salary plus accommodation, flights, and healthcare.",
+    "responsibilities": [
+      "Provide high-quality nursing care to critically ill adult ICU patients.",
+      "Monitor patients on mechanical ventilation, vasopressors, and invasive monitoring.",
+      "Administer IV medications, blood products, and complex infusion therapies.",
+      "Collaborate with physicians, intensivists, and multidisciplinary ICU team.",
+      "Respond to deteriorating patients and code blue situations."
+    ],
+    "requirements": [
+      "Bachelor's or Diploma in Nursing from an accredited programme.",
+      "Minimum 2 years of ICU/Critical Care nursing experience.",
+      "BLS and ACLS certification required; CCRN is preferred.",
+      "SCFHS/MOH registration required; support provided for Saudi licensing.",
+      "English fluency required; Arabic is an advantage."
+    ],
+    "applyEmail": "nursing.recruitment@kfshrc.edu.sa",
+    "dateAdded": "2026-06-29",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-005-2026-06-29",
+    "title": "Cloud Solutions Architect",
+    "company": "Microsoft Middle East & Africa",
+    "logoLetters": "MS",
+    "location": "Dubai, UAE",
+    "category": "IT & Tech",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "AED 35,000 - 50,000",
+    "featured": true,
+    "description": "Microsoft MEA is hiring a Cloud Solutions Architect to lead enterprise Azure migrations and cloud-native design for major clients across the UAE, Saudi Arabia, and Qatar.",
+    "responsibilities": [
+      "Design scalable Azure cloud architectures for enterprise digital transformation projects.",
+      "Lead customer workshops on cloud strategy, well-architected frameworks, and security.",
+      "Build proof-of-concept solutions and technical proposals.",
+      "Support pre-sales, presales engineering, and RFP responses.",
+      "Mentor junior architects and upskill client technical teams."
+    ],
+    "requirements": [
+      "Bachelor's degree in Computer Science or Software Engineering.",
+      "Microsoft Certified: Azure Solutions Architect Expert (AZ-305).",
+      "Minimum 7 years of cloud architecture experience.",
+      "Deep expertise in Azure IaaS, PaaS, Kubernetes, and hybrid networking.",
+      "Experience in GCC enterprise accounts is a significant advantage."
+    ],
+    "applyEmail": "careers@microsoft.com",
+    "dateAdded": "2026-06-29",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-004-2026-06-29",
+    "title": "Cybersecurity Analyst",
+    "company": "Ooredoo Group",
+    "logoLetters": "OR",
+    "location": "Doha, Qatar",
+    "category": "IT & Tech",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "QAR 15,000 - 20,000",
+    "featured": false,
+    "description": "Ooredoo Group is hiring a Cybersecurity Analyst to monitor, detect, and respond to threats across its regional telecoms infrastructure and enterprise IT environment.",
+    "responsibilities": [
+      "Monitor SIEM platforms (Splunk, IBM QRadar) for security events and alerts.",
+      "Investigate and triage security incidents using threat intelligence feeds.",
+      "Perform vulnerability assessments and coordinate remediation with IT teams.",
+      "Develop and maintain security runbooks, playbooks, and incident response plans.",
+      "Assist with penetration testing, red team exercises, and SOC operations."
+    ],
+    "requirements": [
+      "Bachelor's degree in Computer Science, Information Security, or related field.",
+      "CompTIA Security+, CEH, or CISSP certification.",
+      "3+ years of SOC/cybersecurity analyst experience.",
+      "Hands-on experience with SIEM, EDR, and vulnerability management tools.",
+      "Knowledge of MITRE ATT&CK framework and threat hunting techniques."
+    ],
+    "applyEmail": "careers@ooredoo.com",
+    "dateAdded": "2026-06-29",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-003-2026-06-29",
     "title": "Commissioning Engineer – Oil & Gas",
     "company": "Wood Group (John Wood Group)",
