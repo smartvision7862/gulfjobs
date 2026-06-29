@@ -197,9 +197,9 @@ function handleGformSettingsSubmit(event) {
 
 // Load existing settings into form fields
 function loadGformSettings() {
-    const savedChannel = localStorage.getItem("recruiter_delivery_channel") || "email";
+    const savedChannel = localStorage.getItem("recruiter_delivery_channel") || "google_sheets";
     const savedEmail = localStorage.getItem("recruiter_email") || "smartvisionwll@gmail.com";
-    const savedSheetUrl = localStorage.getItem("recruiter_sheet_url") || "";
+    const savedSheetUrl = localStorage.getItem("recruiter_sheet_url") || "https://script.google.com/macros/s/AKfycbyHF-bic8vjRSJXrOW5S54Fmg5aUpa0hCoXzb9i0jrqmNhr-_5aemCX1KmloRgPMccI/exec";
     
     document.getElementById("delivery-channel").value = savedChannel;
     document.getElementById("gform-url").value = savedEmail;
