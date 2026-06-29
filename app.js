@@ -2753,3 +2753,223 @@ function setupEventListeners() {
         });
     }
 }
+
+// ── AI Voice Chatbot Controller Logic ─────────────────────────
+let ttsEnabled = false;
+let recognition = null;
+let isListening = false;
+
+// Initialise speech recognition if supported
+if ("SpeechRecognition" in window || "webkitSpeechRecognition" in window) {
+    const SpeechGen = window.SpeechRecognition || window.webkitSpeechRecognition;
+    recognition = new SpeechGen();
+    recognition.continuous = false;
+    recognition.lang = "en-US";
+    recognition.interimResults = false;
+    
+    recognition.onstart = () => {
+        isListening = true;
+        const mic = document.getElementById("btn-chatbot-mic");
+        if (mic) mic.classList.add("active");
+        const wave = document.getElementById("chatbot-voice-wave");
+        if (wave) wave.style.display = "flex";
+    };
+    
+    recognition.onend = () => {
+        isListening = false;
+        const mic = document.getElementById("btn-chatbot-mic");
+        if (mic) mic.classList.remove("active");
+        const wave = document.getElementById("chatbot-voice-wave");
+        if (wave) wave.style.display = "none";
+    };
+    
+    recognition.onresult = (event) => {
+        const speechToText = event.results[0][0].transcript;
+        const input = document.getElementById("chatbot-input");
+        if (input) {
+            input.value = speechToText;
+            sendChatMessage();
+        }
+    };
+    
+    recognition.onerror = (e) => {
+        console.error("Speech recognition error:", e.error);
+        isListening = false;
+        const mic = document.getElementById("btn-chatbot-mic");
+        if (mic) mic.classList.remove("active");
+        const wave = document.getElementById("chatbot-voice-wave");
+        if (wave) wave.style.display = "none";
+    };
+}
+
+window.toggleSpeechInput = function() {
+    if (!recognition) {
+        alert("Voice recognition is not supported in this browser. Please try Google Chrome.");
+        return;
+    }
+    if (isListening) {
+        recognition.stop();
+    } else {
+        recognition.start();
+    }
+};
+
+window.toggleChatbot = function() {
+    const container = document.getElementById("chatbot-container");
+    if (!container) return;
+    if (container.style.display === "flex") {
+        container.style.display = "none";
+        if (window.speechSynthesis) window.speechSynthesis.cancel();
+    } else {
+        container.style.display = "flex";
+        const msgBox = document.getElementById("chatbot-messages");
+        if (msgBox) msgBox.scrollTop = msgBox.scrollHeight;
+    }
+};
+
+window.speakText = function(text) {
+    if (!ttsEnabled || !window.speechSynthesis) return;
+    window.speechSynthesis.cancel();
+    // Clean text of brackets or tags before speaking
+    const cleanText = text.replace(/<[^>]*>/g, "").replace(/["']/g, "");
+    const utterance = new SpeechSynthesisUtterance(cleanText);
+    utterance.lang = "en-US";
+    window.speechSynthesis.speak(utterance);
+};
+
+window.toggleTTS = function() {
+    ttsEnabled = !ttsEnabled;
+    const onIcon = document.getElementById("tts-icon-on");
+    const offIcon = document.getElementById("tts-icon-off");
+    
+    if (ttsEnabled) {
+        if (onIcon) onIcon.style.display = "none";
+        if (offIcon) offIcon.style.display = "block";
+        showToast("Voice Feedback On", "The assistant will read responses aloud.");
+        speakText("Voice response activated.");
+    } else {
+        if (onIcon) onIcon.style.display = "block";
+        if (offIcon) offIcon.style.display = "none";
+        if (window.speechSynthesis) window.speechSynthesis.cancel();
+        showToast("Voice Feedback Muted", "Assistant audio is turned off.");
+    }
+};
+
+window.handleChatInputKey = function(event) {
+    if (event.key === "Enter") {
+        sendChatMessage();
+    }
+};
+
+window.sendChatMessage = function() {
+    const input = document.getElementById("chatbot-input");
+    if (!input) return;
+    const text = input.value.trim();
+    if (!text) return;
+    
+    appendChatMessage(text, "user-message");
+    input.value = "";
+    
+    const botResponse = generateBotResponse(text);
+    
+    setTimeout(() => {
+        appendChatMessage(botResponse, "bot-message");
+        speakText(botResponse);
+    }, 600);
+};
+
+function appendChatMessage(text, className) {
+    const msgBox = document.getElementById("chatbot-messages");
+    if (!msgBox) return;
+    const msgDiv = document.createElement("div");
+    msgDiv.className = `chat-message ${className}`;
+    msgDiv.textContent = text;
+    msgBox.appendChild(msgDiv);
+    msgBox.scrollTop = msgBox.scrollHeight;
+}
+
+function generateBotResponse(query) {
+    const q = query.toLowerCase().trim();
+    
+    if (q.includes("hello") || q.includes("hi") || q.includes("hey") || q.includes("greetings")) {
+        return "Hello! I am your GullfJob AI assistant. I can help you search GCC jobs, check salaries, or look up requirements. What are you looking for today?";
+    }
+    
+    if (q.includes("how are you") || q.includes("who are you")) {
+        return "I am the GullfJob AI Career Assistant, connected live to our database of verified Gulf job listings to help you apply easily.";
+    }
+    
+    if (q.includes("total jobs") || q.includes("how many jobs") || q.includes("active vacancies")) {
+        return `We currently have ${jobDatabase.length} active verified job vacancies across the GCC region, including Dubai, Qatar, Kuwait, and Riyadh.`;
+    }
+    
+    let foundJobs = [];
+    const categories = ["engineering", "it & tech", "healthcare", "hospitality", "sales & marketing", "safety", "finance"];
+    let matchedCategory = "";
+    
+    categories.forEach(cat => {
+        if (q.includes(cat) || (cat === "it & tech" && (q.includes("it ") || q.includes("technology") || q.includes("software")))) {
+            matchedCategory = cat;
+        }
+    });
+    
+    if (matchedCategory) {
+        foundJobs = jobDatabase.filter(j => j.category.toLowerCase() === matchedCategory);
+    } else {
+        foundJobs = jobDatabase.filter(j => {
+            return q.includes(j.title.toLowerCase()) || 
+                   j.title.toLowerCase().split(" ").some(word => word.length > 4 && q.includes(word)) ||
+                   q.includes(j.company.toLowerCase());
+        });
+    }
+    
+    if (foundJobs.length === 0) {
+        const locations = ["dubai", "qatar", "saudi", "riyadh", "kuwait", "oman", "muscat", "doha", "abu dhabi"];
+        let matchedLoc = "";
+        locations.forEach(loc => {
+            if (q.includes(loc)) matchedLoc = loc;
+        });
+        if (matchedLoc) {
+            foundJobs = jobDatabase.filter(j => j.location.toLowerCase().includes(matchedLoc));
+        }
+    }
+    
+    // Requirements request check
+    if (q.includes("require") || q.includes("need") || q.includes("qualification") || q.includes("criteria") || q.includes("skill")) {
+        let targetJob = null;
+        jobDatabase.forEach(j => {
+            if (q.includes(j.title.toLowerCase()) || j.title.toLowerCase().split(" ").some(w => w.length > 4 && q.includes(w))) {
+                targetJob = j;
+            }
+        });
+        
+        if (targetJob) {
+            const reqs = (targetJob.requirements || []).slice(0, 3).join(", ");
+            return `The requirements for ${targetJob.title} at ${targetJob.company} include: ${reqs}. You can read the full list by clicking 'View Details' on their card.`;
+        }
+        return "Which job requirements would you like to view? For example, say: 'What are the requirements for Quantity Surveyor?'";
+    }
+    
+    // Salary request check
+    if (q.includes("salary") || q.includes("pay") || q.includes("earn") || q.includes("money")) {
+        let targetJob = null;
+        jobDatabase.forEach(j => {
+            if (q.includes(j.title.toLowerCase()) || j.title.toLowerCase().split(" ").some(w => w.length > 4 && q.includes(w))) {
+                targetJob = j;
+            }
+        });
+        
+        if (targetJob) {
+            return `The monthly salary for the ${targetJob.title} role at ${targetJob.company} is ${targetJob.salary}.`;
+        }
+        return "Which job salary would you like to check? For example, try: 'What is the salary for HSE Officer?'";
+    }
+    
+    if (foundJobs.length > 0) {
+        const count = foundJobs.length;
+        const sample = foundJobs[0];
+        return `I found ${count} active role${count > 1 ? 's' : ''}! For example: the "${sample.title}" role at ${sample.company} in ${sample.location} with a salary of ${sample.salary}.`;
+    }
+    
+    return "I couldn't find a matching job for that specific query. Try asking about a category (like 'Engineering' or 'IT'), a city (like 'Dubai' or 'Riyadh'), or specific titles.";
+}

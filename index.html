@@ -637,6 +637,71 @@
             <p>Your action completed successfully.</p>
         </div>
     </div>
+    <!-- AI Voice Chatbot Widgets -->
+    <div class="chatbot-trigger" id="chatbot-trigger" onclick="toggleChatbot()" aria-label="Open AI Assistant">
+        <svg style="width: 24px; height: 24px;" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z" />
+        </svg>
+    </div>
+
+    <div class="chatbot-container" id="chatbot-container">
+        <div class="chatbot-header">
+            <div style="display:flex; align-items:center; gap: 8px;">
+                <div class="bot-avatar">🤖</div>
+                <div>
+                    <h4 style="margin:0; font-size:14px; font-weight:600; color:var(--text-main);">GullfJob AI Assistant</h4>
+                    <span style="font-size:11px; color:#10b981; display:flex; align-items:center; gap:4px; margin-top:2px;">
+                        <span class="pulse-dot"></span> Online
+                    </span>
+                </div>
+            </div>
+            <div style="display:flex; align-items:center; gap: 6px;">
+                <!-- TTS Audio Speak Out Loud Toggle Button -->
+                <button class="chatbot-header-btn" id="btn-tts-toggle" onclick="toggleTTS()" title="Text-to-Speech (Speak Out Loud)">
+                    <svg id="tts-icon-on" style="width:16px;height:16px;" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z" />
+                    </svg>
+                    <svg id="tts-icon-off" style="width:16px;height:16px;display:none;" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15zm11.293-9L12 10.707m0 2.586L16.879 18" />
+                    </svg>
+                </button>
+                <button class="chatbot-header-btn" onclick="toggleChatbot()" title="Close Assistant">
+                    <svg style="width:16px;height:16px;" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                </button>
+            </div>
+        </div>
+        
+        <div class="chatbot-messages" id="chatbot-messages">
+            <div class="chat-message bot-message">
+                Hello! I am GullfJob AI, your virtual career assistant. Ask me anything about our active GCC job listings or requirements. You can also click the microphone to speak to me!
+            </div>
+        </div>
+        
+        <div class="chatbot-voice-wave" id="chatbot-voice-wave">
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+            <span style="font-size:12px; color:var(--text-secondary); margin-left: 10px;">Listening... Speak now</span>
+        </div>
+        
+        <div class="chatbot-input-area">
+            <button class="chatbot-mic-btn" id="btn-chatbot-mic" onclick="toggleSpeechInput()" title="Speak with Voice">
+                <svg style="width:18px;height:18px;" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z" />
+                </svg>
+            </button>
+            <input type="text" id="chatbot-input" placeholder="Type a message or click mic..." onkeydown="handleChatInputKey(event)">
+            <button class="chatbot-send-btn" onclick="sendChatMessage()" title="Send Message">
+                <svg style="width:18px;height:18px;" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                </svg>
+            </button>
+        </div>
+    </div>
 
     <script>
         function openLoginModal() {
