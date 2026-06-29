@@ -2891,6 +2891,35 @@ function appendChatMessage(text, className) {
 function generateBotResponse(query) {
     const q = query.toLowerCase().trim();
     
+    // --- Smart Vision Parent Company Service Q&As ---
+    if (q.includes("smart vision") || q.includes("smartvision") || q.includes("parent company")) {
+        return "Smart Vision W.L.L. is a leading engineering systems integrator and contracting firm in Qatar. They are certified Grade A by Civil Defence (QCD) and approved by the Ministry of Interior Security Systems Department (MOI-SSD). Visit them at https://smartvisionwll.netlify.app/ for CCTV, access control, MEP, IT, and manpower supply services.";
+    }
+    
+    if (q.includes("cctv") || q.includes("camera") || q.includes("surveillance")) {
+        return "Smart Vision Qatar is a certified MOI-SSD approved provider of premium high-security IP CCTV surveillance systems. They offer complete camera layouts, installations, and maintenance agreements for corporate facilities and residential blocks. Learn more at https://smartvisionwll.netlify.app/.";
+    }
+    
+    if (q.includes("access control") || q.includes("biometric") || q.includes("time attendance") || q.includes("fingerprint") || q.includes("facial recognition")) {
+        return "Smart Vision offers secure Access Control Systems in Qatar, including biometric readers, fingerprint scanners, facial recognition hubs, card readers, and unified time & attendance software to manage staff tracking and entrance security. Details at https://smartvisionwll.netlify.app/.";
+    }
+    
+    if (q.includes("av ") || q.includes("audio visual") || q.includes("public address") || q.includes("lighting control")) {
+        return "Smart Vision delivers premium ELV integrations in Qatar, including Public Address (PA/GA) acoustics, smart lighting controls, audio-visual conference panels, and automated Building Management Systems (BMS). Details at https://smartvisionwll.netlify.app/.";
+    }
+    
+    if (q.includes("mep") || q.includes("hvac") || q.includes("electrical") || q.includes("plumbing") || q.includes("fire fighting") || q.includes("fire alarm") || q.includes("bms")) {
+        return "Smart Vision is a Grade A Civil Defence (QCD) MEP contractor in Qatar. They deliver HVAC (Heating, Ventilation & Air Conditioning) climate controls, electrical power grids, plumbing hydraulics, and certified fire alarm & firefighting sprinkler systems. Details at https://smartvisionwll.netlify.app/.";
+    }
+    
+    if (q.includes("it solutions") || q.includes("networking") || q.includes("cabling") || q.includes("structured cabling") || q.includes("network infrastructure") || q.includes("it support")) {
+        return "Smart Vision provides enterprise IT Infrastructure Solutions in Qatar. Services include structured copper & fiber cabling, routing/switching fabric deployment, server setups, and active IT support. Details at https://smartvisionwll.netlify.app/.";
+    }
+    
+    if (q.includes("manpower") || q.includes("labor") || q.includes("staffing") || q.includes("manpower supply")) {
+        return "Smart Vision is a leading technical Manpower Supply contractor in Qatar, providing highly skilled engineering professionals, HVAC techs, certified electricians, plumbers, welders, and general laborers for short or long-term project wrapping. Details at https://smartvisionwll.netlify.app/.";
+    }
+
     if (q.includes("hello") || q.includes("hi") || q.includes("hey") || q.includes("greetings")) {
         return "Hello! I am your GullfJob AI assistant. I can help you search GCC jobs, check salaries, or look up requirements. What are you looking for today?";
     }
