@@ -1,5 +1,95 @@
 [
   {
+    "id": "pool-015-2026-07-01",
+    "title": "Digital Marketing Manager",
+    "company": "Dubai Tourism (DTCM)",
+    "logoLetters": "DT",
+    "location": "Dubai, UAE",
+    "category": "Sales & Marketing",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 18,000 - 24,000",
+    "featured": false,
+    "description": "Dubai's Department of Tourism and Commerce Marketing (DTCM) is looking for a Digital Marketing Manager to lead digital campaigns, social media strategy, and influencer marketing promoting Dubai as a global destination.",
+    "responsibilities": [
+      "Develop and execute integrated digital marketing campaigns across SEO, SEM, and social media.",
+      "Manage influencer partnerships and content creator programmes.",
+      "Analyse campaign performance through Google Analytics, Meta Business Suite, and TikTok Analytics.",
+      "Lead the team managing Dubai Tourism's multilingual social media accounts.",
+      "Collaborate with regional offices on localised digital marketing strategies."
+    ],
+    "requirements": [
+      "Bachelor's degree in Marketing, Digital Media, or Communications.",
+      "4+ years of digital marketing experience, preferably in travel, hospitality, or destination marketing.",
+      "Google Ads and Meta Blueprint certification.",
+      "Strong data analytics skills and experience with marketing automation tools.",
+      "Multilingual skills (Arabic, Chinese, or Russian) are highly valued."
+    ],
+    "applyEmail": "careers@dtcm.gov.ae",
+    "dateAdded": "2026-07-01",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-014-2026-07-01",
+    "title": "General Surgeon",
+    "company": "Hamad Medical Corporation",
+    "logoLetters": "HM",
+    "location": "Doha, Qatar",
+    "category": "Healthcare",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "QAR 55,000 - 75,000 + Full Package",
+    "featured": true,
+    "description": "Hamad Medical Corporation (HMC), Qatar's premier government healthcare system, is recruiting Consultant General Surgeons for Hamad General Hospital, Doha.",
+    "responsibilities": [
+      "Provide general surgical care including emergency, elective, and laparoscopic procedures.",
+      "Lead multidisciplinary surgical team rounds and case conferences.",
+      "Perform advanced laparoscopic, colorectal, and hepatobiliary surgery.",
+      "Supervise and mentor surgical residents and registrars.",
+      "Participate in research, audit, and quality improvement programmes."
+    ],
+    "requirements": [
+      "MBBS + FRCS, FACS, FRACS, or equivalent surgical board certification.",
+      "Minimum 5 years post-CCT or post-fellowship experience as a general surgery consultant.",
+      "Qatar Council for Healthcare Practitioners (QCHP) registration required.",
+      "Advanced laparoscopic surgery skills required.",
+      "Academic/research background is preferred."
+    ],
+    "applyEmail": "medical.staffing@hmc.org.qa",
+    "dateAdded": "2026-07-01",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-013-2026-07-01",
+    "title": "Data Scientist",
+    "company": "First Abu Dhabi Bank (FAB)",
+    "logoLetters": "FA",
+    "location": "Abu Dhabi, UAE",
+    "category": "IT & Tech",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 25,000 - 32,000",
+    "featured": true,
+    "description": "First Abu Dhabi Bank (FAB) is hiring a Data Scientist to build predictive models and AI solutions for credit risk, fraud detection, and customer behaviour analytics.",
+    "responsibilities": [
+      "Develop machine learning models for credit risk scoring and fraud detection.",
+      "Analyse large banking datasets to identify patterns and business insights.",
+      "Deploy models into production using MLflow, Docker, and Azure ML.",
+      "Collaborate with business stakeholders to translate requirements into analytical solutions.",
+      "Communicate model outputs and business impact to senior leadership."
+    ],
+    "requirements": [
+      "Master's degree in Data Science, Statistics, or Computer Science.",
+      "3+ years of data science experience in financial services or banking.",
+      "Proficiency in Python (pandas, scikit-learn, XGBoost, LightGBM).",
+      "Experience with SQL, Spark, and cloud ML platforms (Azure ML or AWS SageMaker).",
+      "Knowledge of credit risk, Basel II/III, or IFRS 9 is a strong plus."
+    ],
+    "applyEmail": "careers@bankfab.com",
+    "dateAdded": "2026-07-01",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-012-2026-06-30",
     "title": "Senior Procurement Engineer",
     "company": "Fluor Corporation",
@@ -27,7 +117,7 @@
     ],
     "applyEmail": "careers@fluor.com",
     "dateAdded": "2026-06-30",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-011-2026-06-30",
@@ -57,7 +147,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-06-30",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-010-2026-06-30",
@@ -87,7 +177,7 @@
     ],
     "applyEmail": "careers@aecom.com",
     "dateAdded": "2026-06-30",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-009-2026-06-29",
@@ -117,7 +207,7 @@
     ],
     "applyEmail": "careers@waldorfastoria.com",
     "dateAdded": "2026-06-29",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-008-2026-06-29",
@@ -147,7 +237,7 @@
     ],
     "applyEmail": "culinary.careers@rosewoodhotels.com",
     "dateAdded": "2026-06-29",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-007-2026-06-29",
@@ -177,7 +267,7 @@
     ],
     "applyEmail": "careers@asterhospitals.in",
     "dateAdded": "2026-06-29",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-006-2026-06-29",
@@ -207,7 +297,7 @@
     ],
     "applyEmail": "nursing.recruitment@kfshrc.edu.sa",
     "dateAdded": "2026-06-29",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-005-2026-06-29",
@@ -237,7 +327,7 @@
     ],
     "applyEmail": "careers@microsoft.com",
     "dateAdded": "2026-06-29",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-004-2026-06-29",
@@ -267,7 +357,7 @@
     ],
     "applyEmail": "careers@ooredoo.com",
     "dateAdded": "2026-06-29",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-003-2026-06-29",
@@ -297,7 +387,7 @@
     ],
     "applyEmail": "recruitment@woodplc.com",
     "dateAdded": "2026-06-29",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-002-2026-06-29",
@@ -327,7 +417,7 @@
     ],
     "applyEmail": "careers@se.com.sa",
     "dateAdded": "2026-06-29",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-001-2026-06-29",
@@ -357,7 +447,7 @@
     ],
     "applyEmail": "careers@parsons.com",
     "dateAdded": "2026-06-29",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "job-001",
@@ -369,7 +459,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "AED 18,000 - 22,000",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": true,
     "description": "We are seeking an experienced Senior MEP Design Engineer to lead design activities for luxury residential and commercial towers in Dubai. The ideal candidate will be responsible for preparing schematics, detail designs, and coordinating multi-disciplinary projects.",
     "responsibilities": [
@@ -398,7 +488,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "QAR 8,000 - 10,000",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": true,
     "description": "We are looking for a skilled IT Officer to support and maintain our organisation's IT infrastructure, ensuring smooth day-to-day operations and timely technical support to users in Lusail.",
     "responsibilities": [
@@ -427,7 +517,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "AED 15,000 - 18,000",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": true,
     "description": "We are seeking a senior Enterprise Network Engineer specializing in Cisco Application Centric Infrastructure (ACI) to manage and optimize our cloud data center networking layouts.",
     "responsibilities": [
@@ -456,7 +546,7 @@
     "jobType": "Remote",
     "experience": "Mid Level",
     "salary": "AED 10,000 - 13,000",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": false,
     "description": "WB Hire Digital is seeking a Remote IT Support Engineer to deliver professional level remote desktop, server, and directory assistance to our corporate clients during UAE hours.",
     "responsibilities": [
@@ -485,7 +575,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "AED 2,500 - 2,800",
-    "postedDate": "6 days ago",
+    "postedDate": "1 week ago",
     "featured": true,
     "description": "BEMCO is hiring CNC Machine Operators for our heavy manufacturing facility in Abu Dhabi. The successful candidates will configure and run CNC machines to fabricate metal parts according to engineering specs.",
     "responsibilities": [
@@ -513,7 +603,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "AED 1,200 - 1,500",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": false,
     "description": "We are seeking active Industrial Electricians to lay cabling, install switches, and troubleshoot electrical systems on our large commercial construction sites in Dubai.",
     "responsibilities": [
@@ -541,7 +631,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "KWD 380 - 420",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": true,
     "description": "Kuwait National Hospital is seeking qualified Staff Nurses to provide high-quality care across our general wards. We offer attractive benefits and support for MOH licensing.",
     "responsibilities": [
@@ -569,7 +659,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "SAR 3,400 - 4,500",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": false,
     "description": "A high-end catering and confectionery house in Riyadh is hiring a pastry and bakery cook to prepare luxury desserts, artisanal breads, and pastries for VIP events.",
     "responsibilities": [
@@ -597,7 +687,7 @@
     "jobType": "Full-time",
     "experience": "Entry Level",
     "salary": "SAR 2,500 - 2,700",
-    "postedDate": "6 days ago",
+    "postedDate": "1 week ago",
     "featured": true,
     "description": "Join our vibrant cafe team in Jeddah. We are hiring a passionate Specialty Coffee Barista to prepare artisanal brews and maintain a warm, welcoming customer atmosphere.",
     "responsibilities": [
@@ -625,7 +715,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "QAR 6,000 - 8,000",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": false,
     "description": "Rumi Safety is a leading provider of safety workwear and PPE products. We are seeking a B2B Sales Executive to promote our catalogs to major contracting and oilfield sites in Qatar.",
     "responsibilities": [
@@ -653,7 +743,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "SAR 14,000 - 18,000",
-    "postedDate": "6 days ago",
+    "postedDate": "1 week ago",
     "featured": true,
     "description": "GulfTech Innovations is building the next-generation fintech solutions for the Saudi market. We are looking for a Full Stack Developer proficient in React.js and Node.js to join our growing engineering team in Riyadh.",
     "responsibilities": [
@@ -682,7 +772,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "QAR 16,000 - 20,000",
-    "postedDate": "6 days ago",
+    "postedDate": "1 week ago",
     "featured": true,
     "description": "Join a prestigious fine-dining establishment in the Pearl, Doha. We are looking for an energetic, service-oriented Restaurant General Manager to run daily operations, manage budgets, and deliver exceptional guest experiences.",
     "responsibilities": [
@@ -711,7 +801,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "BHD 1,200 - 1,600",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": false,
     "description": "Matrix Telecom is a leading enterprise connectivity provider in Bahrain. We are seeking a results-driven B2B Sales Executive to acquire new corporate clients and upsell Cloud and Cyber Security solutions.",
     "responsibilities": [
@@ -740,7 +830,7 @@
     "jobType": "Full-time",
     "experience": "Entry Level",
     "salary": "OMR 900 - 1,200",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": false,
     "description": "MedCare Specialist Hospital is an accredited healthcare facility in Muscat. We are seeking caring, dedicated Staff Nurses to join our pediatric department and provide excellent clinical care to children and infants.",
     "responsibilities": [
@@ -769,7 +859,7 @@
     "jobType": "Remote",
     "experience": "Mid Level",
     "salary": "KWD 700 - 950",
-    "postedDate": "6 days ago",
+    "postedDate": "1 week ago",
     "featured": true,
     "description": "We are an innovative media agency representing luxury retail brands in the GCC. We are hiring a remote-first Digital Marketing Specialist to design, implement, and track growth campaigns on social and search platforms.",
     "responsibilities": [
@@ -798,7 +888,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "AED 22,000 - 28,000",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": true,
     "description": "ShieldNet protects critical financial institutions in the GCC. We are seeking a seasoned Cyber Security Analyst to join our Security Operations Center (SOC) in Dubai, focusing on proactive threat hunting and incident response.",
     "responsibilities": [
@@ -856,7 +946,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "Negotiable",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": false,
     "description": "BCIC Swiss GmbH (Best Connect International Company) is seeking a skilled and bilingual IT Support Engineer to join our onsite team in Tokyo, Japan. In this role, you will bridge the gap between technical operations and user support, ensuring seamless IT functionality for our corporate environment.",
     "responsibilities": [
@@ -884,7 +974,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "Competitive Package",
-    "postedDate": "6 days ago",
+    "postedDate": "1 week ago",
     "featured": true,
     "description": "INTALEQ is seeking a Head of Venue Technology Delivery to lead the delivery of venue technology projects across stadiums, venues, and major events, ensuring successful execution from planning and design through deployment and operational handover.",
     "responsibilities": [
@@ -912,7 +1002,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "Attractive Salary + Housing + Transport",
-    "postedDate": "6 days ago",
+    "postedDate": "1 week ago",
     "featured": false,
     "description": "A leading Operation & Maintenance Company in Saudi Arabia is hiring a Project Low Current Engineer in Dammam to design and oversee low-current systems including ICT, CCTV, access control, fire alarms, sound and PA, and BMS systems.",
     "responsibilities": [
@@ -941,7 +1031,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "Competitive + Relocation Support",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": true,
     "description": "MagnaTechs is looking for a talented Senior Site Engineer to lead the delivery of life safety and communication systems across projects in Amman, Jordan. The role requires hands-on expertise in PA/VA, fire alarm, CCTV, and access control systems.",
     "responsibilities": [
@@ -970,7 +1060,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "Competitive Package",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": true,
     "description": "A leading Qatar-based firm is seeking a highly experienced Senior BMS/ELV Engineer to design, commission, and oversee Building Management Systems and Extra Low Voltage systems including CCTV, access control, fire alarm, PA, and structured cabling on major construction projects.",
     "responsibilities": [
@@ -999,7 +1089,7 @@
     "jobType": "Full-time",
     "experience": "Entry Level",
     "salary": "Entry Package",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": false,
     "description": "CandidZone is looking for a motivated Recruiter Intern to join our HR team in Qatar. This is a great opportunity for recent graduates to gain hands-on experience in recruitment, candidate sourcing, and HR coordination.",
     "responsibilities": [
@@ -1029,7 +1119,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "Competitive Package",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": true,
     "description": "Propel Consult is hiring for a global cybersecurity and compliance firm for multiple roles in Security Systems and ELV (Extra Low Voltage) Solutions across Riyadh and Jeddah, Saudi Arabia. Open positions include Project Manager, Assistant Manager, Admin Officer, HSE Officer, and Warehouse In-Charge.",
     "responsibilities": [
@@ -1058,7 +1148,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "AED 10,000 - 14,000",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": true,
     "description": "Al Habtoor Engineering is seeking a Civil Site Engineer to oversee construction activities for high-rise residential and commercial developments across Dubai. You will be responsible for daily site supervision, quality control, and coordination with the project management team.",
     "responsibilities": [
@@ -1087,7 +1177,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "SAR 12,000 - 16,000",
-    "postedDate": "6 days ago",
+    "postedDate": "1 week ago",
     "featured": false,
     "description": "Saudi Electricity Solutions is hiring an Electrical Engineer specialising in power systems for large-scale infrastructure projects across Riyadh. The successful candidate will design, install, and commission HV/LV systems and transformers.",
     "responsibilities": [
@@ -1116,7 +1206,7 @@
     "jobType": "Contract",
     "experience": "Mid Level",
     "salary": "BHD 1,200 - 1,600",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": false,
     "description": "Gulf Inspection Services is looking for a QA/QC Inspector specialising in structural steel fabrication and erection for ongoing marine and industrial projects in Bahrain.",
     "responsibilities": [
@@ -1145,7 +1235,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "OMR 1,800 - 2,500",
-    "postedDate": "6 days ago",
+    "postedDate": "1 week ago",
     "featured": true,
     "description": "Oman Construction Group requires an experienced HSE Manager to lead all health, safety, and environmental activities across multiple building construction projects in Muscat. You will implement and maintain an ISO 45001-compliant HSE Management System.",
     "responsibilities": [
@@ -1174,7 +1264,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "KWD 650 - 900",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": false,
     "description": "RedLine Contracting is seeking an HSE Officer to implement safety procedures and ensure a safe working environment across construction sites in Kuwait City. The role involves daily site inspections, permit-to-work management, and safety training coordination.",
     "responsibilities": [
@@ -1203,7 +1293,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "AED 22,000 - 28,000",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": true,
     "description": "Turner & Townsend is hiring a Senior Quantity Surveyor to join our project management consultancy team in Dubai, working on prestigious hospitality, commercial, and mixed-use developments.",
     "responsibilities": [
@@ -1232,7 +1322,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "AED 25,000 - 32,000",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": true,
     "description": "Fujitsu Middle East is looking for a Cloud Infrastructure Architect to design, build, and manage enterprise cloud environments for large-scale clients across banking, government, and telecom sectors in the UAE.",
     "responsibilities": [
@@ -1261,7 +1351,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "AED 16,000 - 21,000",
-    "postedDate": "6 days ago",
+    "postedDate": "1 week ago",
     "featured": true,
     "description": "TAQA is seeking a Cybersecurity Analyst to protect critical energy infrastructure from cyber threats. You will monitor security events, respond to incidents, and improve the organization's overall security posture.",
     "responsibilities": [
@@ -1290,7 +1380,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "AED 18,000 - 24,000",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": false,
     "description": "Careem is hiring a Full Stack Developer to join the product engineering team. You will build scalable features for our super-app platform used by millions of users across the MENA region.",
     "responsibilities": [
@@ -1319,7 +1409,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "SAR 18,000 - 24,000",
-    "postedDate": "6 days ago",
+    "postedDate": "1 week ago",
     "featured": false,
     "description": "stc is seeking a Data Engineer to build and maintain scalable data pipelines for our analytics platform. You will work with large datasets from telecom networks, CRM systems, and billing engines to power business intelligence dashboards.",
     "responsibilities": [
@@ -1348,7 +1438,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "QAR 9,000 - 12,000 + Benefits",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": true,
     "description": "Hamad Medical Corporation is recruiting experienced ICU Registered Nurses to join our critical care teams in Doha. Competitive tax-free salary, furnished accommodation, and annual flights are provided.",
     "responsibilities": [
@@ -1406,7 +1496,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "AED 35,000 - 50,000",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": true,
     "description": "Aster DM Healthcare is hiring a Consultant Radiologist for our flagship hospital in Dubai. You will provide specialist diagnostic radiology services covering CT, MRI, ultrasound, fluoroscopy, and interventional procedures.",
     "responsibilities": [
@@ -1435,7 +1525,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "AED 40,000 - 55,000 + Benefits",
-    "postedDate": "6 days ago",
+    "postedDate": "1 week ago",
     "featured": true,
     "description": "Rotana Hotels & Resorts is seeking an accomplished Hotel General Manager to lead a landmark 5-star property in Abu Dhabi. The successful candidate will drive revenue performance, guest satisfaction, and team development across all departments.",
     "responsibilities": [
@@ -1464,7 +1554,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "AED 22,000 - 30,000",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": true,
     "description": "Jumeirah Group is looking for an innovative Executive Chef to lead culinary operations across multiple F&B outlets within one of our iconic Dubai properties. You will craft exceptional dining experiences and lead a talented kitchen brigade.",
     "responsibilities": [
@@ -1493,7 +1583,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "QAR 8,000 - 11,000",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": false,
     "description": "Marriott International is hiring a Front Office Manager for a flagship property in Doha. You will lead the front desk, concierge, bell desk, and reservations teams to deliver an outstanding arrival and departure experience.",
     "responsibilities": [
@@ -1522,7 +1612,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "AED 14,000 - 18,000 + Commission",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": false,
     "description": "GEMS Education is recruiting a B2B Sales Manager to develop and manage corporate school enrolment partnerships across UAE businesses, multinational companies, and government entities in Dubai.",
     "responsibilities": [
@@ -1551,7 +1641,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "AED 16,000 - 22,000",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": true,
     "description": "Chalhoub Group, the Middle East's leading luxury retail partner, is hiring a Digital Marketing Manager to lead performance marketing, social media strategy, and e-commerce growth for our luxury fashion and beauty brands.",
     "responsibilities": [
@@ -1580,7 +1670,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "AED 20,000 - 26,000",
-    "postedDate": "6 days ago",
+    "postedDate": "1 week ago",
     "featured": false,
     "description": "Arabtec Construction is seeking an experienced Procurement Manager to lead the sourcing, tendering, and purchasing activities for major building and infrastructure projects in Abu Dhabi.",
     "responsibilities": [
@@ -1609,7 +1699,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "AED 16,000 - 22,000",
-    "postedDate": "3 days ago",
+    "postedDate": "4 days ago",
     "featured": true,
     "description": "Arup Middle East invites applications from talented Structural Design Engineers to join the structures team in Dubai. You will work on a diverse portfolio of iconic buildings, bridges, and infrastructure projects across the GCC.",
     "responsibilities": [
@@ -1638,7 +1728,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "OMR 1,400 - 1,900",
-    "postedDate": "3 days ago",
+    "postedDate": "4 days ago",
     "featured": true,
     "description": "Galfar Engineering & Contracting is seeking a Planning Engineer to manage project scheduling and progress monitoring for road infrastructure and civil construction projects in Oman.",
     "responsibilities": [
@@ -1668,7 +1758,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "AED 12,000 - 16,000",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": false,
     "description": "Drake & Scull International is hiring a MEP Coordinator to manage the coordination of mechanical, electrical, and plumbing systems for large mixed-use development projects in Dubai.",
     "responsibilities": [
@@ -1698,7 +1788,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "QAR 18,000 - 24,000",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": true,
     "description": "Technip Energies is looking for a Piping Design Engineer to join our Doha engineering centre supporting LNG and offshore oil & gas projects. You will produce detailed piping layouts, isometrics, and stress analysis reports.",
     "responsibilities": [
@@ -1728,7 +1818,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "QAR 10,000 - 14,000",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": true,
     "description": "QatarEnergy is seeking a Safety Officer to support HSSE activities across onshore and offshore oil & gas facilities. The role involves implementing safety programs, conducting audits, and ensuring compliance with QatarEnergy HSE standards.",
     "responsibilities": [
@@ -1758,7 +1848,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "AED 20,000 - 27,000",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": true,
     "description": "ABB Ltd. Middle East is recruiting a SCADA / Control Systems Engineer to design, integrate, and commission automation and control systems for utilities and oil & gas clients across Abu Dhabi.",
     "responsibilities": [
@@ -1788,7 +1878,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "AED 16,000 - 20,000",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": false,
     "description": "du Telecom is hiring a Network & Infrastructure Engineer to manage and optimise core network infrastructure supporting enterprise and carrier-grade telecommunications services across the UAE.",
     "responsibilities": [
@@ -1818,7 +1908,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "SAR 22,000 - 30,000",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": true,
     "description": "Deloitte Middle East is seeking a Senior SAP S/4HANA FICO Consultant to join our technology advisory practice in Riyadh, supporting large enterprise transformation programs for major Saudi organisations.",
     "responsibilities": [
@@ -1848,7 +1938,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "AED 18,000 - 23,000",
-    "postedDate": "3 days ago",
+    "postedDate": "4 days ago",
     "featured": false,
     "description": "Etisalat (e&) is hiring a DevOps Engineer to accelerate software delivery for digital services and internal platforms. You will build and maintain CI/CD pipelines, manage cloud infrastructure, and drive automation across development and operations.",
     "responsibilities": [
@@ -1878,7 +1968,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "AED 12,000 - 16,000",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": false,
     "description": "NMC Healthcare, one of the largest private healthcare providers in the UAE, is recruiting a qualified Physiotherapist to join our multidisciplinary clinical team in Abu Dhabi.",
     "responsibilities": [
@@ -1908,7 +1998,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "SAR 45,000 - 65,000 + Benefits",
-    "postedDate": "6 days ago",
+    "postedDate": "1 week ago",
     "featured": true,
     "description": "Saudi German Hospital Group is recruiting a Consultant Cardiologist to lead cardiac care services at our Riyadh flagship hospital. Competitive package including accommodation, annual flights, and family benefits.",
     "responsibilities": [
@@ -1938,7 +2028,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "SAR 20,000 - 28,000",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": false,
     "description": "Dr. Sulaiman Al Habib Medical Group is looking for experienced Dental Surgeons to join our modern outpatient dental clinics in Riyadh. We offer a state-of-the-art working environment and a highly competitive package.",
     "responsibilities": [
@@ -1968,7 +2058,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "AED 16,000 - 21,000",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": true,
     "description": "IHG is hiring a Revenue Manager for our InterContinental property in Dubai. You will optimise room revenue by managing pricing strategies, OTA relationships, and distribution channel performance.",
     "responsibilities": [
@@ -1998,7 +2088,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "SAR 8,000 - 11,000 + Service Charge",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": false,
     "description": "Four Seasons Hotel Riyadh at Kingdom Centre is seeking a passionate F&B Supervisor to oversee dining operations across our signature restaurant outlets. You will lead service excellence and ensure unforgettable guest experiences.",
     "responsibilities": [
@@ -2028,7 +2118,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "QAR 10,000 - 14,000",
-    "postedDate": "3 days ago",
+    "postedDate": "4 days ago",
     "featured": false,
     "description": "Fairmont Hotels & Resorts (Accor) is looking for a Housekeeping Manager for our flagship Doha property. You will lead the housekeeping team to deliver an immaculate guest environment across all rooms, public areas, and heart of house.",
     "responsibilities": [
@@ -2058,7 +2148,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "AED 8,000 Base + Commission",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": true,
     "description": "Emaar Properties, Dubai's largest real estate developer, is hiring Sales Executives to drive residential unit sales across iconic developments including Downtown Dubai, Dubai Hills, and The Valley.",
     "responsibilities": [
@@ -2088,7 +2178,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "SAR 14,000 - 18,000",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": false,
     "description": "Almarai, the world's largest vertically integrated dairy company, is recruiting a Key Account Manager to manage major modern trade accounts (Panda, Carrefour, Lulu, BinDawood) across Riyadh.",
     "responsibilities": [
@@ -2118,7 +2208,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "SAR 16,000 - 22,000",
-    "postedDate": "4 days ago",
+    "postedDate": "5 days ago",
     "featured": true,
     "description": "SABIC is seeking an EHS Specialist to support environment, health, and safety compliance programs at its Jubail petrochemical complex. You will work closely with operations, engineering, and HSE management to maintain world-class safety standards.",
     "responsibilities": [
@@ -2148,7 +2238,7 @@
     "jobType": "Full-time",
     "experience": "Senior Level",
     "salary": "AED 28,000 - 36,000",
-    "postedDate": "5 days ago",
+    "postedDate": "6 days ago",
     "featured": true,
     "description": "Majid Al Futtaim (MAF), the leading shopping mall, hospitality, and entertainment conglomerate in the Middle East, is hiring a Financial Controller to oversee the financial reporting and control function for a business unit in Dubai.",
     "responsibilities": [
@@ -2178,7 +2268,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "AED 18,000 - 24,000",
-    "postedDate": "6 days ago",
+    "postedDate": "1 week ago",
     "featured": false,
     "description": "Petrofac is seeking an Instrument & Control Engineer to join our Abu Dhabi engineering team, supporting offshore platform and onshore oil & gas processing facility projects.",
     "responsibilities": [
@@ -2208,7 +2298,7 @@
     "jobType": "Full-time",
     "experience": "Mid Level",
     "salary": "AED 28,000 - 38,000",
-    "postedDate": "3 days ago",
+    "postedDate": "4 days ago",
     "featured": true,
     "description": "G42, Abu Dhabi's leading AI and cloud computing company, is hiring a Machine Learning Engineer to develop and deploy production AI models across healthcare, smart city, and energy sector applications.",
     "responsibilities": [
