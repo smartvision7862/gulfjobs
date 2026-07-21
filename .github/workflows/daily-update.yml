@@ -1,0 +1,36 @@
+name: Daily Job Refresh
+
+on:
+  schedule:
+    # Runs every day at 06:00 UTC (09:00 Gulf time)
+    - cron: '0 6 * * *'
+  # Also allows manual trigger from GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  refresh-jobs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required to push back to the repo
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🟢 Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 🔄 Run daily job rotation & live Swan Global scrape
+        run: node scripts/daily-update.js
+
+      - name: 📤 Commit and push updated jobs
+        run: |
+          git config user.name  "GullfJob Bot"
+          git config user.email "bot@gullfjob.com"
+          git add jobs-data.json jobs-pool.json pool-index.json feed.xml
+          git diff --staged --quiet && echo "No changes to commit" || (
+            git commit -m "🤖 Daily job refresh & Swan Global scrape: $(date '+%Y-%m-%d')"
+            git push
+          )

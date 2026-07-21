@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Post a Job | Employer Portal | GullfJob</title>
+    <!-- Meta description for SEO -->
+    <meta name="description" content="Access the GullfJob employer portal. Log in to post corporate vacancies and recruit top international talent in the GCC.">
+    
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Apply saved theme before paint to prevent flash -->
+    <script>
+        (function(){
+            var t = localStorage.getItem("theme") || "dark";
+            document.documentElement.setAttribute("data-theme", t);
+        })();
+    </script>
+    
+    <!-- Scripts -->
+    <script src="post-job.js" defer></script>
+</head>
+<body>
+
+    <!-- Header Navigation -->
+    <header>
+        <div class="container nav-container">
+            <a href="index.html" class="logo" id="header-logo-link">
+                <div class="logo-icon">G</div>
+                Gullf<span>Job</span>
+            </a>
+            
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="index.html" id="nav-find-jobs">Find Jobs</a></li>
+                    <li><a href="index.html#categories-anchor" id="nav-categories">Categories</a></li>
+                    <li><a href="index.html#testimonials-anchor" id="nav-testimonials">Testimonials</a></li>
+                    <li><a href="index.html#footer-anchor" id="nav-about">About Us</a></li>
+                </ul>
+            </nav>
+            
+            <div class="nav-actions">
+                <button class="theme-toggle" id="theme-toggle" aria-label="Toggle Dark/Light Mode">
+                    <svg class="theme-toggle-light-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364-6.364l-.707.707M6.343 17.657l-.707.707m0-12.728l.707.707m12.728 12.728l.707-.707M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                    <svg class="theme-toggle-dark-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+                    </svg>
+                </button>
+                <a href="index.html" class="btn-secondary" id="btn-back-home">Back to Jobs</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Employer Portal Section -->
+    <main class="employer-portal-section">
+        <div class="container">
+            
+            <!-- Login Form Card -->
+            <div class="auth-card" id="auth-card">
+                <div class="auth-header">
+                    <h2>Employer Portal</h2>
+                    <p>Log in with your corporate credentials to post job openings.</p>
+                </div>
+                
+                <!-- Credentials Tip -->
+                <div class="credentials-tip">
+                    <span>Use credentials for verification:</span><br>
+                    <span>Username: <strong>admin</strong></span><br>
+                    <span>Password: <strong>admin123</strong></span>
+                </div>
+                
+                <!-- Error Alert Box -->
+                <div class="error-message" id="error-message">
+                    Invalid username or password. Please try again.
+                </div>
+                
+                <form id="login-form">
+                    <div class="form-group" style="margin-bottom: 20px;">
+                        <label class="form-label" for="login-username">Username or Email *</label>
+                        <input type="text" id="login-username" class="form-input" required placeholder="admin">
+                    </div>
+                    
+                    <div class="form-group" style="margin-bottom: 28px;">
+                        <label class="form-label" for="login-password">Password *</label>
+                        <input type="password" id="login-password" class="form-input" required placeholder="••••••••">
+                    </div>
+                    
+                    <button type="submit" class="btn-primary" style="width: 100%; justify-content: center; height: 48px;" id="btn-login-submit">Log In</button>
+                </form>
+            </div>
+            
+            <!-- Post Job Form Card (Hidden by default) -->
+            <div class="post-job-container" id="post-job-container">
+                <div class="post-job-header">
+                    <h2>Post a <span>New Job</span></h2>
+                    <button class="btn-secondary" id="btn-logout" style="padding: 6px 16px; font-size: 13px;">Log Out</button>
+                </div>
+                
+                <form id="post-job-form">
+                    <!-- Row 1: Title & Company -->
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label class="form-label" for="job-title">Job Title *</label>
+                            <input type="text" id="job-title" class="form-input" required placeholder="e.g. Senior Cybersecurity Consultant">
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label" for="job-company">Company Name *</label>
+                            <input type="text" id="job-company" class="form-input" required placeholder="e.g. ShieldNet Defences">
+                        </div>
+                    </div>
+                    
+                    <!-- Row 2: Location & Category -->
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label class="form-label" for="job-location">Location *</label>
+                            <select id="job-location" class="form-input" required>
+                                <option value="">Select Location</option>
+                                <option value="Dubai, UAE">Dubai, UAE</option>
+                                <option value="Riyadh, Saudi Arabia">Riyadh, Saudi Arabia</option>
+                                <option value="Doha, Qatar">Doha, Qatar</option>
+                                <option value="Manama, Bahrain">Manama, Bahrain</option>
+                                <option value="Muscat, Oman">Muscat, Oman</option>
+                                <option value="Kuwait City, Kuwait">Kuwait City, Kuwait</option>
+                                <option value="Remote">Remote</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label" for="job-category">Category *</label>
+                            <select id="job-category" class="form-input" required>
+                                <option value="">Select Category</option>
+                                <option value="Engineering">Engineering</option>
+                                <option value="IT & Tech">IT & Tech</option>
+                                <option value="Safety">Safety</option>
+                                <option value="Hospitality">Hospitality</option>
+                                <option value="Healthcare">Healthcare</option>
+                                <option value="Sales & Marketing">Sales & Marketing</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <!-- Row 3: Job Type & Experience -->
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label class="form-label" for="job-type">Job Type *</label>
+                            <select id="job-type" class="form-input" required>
+                                <option value="">Select Job Type</option>
+                                <option value="Full-time">Full-time</option>
+                                <option value="Part-time">Part-time</option>
+                                <option value="Contract">Contract</option>
+                                <option value="Remote">Remote</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label" for="job-experience">Experience Level *</label>
+                            <select id="job-experience" class="form-input" required>
+                                <option value="">Select Level</option>
+                                <option value="Entry Level">Entry Level</option>
+                                <option value="Mid Level">Mid Level</option>
+                                <option value="Senior Level">Senior Level</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <!-- Row 4: Salary -->
+                    <div class="form-group" style="margin-bottom: 20px;">
+                        <label class="form-label" for="job-salary">Salary Estimation *</label>
+                        <input type="text" id="job-salary" class="form-input" required placeholder="e.g. AED 35,000 - 40,000">
+                    </div>
+                    
+                    <!-- Description -->
+                    <div class="form-group" style="margin-bottom: 20px;">
+                        <label class="form-label" for="job-description">Role Overview *</label>
+                        <textarea id="job-description" class="form-input" rows="4" required placeholder="Write a short summary introducing the vacancy, responsibilities, and team environment..."></textarea>
+                    </div>
+                    
+                    <!-- Key Responsibilities -->
+                    <div class="form-group" style="margin-bottom: 20px;">
+                        <label class="form-label" for="job-responsibilities">Key Responsibilities (one per line) *</label>
+                        <textarea id="job-responsibilities" class="form-input" rows="5" required placeholder="Enter key responsibilities...&#10;Develop core software features&#10;Conduct code reviews&#10;Lead software architecture designs"></textarea>
+                    </div>
+                    
+                    <!-- Key Requirements -->
+                    <div class="form-group" style="margin-bottom: 32px;">
+                        <label class="form-label" for="job-requirements">Key Requirements (one per line) *</label>
+                        <textarea id="job-requirements" class="form-input" rows="5" required placeholder="Enter role requirements...&#10;Bachelor's degree in Computer Science&#10;5+ years software engineer experience&#10;Expertise in React and Node.js"></textarea>
+                    </div>
+                    
+                    <div style="display: flex; gap: 12px; justify-content: flex-end;">
+                        <a href="index.html" class="btn-secondary">Cancel</a>
+                        <button type="submit" class="btn-primary" id="btn-job-submit">Publish Job Posting</button>
+                    </div>
+                </form>
+            </div>
+            
+            <!-- Recruiter Application Settings Card (Hidden by default, shown when logged in) -->
+            <div class="post-job-container" id="gform-settings-container" style="margin-top: 30px; display: none;">
+                <div class="post-job-header">
+                    <h2>Application Delivery <span>Settings</span></h2>
+                </div>
+                <p style="color: var(--text-secondary); margin-bottom: 20px; font-size: 14px; line-height: 1.5;">
+                    Configure how you want to receive candidate applications. You can choose to have them sent directly to your email inbox, or saved automatically into a Google Sheet spreadsheet inside your Google Drive.
+                </p>
+                <form id="gform-settings-form">
+                    <div class="form-group" style="margin-bottom: 20px;">
+                        <label class="form-label" for="delivery-channel">Active Delivery Channel *</label>
+                        <select id="delivery-channel" class="form-input" required style="background: var(--bg-body); color: var(--text-main);">
+                            <option value="email">Send directly to Email Inbox</option>
+                            <option value="google_sheets">Save to Google Drive Sheet</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group" id="settings-group-email" style="margin-bottom: 24px;">
+                        <label class="form-label" for="gform-url">Recruiter Email Address *</label>
+                        <input type="email" id="gform-url" class="form-input" placeholder="smartvisionwll@gmail.com">
+                        <small style="color: var(--text-muted); display: block; margin-top: 6px; font-size: 12px;">
+                            The first time an application is sent to a new email address, you will receive a verification email from FormSubmit.co. Click the link inside it to activate delivery.
+                        </small>
+                    </div>
+
+                    <div class="form-group" id="settings-group-sheet" style="margin-bottom: 24px; display: none;">
+                        <label class="form-label" for="google-sheet-url">Google Sheets Web App URL *</label>
+                        <input type="url" id="google-sheet-url" class="form-input" placeholder="https://script.google.com/macros/s/.../exec">
+                        <small style="color: var(--text-muted); display: block; margin-top: 6px; font-size: 12px;">
+                            Paste your Google Apps Script Web App URL here to write submissions directly to a spreadsheet in your Google Drive (smartvisionwll@gmail.com).
+                        </small>
+                    </div>
+                    
+                    <div style="display: flex; gap: 12px; justify-content: flex-end;">
+                        <button type="submit" class="btn-primary" id="btn-gform-save">Save Connection</button>
+                    </div>
+                </form>
+            </div>
+            
+        </div>
+    </main>
+
+    <!-- Success Toast Notification -->
+    <div class="toast" id="toast-notification">
+        <div class="toast-icon">
+            <svg style="width: 16px; height: 16px;" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+            </svg>
+        </div>
+        <div class="toast-message">
+            <h4>Success Toast</h4>
+            <p>Your action completed successfully.</p>
+        </div>
+    </div>
+
+</body>
+</html>
