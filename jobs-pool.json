@@ -1,5 +1,30 @@
 [
   {
+    "id": "swan-7fae9b82",
+    "title": "Maintenance Manager",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/7fae9b82-8276-409c-915b-90088c650fb8/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Maintenance Manager to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Maintenance Manager in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Maintenance Manager.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ]
+  },
+  {
     "id": "swan-d1feda26",
     "title": "E & I Inspector",
     "company": "Swan Global",
