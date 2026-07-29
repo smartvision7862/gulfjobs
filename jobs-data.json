@@ -1,5 +1,116 @@
 [
   {
+    "id": "pool-001-2026-07-29",
+    "title": "Quantity Surveyor",
+    "company": "Parsons Corporation",
+    "logoLetters": "PC",
+    "location": "Riyadh, Saudi Arabia",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "SAR 18,000 - 24,000",
+    "featured": true,
+    "description": "Parsons Corporation is recruiting a Quantity Surveyor to support major infrastructure projects in Riyadh under the Vision 2030 programme. You will prepare cost estimates, manage subcontractor payments, and ensure value engineering.",
+    "responsibilities": [
+      "Prepare Bills of Quantities (BOQ), cost plans, and tender documentation.",
+      "Manage subcontractor measurement, valuation, and payment certification.",
+      "Assess and negotiate variation orders and change requests.",
+      "Perform cost monitoring, forecasting, and final account preparation.",
+      "Liaise with project managers, designers, and client quantity surveyors."
+    ],
+    "requirements": [
+      "Bachelor's degree in Quantity Surveying, Civil Engineering, or Construction Management.",
+      "Minimum 5 years of QS experience on infrastructure or building projects.",
+      "Membership of RICS or CIQS is preferred.",
+      "Proficiency in CostX, Candy, or HCSS cost management software.",
+      "Experience on Saudi Vision 2030 projects is a significant advantage."
+    ],
+    "applyEmail": "careers@parsons.com",
+    "dateAdded": "2026-07-29",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-5588e58e",
+    "title": "QC INSPECTOR PIPING",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/5588e58e-5ccd-4de7-a6c4-2dffdc71a2f0/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified QC INSPECTOR PIPING to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as QC INSPECTOR PIPING in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for QC INSPECTOR PIPING.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-07-29",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-0f7b190a",
+    "title": "QC Inspector – Painting / Coating",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/0f7b190a-76eb-4207-a481-e6117eb4dda4/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified QC Inspector – Painting / Coating to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as QC Inspector – Painting / Coating in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for QC Inspector – Painting / Coating.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-07-29",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-a4674111",
+    "title": "General Manager",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Management & HR",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/a4674111-0791-4752-a00d-69d1c851f85a/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified General Manager to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as General Manager in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for General Manager.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-07-29",
+    "postedDate": "Today"
+  },
+  {
     "id": "swan-7b8dfca4",
     "title": "Qc Inspector Welding",
     "company": "Swan Global",
@@ -24,7 +135,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-28",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-54a0fda3",
@@ -51,7 +162,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-28",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-ce0189bb",
@@ -78,7 +189,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-28",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-1bc4d28e",
@@ -105,7 +216,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-ad2c5e1d",
@@ -132,7 +243,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-a6f86a73",
@@ -159,7 +270,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-74d649b5",
@@ -186,7 +297,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-24d971d4",
@@ -213,7 +324,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-085aaedf",
@@ -240,7 +351,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-5fc82d43",
@@ -267,7 +378,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-685c9d43",
@@ -294,7 +405,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-c92f5f57",
@@ -321,7 +432,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-ba025d47",
@@ -348,7 +459,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-77515356",
@@ -375,7 +486,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-26",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-4b9aef8d",
@@ -402,7 +513,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-26",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-d6c7dddc",
@@ -429,7 +540,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-26",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-6170ed17",
@@ -456,7 +567,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-25",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-20f9bda0",
@@ -483,7 +594,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-25",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-7c987c13",
@@ -510,7 +621,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-25",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-3860b7f1",
@@ -537,7 +648,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-24",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-934b27b9",
@@ -564,7 +675,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-24",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-0e3ccd48",
@@ -591,7 +702,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-24",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-7fae9b82",
@@ -618,7 +729,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-24",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-932a348d",
@@ -645,7 +756,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-1758e53d",
@@ -672,7 +783,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-b705bfdb",
@@ -699,7 +810,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-d1feda26",
@@ -726,7 +837,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-6cbe8d09",
@@ -753,7 +864,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-aba991f4",
@@ -780,7 +891,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-d7119de3",
@@ -807,7 +918,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-46f99cd2",
@@ -834,7 +945,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-26e23148",
@@ -861,7 +972,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-c469871a",
@@ -888,7 +999,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-b7491043",
@@ -915,7 +1026,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-b4f876ad",
@@ -942,7 +1053,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-22",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-0ad04e58",
@@ -969,7 +1080,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-22",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-b07cb90b",
@@ -996,7 +1107,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-22",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-494eb099",
@@ -1023,7 +1134,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-22",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-022d20d6",
