@@ -1,5 +1,122 @@
 [
   {
+    "id": "pool-003-2026-07-30",
+    "title": "Commissioning Engineer – Oil & Gas",
+    "company": "Wood Group (John Wood Group)",
+    "logoLetters": "WG",
+    "location": "Abu Dhabi, UAE",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "AED 22,000 - 28,000",
+    "featured": true,
+    "description": "Wood Group is seeking a Commissioning Engineer to lead pre-commissioning and commissioning activities for upstream and midstream oil & gas facilities in Abu Dhabi.",
+    "responsibilities": [
+      "Develop commissioning plans, procedures, and punch-list management systems.",
+      "Lead and execute mechanical completion, pre-commissioning, and commissioning activities.",
+      "Oversee completions management and systems handover to operations.",
+      "Coordinate with discipline leads (mechanical, instrument, electrical) during commissioning.",
+      "Participate in start-up and performance testing of process equipment."
+    ],
+    "requirements": [
+      "Bachelor's degree in Mechanical, Chemical, or Process Engineering.",
+      "Minimum 8 years of commissioning experience in oil & gas or petrochemical projects.",
+      "Proficiency in Completions Management Software (ICAPS, Conject, or equivalent).",
+      "Experience with ADNOC or international IOC project standards.",
+      "BOSIET offshore survival certificate preferred."
+    ],
+    "applyEmail": "recruitment@woodplc.com",
+    "dateAdded": "2026-07-30",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-002-2026-07-30",
+    "title": "Electrical Engineer – Power Distribution",
+    "company": "Saudi Electricity Company (SEC)",
+    "logoLetters": "SE",
+    "location": "Riyadh, Saudi Arabia",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "SAR 16,000 - 21,000",
+    "featured": false,
+    "description": "Saudi Electricity Company (SEC) is hiring Electrical Engineers to design and oversee medium and high voltage power distribution networks across the Kingdom.",
+    "responsibilities": [
+      "Design HV/MV power distribution systems (33kV, 132kV, 380kV).",
+      "Review and approve single-line diagrams, protection schemes, and cable routing designs.",
+      "Oversee construction and commissioning of substations and distribution lines.",
+      "Perform load flow, short-circuit, and protection coordination studies.",
+      "Manage interfaces with EPC contractors and equipment vendors."
+    ],
+    "requirements": [
+      "Bachelor's degree in Electrical Power Engineering.",
+      "4+ years in HV/MV power system design or operation.",
+      "Proficiency in ETAP, DIgSILENT PowerFactory, or PSS/E software.",
+      "Knowledge of IEC standards for switchgear, transformers, and protection.",
+      "Saudi Council of Engineers (SCE) registration required."
+    ],
+    "applyEmail": "careers@se.com.sa",
+    "dateAdded": "2026-07-30",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-001-2026-07-30",
+    "title": "Quantity Surveyor",
+    "company": "Parsons Corporation",
+    "logoLetters": "PC",
+    "location": "Riyadh, Saudi Arabia",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "SAR 18,000 - 24,000",
+    "featured": true,
+    "description": "Parsons Corporation is recruiting a Quantity Surveyor to support major infrastructure projects in Riyadh under the Vision 2030 programme. You will prepare cost estimates, manage subcontractor payments, and ensure value engineering.",
+    "responsibilities": [
+      "Prepare Bills of Quantities (BOQ), cost plans, and tender documentation.",
+      "Manage subcontractor measurement, valuation, and payment certification.",
+      "Assess and negotiate variation orders and change requests.",
+      "Perform cost monitoring, forecasting, and final account preparation.",
+      "Liaise with project managers, designers, and client quantity surveyors."
+    ],
+    "requirements": [
+      "Bachelor's degree in Quantity Surveying, Civil Engineering, or Construction Management.",
+      "Minimum 5 years of QS experience on infrastructure or building projects.",
+      "Membership of RICS or CIQS is preferred.",
+      "Proficiency in CostX, Candy, or HCSS cost management software.",
+      "Experience on Saudi Vision 2030 projects is a significant advantage."
+    ],
+    "applyEmail": "careers@parsons.com",
+    "dateAdded": "2026-07-30",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-a8328e83",
+    "title": "Site Engineer - Mechanical",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/a8328e83-3893-4cca-b9fe-2b7bcc91d832/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Site Engineer - Mechanical to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Site Engineer - Mechanical in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Site Engineer - Mechanical.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-07-30",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-001-2026-07-29",
     "title": "Quantity Surveyor",
     "company": "Parsons Corporation",
@@ -27,7 +144,7 @@
     ],
     "applyEmail": "careers@parsons.com",
     "dateAdded": "2026-07-29",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-5588e58e",
@@ -54,7 +171,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-29",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-0f7b190a",
@@ -81,7 +198,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-29",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-a4674111",
@@ -108,7 +225,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-29",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-7b8dfca4",
@@ -135,7 +252,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-28",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-54a0fda3",
@@ -162,7 +279,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-28",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-ce0189bb",
@@ -189,7 +306,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-28",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-1bc4d28e",
@@ -216,7 +333,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-ad2c5e1d",
@@ -243,7 +360,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-a6f86a73",
@@ -270,7 +387,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-74d649b5",
@@ -297,7 +414,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-24d971d4",
@@ -324,7 +441,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-085aaedf",
@@ -351,7 +468,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-5fc82d43",
@@ -378,7 +495,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-685c9d43",
@@ -405,7 +522,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-c92f5f57",
@@ -432,7 +549,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-ba025d47",
@@ -459,7 +576,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-77515356",
@@ -486,7 +603,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-26",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-4b9aef8d",
@@ -513,7 +630,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-26",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-d6c7dddc",
@@ -540,7 +657,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-26",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-6170ed17",
@@ -567,7 +684,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-25",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-20f9bda0",
@@ -594,7 +711,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-25",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-7c987c13",
@@ -621,7 +738,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-25",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-3860b7f1",
@@ -648,7 +765,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-24",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-934b27b9",
@@ -675,7 +792,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-24",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-0e3ccd48",
@@ -702,7 +819,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-24",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-7fae9b82",
@@ -729,7 +846,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-24",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-932a348d",
@@ -756,7 +873,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-1758e53d",
@@ -783,7 +900,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-b705bfdb",
@@ -810,7 +927,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-d1feda26",
@@ -837,7 +954,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-6cbe8d09",
@@ -864,7 +981,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-aba991f4",
@@ -891,7 +1008,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-d7119de3",
@@ -918,7 +1035,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-46f99cd2",
@@ -945,7 +1062,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-26e23148",
@@ -972,7 +1089,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-c469871a",
@@ -999,7 +1116,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-b7491043",
@@ -1026,7 +1143,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-b4f876ad",
@@ -1134,465 +1251,6 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-22",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-022d20d6",
-    "title": "Civil Engineer",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/022d20d6-cc9b-4537-b3e8-a89bf9a2c58b/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Civil Engineer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Civil Engineer in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Civil Engineer.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-21",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-e730c1f8",
-    "title": "Rigging Team Leader",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Mesaieed, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/e730c1f8-f80b-4639-b1cd-63713764d342/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Rigging Team Leader to join client operations in Mesaieed, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Rigging Team Leader in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Mesaieed, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Rigging Team Leader.",
-      "Proven hands-on experience in Mesaieed, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-21",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-38b6f8f0",
-    "title": "Rigger",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Mesaieed, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/38b6f8f0-d7d2-45c5-a4c0-768915948b09/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Rigger to join client operations in Mesaieed, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Rigger in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Mesaieed, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Rigger.",
-      "Proven hands-on experience in Mesaieed, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-21",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-961fa5e7",
-    "title": "Diesel Mechanic",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Mesaieed, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/961fa5e7-9378-4d7d-b275-2eb1aed5d05a/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Diesel Mechanic to join client operations in Mesaieed, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Diesel Mechanic in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Mesaieed, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Diesel Mechanic.",
-      "Proven hands-on experience in Mesaieed, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-21",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-62a4dad8",
-    "title": "HVAC Technician",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/62a4dad8-1c9e-41ab-8694-11fa7eeeefdf/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified HVAC Technician to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as HVAC Technician in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for HVAC Technician.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-21",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-b5590f08",
-    "title": "Diesel Generator",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/b5590f08-2ea3-428d-b15c-9fffc4442513/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Diesel Generator to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Diesel Generator in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Diesel Generator.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-21",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-91ecc352",
-    "title": "Lifting Supervisor",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Mesaieed, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/91ecc352-ae9b-4778-b4e8-90b0611d7b59/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Lifting Supervisor to join client operations in Mesaieed, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Lifting Supervisor in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Mesaieed, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Lifting Supervisor.",
-      "Proven hands-on experience in Mesaieed, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-21",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-e7a0a1f0",
-    "title": "OPCO Approved Hole Watcher",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/e7a0a1f0-d8ef-4467-baef-d9e065fe7d11/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified OPCO Approved Hole Watcher to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as OPCO Approved Hole Watcher in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for OPCO Approved Hole Watcher.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-21",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-98b2ddaf",
-    "title": "OPCO Approved Gas Watcher",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/98b2ddaf-672b-44ef-955e-9d527f05a4a2/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified OPCO Approved Gas Watcher to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as OPCO Approved Gas Watcher in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for OPCO Approved Gas Watcher.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-21",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-5801ac52",
-    "title": "Facilities Management Consultant",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "IT & Tech",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/5801ac52-67ed-46e4-a77d-cbc5a3858128/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Facilities Management Consultant to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Facilities Management Consultant in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Facilities Management Consultant.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-21",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-1c0489f9",
-    "title": "Contracts Management Consultant",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Management & HR",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/1c0489f9-e3fa-4280-98cd-7975bfc5fc6f/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Contracts Management Consultant to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Contracts Management Consultant in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Contracts Management Consultant.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-21",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-fe4b1f04",
-    "title": "Administrative Support and Coordination Consultant",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Management & HR",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/fe4b1f04-3142-4eef-9f96-6cbf8fb3cfdc/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Administrative Support and Coordination Consultant to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Administrative Support and Coordination Consultant in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Administrative Support and Coordination Consultant.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-21",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-fe45ab4d",
-    "title": "Recruitment Officer",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "IT & Tech",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/fe45ab4d-cf20-4036-88c2-20ad78c7edb2/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Recruitment Officer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Recruitment Officer in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Recruitment Officer.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-21",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-84e12431",
-    "title": "Maintenance System Administrator",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/84e12431-d9fa-41f2-a8dd-93745f3478e6/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Maintenance System Administrator to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Maintenance System Administrator in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Maintenance System Administrator.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-21",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-3982e101",
-    "title": "Electrical Technician",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/3982e101-447b-47e1-904f-d03cd283f1e8/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Electrical Technician to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Electrical Technician in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Electrical Technician.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-21",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-8b078ad6",
-    "title": "Refrigeration Technician",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/8b078ad6-0bbc-40f2-90b7-689777195375/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Refrigeration Technician to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Refrigeration Technician in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Refrigeration Technician.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-21",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-c40c7171",
-    "title": "Painting Supervisor",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/c40c7171-7567-440c-a9ce-4cd62f0d47dc/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Painting Supervisor to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Painting Supervisor in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Painting Supervisor.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-21",
     "postedDate": "1 week ago"
   }
 ]
