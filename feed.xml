@@ -2,7 +2,55 @@
 <source>
   <publisher>GullfJob Portal</publisher>
   <publisherurl>https://smartvision7862.github.io/gulfjobs/</publisherurl>
-  <lastBuildDate>Thu, 30 Jul 2026 08:37:23 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 08:57:18 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Cloud Solutions Architect]]></title>
+    <date><![CDATA[Fri, 31 Jul 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-005-2026-07-31]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-005-2026-07-31]]></url>
+    <company><![CDATA[Microsoft Middle East & Africa]]></company>
+    <city><![CDATA[Dubai]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[Microsoft MEA is hiring a Cloud Solutions Architect to lead enterprise Azure migrations and cloud-native design for major clients across the UAE, Saudi Arabia, and Qatar.]]></description>
+    <salary><![CDATA[AED 35,000 - 50,000]]></salary>
+    <category><![CDATA[IT & Tech]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Cybersecurity Analyst]]></title>
+    <date><![CDATA[Fri, 31 Jul 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-004-2026-07-31]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-004-2026-07-31]]></url>
+    <company><![CDATA[Ooredoo Group]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[Ooredoo Group is hiring a Cybersecurity Analyst to monitor, detect, and respond to threats across its regional telecoms infrastructure and enterprise IT environment.]]></description>
+    <salary><![CDATA[QAR 15,000 - 20,000]]></salary>
+    <category><![CDATA[IT & Tech]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Commissioning Engineer – Oil & Gas]]></title>
+    <date><![CDATA[Fri, 31 Jul 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-003-2026-07-31]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-003-2026-07-31]]></url>
+    <company><![CDATA[Wood Group (John Wood Group)]]></company>
+    <city><![CDATA[Abu Dhabi]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[Wood Group is seeking a Commissioning Engineer to lead pre-commissioning and commissioning activities for upstream and midstream oil & gas facilities in Abu Dhabi.]]></description>
+    <salary><![CDATA[AED 22,000 - 28,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Pre-Commissioning Supervisor - Piping]]></title>
+    <date><![CDATA[Fri, 31 Jul 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[swan-82a38d7e]]></referencenumber>
+    <url><![CDATA[https://swanglobal.careers-page.com/jobs/82a38d7e-ffee-4640-add5-50c15745016f/apply]]></url>
+    <company><![CDATA[Swan Global]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[Swan Global is seeking a qualified Pre-Commissioning Supervisor - Piping to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
+    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
   <job>
     <title><![CDATA[Commissioning Engineer – Oil & Gas]]></title>
     <date><![CDATA[Thu, 30 Jul 2026 00:00:00 GMT]]></date>
@@ -504,54 +552,6 @@
     <city><![CDATA[Dukhan]]></city>
     <country><![CDATA[QA]]></country>
     <description><![CDATA[Swan Global is seeking a qualified Electrical Technician to join client operations in Dukhan, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Health Support Associate]]></title>
-    <date><![CDATA[Wed, 22 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-b4f876ad]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/b4f876ad-1fb7-4fac-b99c-23227e780289/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Health Support Associate to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Healthcare]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Finance Manager]]></title>
-    <date><![CDATA[Wed, 22 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-0ad04e58]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/0ad04e58-1ae2-4771-a6cc-0ef25920dd66/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Finance Manager to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Management & HR]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Compliance Associate]]></title>
-    <date><![CDATA[Wed, 22 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-b07cb90b]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/b07cb90b-42ec-4234-a563-0eeda439bccb/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Compliance Associate to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[MEP Supervisor]]></title>
-    <date><![CDATA[Wed, 22 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-494eb099]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/494eb099-e334-4758-9e46-2f6bfd04ede9/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified MEP Supervisor to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
     <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
     <category><![CDATA[Engineering]]></category>
   </job>

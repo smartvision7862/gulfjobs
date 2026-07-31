@@ -1,5 +1,122 @@
 [
   {
+    "id": "pool-005-2026-07-31",
+    "title": "Cloud Solutions Architect",
+    "company": "Microsoft Middle East & Africa",
+    "logoLetters": "MS",
+    "location": "Dubai, UAE",
+    "category": "IT & Tech",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "AED 35,000 - 50,000",
+    "featured": true,
+    "description": "Microsoft MEA is hiring a Cloud Solutions Architect to lead enterprise Azure migrations and cloud-native design for major clients across the UAE, Saudi Arabia, and Qatar.",
+    "responsibilities": [
+      "Design scalable Azure cloud architectures for enterprise digital transformation projects.",
+      "Lead customer workshops on cloud strategy, well-architected frameworks, and security.",
+      "Build proof-of-concept solutions and technical proposals.",
+      "Support pre-sales, presales engineering, and RFP responses.",
+      "Mentor junior architects and upskill client technical teams."
+    ],
+    "requirements": [
+      "Bachelor's degree in Computer Science or Software Engineering.",
+      "Microsoft Certified: Azure Solutions Architect Expert (AZ-305).",
+      "Minimum 7 years of cloud architecture experience.",
+      "Deep expertise in Azure IaaS, PaaS, Kubernetes, and hybrid networking.",
+      "Experience in GCC enterprise accounts is a significant advantage."
+    ],
+    "applyEmail": "careers@microsoft.com",
+    "dateAdded": "2026-07-31",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-004-2026-07-31",
+    "title": "Cybersecurity Analyst",
+    "company": "Ooredoo Group",
+    "logoLetters": "OR",
+    "location": "Doha, Qatar",
+    "category": "IT & Tech",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "QAR 15,000 - 20,000",
+    "featured": false,
+    "description": "Ooredoo Group is hiring a Cybersecurity Analyst to monitor, detect, and respond to threats across its regional telecoms infrastructure and enterprise IT environment.",
+    "responsibilities": [
+      "Monitor SIEM platforms (Splunk, IBM QRadar) for security events and alerts.",
+      "Investigate and triage security incidents using threat intelligence feeds.",
+      "Perform vulnerability assessments and coordinate remediation with IT teams.",
+      "Develop and maintain security runbooks, playbooks, and incident response plans.",
+      "Assist with penetration testing, red team exercises, and SOC operations."
+    ],
+    "requirements": [
+      "Bachelor's degree in Computer Science, Information Security, or related field.",
+      "CompTIA Security+, CEH, or CISSP certification.",
+      "3+ years of SOC/cybersecurity analyst experience.",
+      "Hands-on experience with SIEM, EDR, and vulnerability management tools.",
+      "Knowledge of MITRE ATT&CK framework and threat hunting techniques."
+    ],
+    "applyEmail": "careers@ooredoo.com",
+    "dateAdded": "2026-07-31",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-003-2026-07-31",
+    "title": "Commissioning Engineer – Oil & Gas",
+    "company": "Wood Group (John Wood Group)",
+    "logoLetters": "WG",
+    "location": "Abu Dhabi, UAE",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "AED 22,000 - 28,000",
+    "featured": true,
+    "description": "Wood Group is seeking a Commissioning Engineer to lead pre-commissioning and commissioning activities for upstream and midstream oil & gas facilities in Abu Dhabi.",
+    "responsibilities": [
+      "Develop commissioning plans, procedures, and punch-list management systems.",
+      "Lead and execute mechanical completion, pre-commissioning, and commissioning activities.",
+      "Oversee completions management and systems handover to operations.",
+      "Coordinate with discipline leads (mechanical, instrument, electrical) during commissioning.",
+      "Participate in start-up and performance testing of process equipment."
+    ],
+    "requirements": [
+      "Bachelor's degree in Mechanical, Chemical, or Process Engineering.",
+      "Minimum 8 years of commissioning experience in oil & gas or petrochemical projects.",
+      "Proficiency in Completions Management Software (ICAPS, Conject, or equivalent).",
+      "Experience with ADNOC or international IOC project standards.",
+      "BOSIET offshore survival certificate preferred."
+    ],
+    "applyEmail": "recruitment@woodplc.com",
+    "dateAdded": "2026-07-31",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-82a38d7e",
+    "title": "Pre-Commissioning Supervisor - Piping",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/82a38d7e-ffee-4640-add5-50c15745016f/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Pre-Commissioning Supervisor - Piping to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Pre-Commissioning Supervisor - Piping in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Pre-Commissioning Supervisor - Piping.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-07-31",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-003-2026-07-30",
     "title": "Commissioning Engineer – Oil & Gas",
     "company": "Wood Group (John Wood Group)",
@@ -27,7 +144,7 @@
     ],
     "applyEmail": "recruitment@woodplc.com",
     "dateAdded": "2026-07-30",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-002-2026-07-30",
@@ -57,7 +174,7 @@
     ],
     "applyEmail": "careers@se.com.sa",
     "dateAdded": "2026-07-30",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-001-2026-07-30",
@@ -87,7 +204,7 @@
     ],
     "applyEmail": "careers@parsons.com",
     "dateAdded": "2026-07-30",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-a8328e83",
@@ -114,7 +231,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-30",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-001-2026-07-29",
@@ -144,7 +261,7 @@
     ],
     "applyEmail": "careers@parsons.com",
     "dateAdded": "2026-07-29",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-5588e58e",
@@ -171,7 +288,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-29",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-0f7b190a",
@@ -198,7 +315,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-29",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-a4674111",
@@ -225,7 +342,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-29",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-7b8dfca4",
@@ -252,7 +369,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-28",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-54a0fda3",
@@ -279,7 +396,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-28",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-ce0189bb",
@@ -306,7 +423,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-28",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-1bc4d28e",
@@ -333,7 +450,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-ad2c5e1d",
@@ -360,7 +477,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-a6f86a73",
@@ -387,7 +504,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-74d649b5",
@@ -414,7 +531,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-24d971d4",
@@ -441,7 +558,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-085aaedf",
@@ -468,7 +585,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-5fc82d43",
@@ -495,7 +612,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-685c9d43",
@@ -522,7 +639,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-c92f5f57",
@@ -549,7 +666,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-ba025d47",
@@ -576,7 +693,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-77515356",
@@ -603,7 +720,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-26",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-4b9aef8d",
@@ -630,7 +747,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-26",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-d6c7dddc",
@@ -657,7 +774,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-26",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-6170ed17",
@@ -684,7 +801,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-25",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-20f9bda0",
@@ -711,7 +828,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-25",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-7c987c13",
@@ -738,7 +855,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-25",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-3860b7f1",
@@ -765,7 +882,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-24",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-934b27b9",
@@ -792,7 +909,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-24",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-0e3ccd48",
@@ -819,7 +936,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-24",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-7fae9b82",
@@ -846,7 +963,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-24",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-932a348d",
@@ -1143,114 +1260,6 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-23",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-b4f876ad",
-    "title": "Health Support Associate",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Healthcare",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/b4f876ad-1fb7-4fac-b99c-23227e780289/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Health Support Associate to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Health Support Associate in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Health Support Associate.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-22",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-0ad04e58",
-    "title": "Finance Manager",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Management & HR",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/0ad04e58-1ae2-4771-a6cc-0ef25920dd66/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Finance Manager to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Finance Manager in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Finance Manager.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-22",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-b07cb90b",
-    "title": "Compliance Associate",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/b07cb90b-42ec-4234-a563-0eeda439bccb/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Compliance Associate to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Compliance Associate in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Compliance Associate.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-22",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-494eb099",
-    "title": "MEP Supervisor",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/494eb099-e334-4758-9e46-2f6bfd04ede9/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified MEP Supervisor to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as MEP Supervisor in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for MEP Supervisor.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-22",
     "postedDate": "1 week ago"
   }
 ]
