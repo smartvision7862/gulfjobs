@@ -1,5 +1,95 @@
 [
   {
+    "id": "pool-008-2026-08-01",
+    "title": "Executive Chef",
+    "company": "Rosewood Hotels & Resorts",
+    "logoLetters": "RW",
+    "location": "Riyadh, Saudi Arabia",
+    "category": "Hospitality",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "SAR 28,000 - 38,000 + Benefits",
+    "featured": true,
+    "description": "Rosewood Riyadh is seeking a talented Executive Chef to lead culinary operations across our fine dining, all-day dining, and banqueting outlets at this ultra-luxury property.",
+    "responsibilities": [
+      "Lead and inspire a team of 60+ chefs across multiple restaurant concepts.",
+      "Develop innovative menus that reflect Rosewood's culinary philosophy.",
+      "Ensure consistency, presentation standards, and food safety compliance.",
+      "Control food cost, wastage, and kitchen operating budgets.",
+      "Recruit, train, and mentor culinary team members."
+    ],
+    "requirements": [
+      "Culinary arts degree or equivalent professional training.",
+      "Minimum 8 years of culinary experience with 3+ years as Executive Chef.",
+      "Luxury 5-star hotel or restaurant background required.",
+      "Experience in multiple cuisines (Western, Arabic/Levantine, Asian).",
+      "HACCP certification and strong leadership skills."
+    ],
+    "applyEmail": "culinary.careers@rosewoodhotels.com",
+    "dateAdded": "2026-08-01",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-007-2026-08-01",
+    "title": "Radiographer – MRI & CT",
+    "company": "Aster DM Healthcare",
+    "logoLetters": "AS",
+    "location": "Dubai, UAE",
+    "category": "Healthcare",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 9,000 - 13,000",
+    "featured": false,
+    "description": "Aster DM Healthcare is looking for a qualified Radiographer with experience in MRI and CT imaging to join our diagnostic imaging department in Dubai.",
+    "responsibilities": [
+      "Perform MRI, CT, and X-ray examinations on patients following radiologist protocols.",
+      "Ensure accurate patient positioning and image quality.",
+      "Administer IV contrast media as prescribed and monitor for reactions.",
+      "Maintain imaging equipment and escalate maintenance issues.",
+      "Maintain patient safety standards and radiation protection guidelines."
+    ],
+    "requirements": [
+      "Bachelor's degree in Radiography or Medical Imaging Technology.",
+      "Minimum 2 years of MRI/CT radiographer experience.",
+      "DHA/DOH license required; support provided for UAE registration.",
+      "Experience with Siemens, GE, or Philips MRI and CT systems.",
+      "Strong patient communication and attention to detail."
+    ],
+    "applyEmail": "careers@asterhospitals.in",
+    "dateAdded": "2026-08-01",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-006-2026-08-01",
+    "title": "Registered Nurse – ICU",
+    "company": "King Faisal Specialist Hospital & Research Centre",
+    "logoLetters": "KF",
+    "location": "Riyadh, Saudi Arabia",
+    "category": "Healthcare",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "SAR 12,000 - 16,000 + Benefits",
+    "featured": true,
+    "description": "King Faisal Specialist Hospital & Research Centre (KFSH&RC) is recruiting ICU Registered Nurses to join our world-class critical care team in Riyadh. Tax-free salary plus accommodation, flights, and healthcare.",
+    "responsibilities": [
+      "Provide high-quality nursing care to critically ill adult ICU patients.",
+      "Monitor patients on mechanical ventilation, vasopressors, and invasive monitoring.",
+      "Administer IV medications, blood products, and complex infusion therapies.",
+      "Collaborate with physicians, intensivists, and multidisciplinary ICU team.",
+      "Respond to deteriorating patients and code blue situations."
+    ],
+    "requirements": [
+      "Bachelor's or Diploma in Nursing from an accredited programme.",
+      "Minimum 2 years of ICU/Critical Care nursing experience.",
+      "BLS and ACLS certification required; CCRN is preferred.",
+      "SCFHS/MOH registration required; support provided for Saudi licensing.",
+      "English fluency required; Arabic is an advantage."
+    ],
+    "applyEmail": "nursing.recruitment@kfshrc.edu.sa",
+    "dateAdded": "2026-08-01",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-005-2026-07-31",
     "title": "Cloud Solutions Architect",
     "company": "Microsoft Middle East & Africa",
@@ -27,7 +117,7 @@
     ],
     "applyEmail": "careers@microsoft.com",
     "dateAdded": "2026-07-31",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-004-2026-07-31",
@@ -57,7 +147,7 @@
     ],
     "applyEmail": "careers@ooredoo.com",
     "dateAdded": "2026-07-31",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-003-2026-07-31",
@@ -87,7 +177,7 @@
     ],
     "applyEmail": "recruitment@woodplc.com",
     "dateAdded": "2026-07-31",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-82a38d7e",
@@ -114,7 +204,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-31",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-003-2026-07-30",
@@ -144,7 +234,7 @@
     ],
     "applyEmail": "recruitment@woodplc.com",
     "dateAdded": "2026-07-30",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-002-2026-07-30",
@@ -174,7 +264,7 @@
     ],
     "applyEmail": "careers@se.com.sa",
     "dateAdded": "2026-07-30",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-001-2026-07-30",
@@ -204,7 +294,7 @@
     ],
     "applyEmail": "careers@parsons.com",
     "dateAdded": "2026-07-30",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-a8328e83",
@@ -231,7 +321,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-30",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-001-2026-07-29",
@@ -261,7 +351,7 @@
     ],
     "applyEmail": "careers@parsons.com",
     "dateAdded": "2026-07-29",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-5588e58e",
@@ -288,7 +378,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-29",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-0f7b190a",
@@ -315,7 +405,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-29",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-a4674111",
@@ -342,7 +432,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-29",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-7b8dfca4",
@@ -369,7 +459,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-28",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-54a0fda3",
@@ -396,7 +486,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-28",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-ce0189bb",
@@ -423,7 +513,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-28",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-1bc4d28e",
@@ -450,7 +540,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-ad2c5e1d",
@@ -477,7 +567,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-a6f86a73",
@@ -504,7 +594,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-74d649b5",
@@ -531,7 +621,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-24d971d4",
@@ -558,7 +648,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-085aaedf",
@@ -585,7 +675,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-5fc82d43",
@@ -612,7 +702,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-685c9d43",
@@ -639,7 +729,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-c92f5f57",
@@ -666,7 +756,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-ba025d47",
@@ -693,7 +783,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-77515356",
@@ -720,7 +810,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-26",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-4b9aef8d",
@@ -747,7 +837,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-26",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-d6c7dddc",
@@ -774,7 +864,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-26",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-6170ed17",
@@ -801,7 +891,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-25",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-20f9bda0",
@@ -828,7 +918,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-25",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-7c987c13",
@@ -855,7 +945,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-25",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-3860b7f1",
@@ -963,303 +1053,6 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-24",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-932a348d",
-    "title": "Compliance Assistant",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/932a348d-e82c-45bf-a694-b6ba40ac6dbf/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Compliance Assistant to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Compliance Assistant in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Compliance Assistant.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-23",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-1758e53d",
-    "title": "E&I QC Inspector COMPEX 01",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/1758e53d-870f-4aab-bbdc-931276fc4f02/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified E&I QC Inspector COMPEX 01 to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as E&I QC Inspector COMPEX 01 in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for E&I QC Inspector COMPEX 01.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-23",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-b705bfdb",
-    "title": "Pharmacy Associate",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Healthcare",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/b705bfdb-628f-4705-80b2-f2914ca2e07e/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Pharmacy Associate to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Pharmacy Associate in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Pharmacy Associate.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-23",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-d1feda26",
-    "title": "E & I Inspector",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/d1feda26-90db-43a9-824d-358c5e492130/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified E & I Inspector to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as E & I Inspector in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for E & I Inspector.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-23",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-6cbe8d09",
-    "title": "Procurement cum Document Controller",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/6cbe8d09-a2db-4984-861b-e454aa5faa3b/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Procurement cum Document Controller to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Procurement cum Document Controller in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Procurement cum Document Controller.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-23",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-aba991f4",
-    "title": "Logistics Officer  – Export & Import Operations",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/aba991f4-2992-4354-8eeb-0707916f022e/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Logistics Officer  – Export & Import Operations to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Logistics Officer  – Export & Import Operations in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Logistics Officer  – Export & Import Operations.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-23",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-d7119de3",
-    "title": "Sales Manager",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Management & HR",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/d7119de3-87b7-4031-9c63-b3afedfdebf3/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Sales Manager to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Sales Manager in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Sales Manager.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-23",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-46f99cd2",
-    "title": "Supply Chain Manager",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Management & HR",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/46f99cd2-d6b5-4e26-b8e4-7064810cfb26/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Supply Chain Manager to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Supply Chain Manager in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Supply Chain Manager.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-23",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-26e23148",
-    "title": "Autocad Operator cum Document Controller",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/26e23148-d442-4bc4-88e8-a6273f262d0e/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Autocad Operator cum Document Controller to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Autocad Operator cum Document Controller in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Autocad Operator cum Document Controller.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-23",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-c469871a",
-    "title": "Technical Author",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/c469871a-2ed7-4ba5-8fd3-c92a9965257c/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Technical Author to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Technical Author in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Technical Author.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-23",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-b7491043",
-    "title": "Electrical Technician",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Dukhan, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/b7491043-eed2-4691-91e0-5f0bd0a5e86d/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Electrical Technician to join client operations in Dukhan, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Electrical Technician in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Dukhan, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Electrical Technician.",
-      "Proven hands-on experience in Dukhan, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-23",
     "postedDate": "1 week ago"
   }
 ]
