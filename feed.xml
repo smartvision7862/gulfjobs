@@ -2,7 +2,43 @@
 <source>
   <publisher>GullfJob Portal</publisher>
   <publisherurl>https://smartvision7862.github.io/gulfjobs/</publisherurl>
-  <lastBuildDate>Sun, 02 Aug 2026 08:31:03 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 09:56:28 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Data Scientist]]></title>
+    <date><![CDATA[Mon, 03 Aug 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-013-2026-08-03]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-013-2026-08-03]]></url>
+    <company><![CDATA[First Abu Dhabi Bank (FAB)]]></company>
+    <city><![CDATA[Abu Dhabi]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[First Abu Dhabi Bank (FAB) is hiring a Data Scientist to build predictive models and AI solutions for credit risk, fraud detection, and customer behaviour analytics.]]></description>
+    <salary><![CDATA[AED 25,000 - 32,000]]></salary>
+    <category><![CDATA[IT & Tech]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Senior Procurement Engineer]]></title>
+    <date><![CDATA[Mon, 03 Aug 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-012-2026-08-03]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-012-2026-08-03]]></url>
+    <company><![CDATA[Fluor Corporation]]></company>
+    <city><![CDATA[Abu Dhabi]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[Fluor Corporation is seeking a Senior Procurement Engineer for our FEED and EPC projects in Abu Dhabi, managing equipment and bulk material procurement for upstream oil & gas facilities.]]></description>
+    <salary><![CDATA[AED 24,000 - 30,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Treasury Manager]]></title>
+    <date><![CDATA[Mon, 03 Aug 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-011-2026-08-03]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-011-2026-08-03]]></url>
+    <company><![CDATA[Gulf International Bank (GIB)]]></company>
+    <city><![CDATA[Manama]]></city>
+    <country><![CDATA[BH]]></country>
+    <description><![CDATA[Gulf International Bank (GIB) is recruiting a Treasury Manager to manage the bank's liquidity, funding, and FX hedging activities across GCC markets.]]></description>
+    <salary><![CDATA[BHD 3,500 - 4,500]]></salary>
+    <category><![CDATA[Finance]]></category>
+  </job>
   <job>
     <title><![CDATA[HSE Manager – Construction]]></title>
     <date><![CDATA[Sun, 02 Aug 2026 00:00:00 GMT]]></date>
@@ -422,41 +458,5 @@
     <description><![CDATA[Swan Global is seeking a qualified Project Manager – Building Management & Control Systems (BMS/BEMS) to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
     <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
     <category><![CDATA[IT & Tech]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Senior Projects Engineer]]></title>
-    <date><![CDATA[Sat, 25 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-6170ed17]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/6170ed17-4923-46ad-b597-bf517f75c125/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Senior Projects Engineer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Oracle Hyperion Techno-Functional Consultant]]></title>
-    <date><![CDATA[Sat, 25 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-20f9bda0]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/20f9bda0-0027-41bb-9ee6-a025af6c7a48/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Oracle Hyperion Techno-Functional Consultant to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Management & HR]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Switchgear Testing & Commissioning Engineer]]></title>
-    <date><![CDATA[Sat, 25 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-7c987c13]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/7c987c13-dd8c-4d3b-8d8a-fd0e3cc7d4f6/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Switchgear Testing & Commissioning Engineer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
   </job>
 </source>
