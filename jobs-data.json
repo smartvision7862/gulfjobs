@@ -1,5 +1,95 @@
 [
   {
+    "id": "pool-016-2026-08-04",
+    "title": "Maintenance Planner",
+    "company": "ADNOC Onshore",
+    "logoLetters": "AD",
+    "location": "Abu Dhabi, UAE",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 16,000 - 22,000",
+    "featured": false,
+    "description": "ADNOC Onshore is seeking a Maintenance Planner to develop, optimise, and manage preventive and corrective maintenance plans for onshore oil & gas production facilities.",
+    "responsibilities": [
+      "Develop detailed maintenance plans and work packages using SAP PM.",
+      "Schedule preventive maintenance tasks and coordinate with operations teams.",
+      "Analyse equipment reliability data and adjust maintenance strategies.",
+      "Manage spare parts lists, Bill of Materials (BOM), and maintenance history.",
+      "Support turnaround planning and execute shutdown maintenance schedules."
+    ],
+    "requirements": [
+      "Bachelor's degree in Mechanical or Electrical Engineering.",
+      "Minimum 5 years of maintenance planning experience in oil & gas.",
+      "Proficiency in SAP PM (Plant Maintenance) module.",
+      "Knowledge of CMMS, RCM, and reliability-centered maintenance principles.",
+      "Experience in ADNOC or major GCC NOC environment preferred."
+    ],
+    "applyEmail": "careers@adnoc.ae",
+    "dateAdded": "2026-08-04",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-015-2026-08-04",
+    "title": "Digital Marketing Manager",
+    "company": "Dubai Tourism (DTCM)",
+    "logoLetters": "DT",
+    "location": "Dubai, UAE",
+    "category": "Sales & Marketing",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 18,000 - 24,000",
+    "featured": false,
+    "description": "Dubai's Department of Tourism and Commerce Marketing (DTCM) is looking for a Digital Marketing Manager to lead digital campaigns, social media strategy, and influencer marketing promoting Dubai as a global destination.",
+    "responsibilities": [
+      "Develop and execute integrated digital marketing campaigns across SEO, SEM, and social media.",
+      "Manage influencer partnerships and content creator programmes.",
+      "Analyse campaign performance through Google Analytics, Meta Business Suite, and TikTok Analytics.",
+      "Lead the team managing Dubai Tourism's multilingual social media accounts.",
+      "Collaborate with regional offices on localised digital marketing strategies."
+    ],
+    "requirements": [
+      "Bachelor's degree in Marketing, Digital Media, or Communications.",
+      "4+ years of digital marketing experience, preferably in travel, hospitality, or destination marketing.",
+      "Google Ads and Meta Blueprint certification.",
+      "Strong data analytics skills and experience with marketing automation tools.",
+      "Multilingual skills (Arabic, Chinese, or Russian) are highly valued."
+    ],
+    "applyEmail": "careers@dtcm.gov.ae",
+    "dateAdded": "2026-08-04",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-014-2026-08-04",
+    "title": "General Surgeon",
+    "company": "Hamad Medical Corporation",
+    "logoLetters": "HM",
+    "location": "Doha, Qatar",
+    "category": "Healthcare",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "QAR 55,000 - 75,000 + Full Package",
+    "featured": true,
+    "description": "Hamad Medical Corporation (HMC), Qatar's premier government healthcare system, is recruiting Consultant General Surgeons for Hamad General Hospital, Doha.",
+    "responsibilities": [
+      "Provide general surgical care including emergency, elective, and laparoscopic procedures.",
+      "Lead multidisciplinary surgical team rounds and case conferences.",
+      "Perform advanced laparoscopic, colorectal, and hepatobiliary surgery.",
+      "Supervise and mentor surgical residents and registrars.",
+      "Participate in research, audit, and quality improvement programmes."
+    ],
+    "requirements": [
+      "MBBS + FRCS, FACS, FRACS, or equivalent surgical board certification.",
+      "Minimum 5 years post-CCT or post-fellowship experience as a general surgery consultant.",
+      "Qatar Council for Healthcare Practitioners (QCHP) registration required.",
+      "Advanced laparoscopic surgery skills required.",
+      "Academic/research background is preferred."
+    ],
+    "applyEmail": "medical.staffing@hmc.org.qa",
+    "dateAdded": "2026-08-04",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-013-2026-08-03",
     "title": "Data Scientist",
     "company": "First Abu Dhabi Bank (FAB)",
@@ -27,7 +117,7 @@
     ],
     "applyEmail": "careers@bankfab.com",
     "dateAdded": "2026-08-03",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-012-2026-08-03",
@@ -57,7 +147,7 @@
     ],
     "applyEmail": "careers@fluor.com",
     "dateAdded": "2026-08-03",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-011-2026-08-03",
@@ -87,7 +177,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-08-03",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-010-2026-08-02",
@@ -117,7 +207,7 @@
     ],
     "applyEmail": "careers@aecom.com",
     "dateAdded": "2026-08-02",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-009-2026-08-02",
@@ -147,7 +237,7 @@
     ],
     "applyEmail": "careers@waldorfastoria.com",
     "dateAdded": "2026-08-02",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-008-2026-08-02",
@@ -177,7 +267,7 @@
     ],
     "applyEmail": "culinary.careers@rosewoodhotels.com",
     "dateAdded": "2026-08-02",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-1ecf5cef",
@@ -204,7 +294,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-02",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-008-2026-08-01",
@@ -234,7 +324,7 @@
     ],
     "applyEmail": "culinary.careers@rosewoodhotels.com",
     "dateAdded": "2026-08-01",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-007-2026-08-01",
@@ -264,7 +354,7 @@
     ],
     "applyEmail": "careers@asterhospitals.in",
     "dateAdded": "2026-08-01",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-006-2026-08-01",
@@ -294,7 +384,7 @@
     ],
     "applyEmail": "nursing.recruitment@kfshrc.edu.sa",
     "dateAdded": "2026-08-01",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-005-2026-07-31",
@@ -324,7 +414,7 @@
     ],
     "applyEmail": "careers@microsoft.com",
     "dateAdded": "2026-07-31",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-004-2026-07-31",
@@ -354,7 +444,7 @@
     ],
     "applyEmail": "careers@ooredoo.com",
     "dateAdded": "2026-07-31",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-003-2026-07-31",
@@ -384,7 +474,7 @@
     ],
     "applyEmail": "recruitment@woodplc.com",
     "dateAdded": "2026-07-31",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-82a38d7e",
@@ -411,7 +501,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-31",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-003-2026-07-30",
@@ -441,7 +531,7 @@
     ],
     "applyEmail": "recruitment@woodplc.com",
     "dateAdded": "2026-07-30",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-002-2026-07-30",
@@ -471,7 +561,7 @@
     ],
     "applyEmail": "careers@se.com.sa",
     "dateAdded": "2026-07-30",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-001-2026-07-30",
@@ -501,7 +591,7 @@
     ],
     "applyEmail": "careers@parsons.com",
     "dateAdded": "2026-07-30",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-a8328e83",
@@ -528,7 +618,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-30",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-001-2026-07-29",
@@ -558,7 +648,7 @@
     ],
     "applyEmail": "careers@parsons.com",
     "dateAdded": "2026-07-29",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-5588e58e",
@@ -585,7 +675,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-29",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-0f7b190a",
@@ -612,7 +702,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-29",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-a4674111",
@@ -639,7 +729,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-29",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-7b8dfca4",
@@ -666,7 +756,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-28",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-54a0fda3",
@@ -693,7 +783,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-28",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-ce0189bb",
@@ -720,7 +810,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-28",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-1bc4d28e",
@@ -990,87 +1080,6 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-27",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-77515356",
-    "title": "Cultural Advisor",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Abadilah, United Arab Emirates",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "AED 10,000 - 18,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/77515356-9d1f-43c9-b11a-594dd7564afc/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Cultural Advisor to join client operations in Abadilah, United Arab Emirates. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Cultural Advisor in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Abadilah, United Arab Emirates.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Cultural Advisor.",
-      "Proven hands-on experience in Abadilah, United Arab Emirates or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-26",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-4b9aef8d",
-    "title": "Graphic Designer",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/4b9aef8d-4bf2-455e-bbc7-ff73db23233e/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Graphic Designer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Graphic Designer in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Graphic Designer.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-26",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-d6c7dddc",
-    "title": "Project Manager – Building Management & Control Systems (BMS/BEMS)",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "IT & Tech",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/d6c7dddc-cfa0-41fb-96af-25bb219e6b4a/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Project Manager – Building Management & Control Systems (BMS/BEMS) to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Project Manager – Building Management & Control Systems (BMS/BEMS) in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Project Manager – Building Management & Control Systems (BMS/BEMS).",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-26",
     "postedDate": "1 week ago"
   }
 ]
