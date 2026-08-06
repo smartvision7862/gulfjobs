@@ -2,7 +2,43 @@
 <source>
   <publisher>GullfJob Portal</publisher>
   <publisherurl>https://smartvision7862.github.io/gulfjobs/</publisherurl>
-  <lastBuildDate>Wed, 05 Aug 2026 08:44:12 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 06 Aug 2026 08:45:54 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Pharmacist – Clinical]]></title>
+    <date><![CDATA[Thu, 06 Aug 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-017-2026-08-06]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-017-2026-08-06]]></url>
+    <company><![CDATA[Cleveland Clinic Abu Dhabi]]></company>
+    <city><![CDATA[Abu Dhabi]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[Cleveland Clinic Abu Dhabi is recruiting a Clinical Pharmacist to join our multidisciplinary healthcare team, providing expert pharmaceutical care to complex medical and surgical inpatients.]]></description>
+    <salary><![CDATA[AED 18,000 - 24,000]]></salary>
+    <category><![CDATA[Healthcare]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Maintenance Planner]]></title>
+    <date><![CDATA[Thu, 06 Aug 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-016-2026-08-06]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-016-2026-08-06]]></url>
+    <company><![CDATA[ADNOC Onshore]]></company>
+    <city><![CDATA[Abu Dhabi]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[ADNOC Onshore is seeking a Maintenance Planner to develop, optimise, and manage preventive and corrective maintenance plans for onshore oil & gas production facilities.]]></description>
+    <salary><![CDATA[AED 16,000 - 22,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Digital Marketing Manager]]></title>
+    <date><![CDATA[Thu, 06 Aug 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-015-2026-08-06]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-015-2026-08-06]]></url>
+    <company><![CDATA[Dubai Tourism (DTCM)]]></company>
+    <city><![CDATA[Dubai]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[Dubai's Department of Tourism and Commerce Marketing (DTCM) is looking for a Digital Marketing Manager to lead digital campaigns, social media strategy, and influencer marketing promoting Dubai as a global destination.]]></description>
+    <salary><![CDATA[AED 18,000 - 24,000]]></salary>
+    <category><![CDATA[Sales & Marketing]]></category>
+  </job>
   <job>
     <title><![CDATA[General Surgeon]]></title>
     <date><![CDATA[Wed, 05 Aug 2026 00:00:00 GMT]]></date>
@@ -398,41 +434,5 @@
     <description><![CDATA[Swan Global is seeking a qualified General Manager to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
     <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
     <category><![CDATA[Management & HR]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Qc Inspector Welding]]></title>
-    <date><![CDATA[Tue, 28 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-7b8dfca4]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/7b8dfca4-f728-4c41-a36b-7f2e4fbf3167/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Qc Inspector Welding to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[IT & Digital Transformation Manager]]></title>
-    <date><![CDATA[Tue, 28 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-54a0fda3]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/54a0fda3-feb9-4cd7-bb66-96ec7edaceea/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified IT & Digital Transformation Manager to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[IT & Tech]]></category>
-  </job>
-  <job>
-    <title><![CDATA[MEP CAD Operator (Oil & Gas)]]></title>
-    <date><![CDATA[Tue, 28 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-ce0189bb]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/ce0189bb-3d9b-4608-85ab-81626f74e138/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified MEP CAD Operator (Oil & Gas) to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
   </job>
 </source>
