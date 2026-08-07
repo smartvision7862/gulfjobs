@@ -1,5 +1,122 @@
 [
   {
+    "id": "pool-019-2026-08-07",
+    "title": "Business Development Manager – Logistics",
+    "company": "DP World",
+    "logoLetters": "DP",
+    "location": "Dubai, UAE",
+    "category": "Sales & Marketing",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "AED 28,000 - 38,000 + Commission",
+    "featured": true,
+    "description": "DP World is looking for a Business Development Manager to drive new cargo, port, and logistics solutions sales to enterprise clients across GCC and South Asia trade lanes.",
+    "responsibilities": [
+      "Identify and pursue new business opportunities in freight forwarding, port, and logistics solutions.",
+      "Develop and manage a portfolio of enterprise shipping and supply chain clients.",
+      "Negotiate long-term contracts and service level agreements.",
+      "Collaborate with operations, pricing, and product teams to develop winning proposals.",
+      "Represent DP World at trade conferences, industry events, and client meetings."
+    ],
+    "requirements": [
+      "Bachelor's degree in Business, Logistics, or Supply Chain Management.",
+      "Minimum 7 years of BD/sales experience in port, freight, or logistics industry.",
+      "Strong network in GCC or South Asia shipping/cargo market.",
+      "Excellent negotiation, presentation, and CRM skills.",
+      "Proficiency in Salesforce and logistics analytics platforms."
+    ],
+    "applyEmail": "careers@dpworld.com",
+    "dateAdded": "2026-08-07",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-018-2026-08-07",
+    "title": "Spa & Wellness Director",
+    "company": "Six Senses Hotels Resorts Spas",
+    "logoLetters": "SS",
+    "location": "Muscat, Oman",
+    "category": "Hospitality",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "OMR 2,500 - 3,500 + Benefits",
+    "featured": false,
+    "description": "Six Senses Zighy Bay Oman is seeking a Spa & Wellness Director to lead our award-winning spa programme, integrating holistic wellbeing, ancient healing, and contemporary treatments.",
+    "responsibilities": [
+      "Lead spa and wellness operations including treatments, fitness, and wellness programmes.",
+      "Develop seasonal spa menus, wellness retreats, and signature ritual offerings.",
+      "Recruit, train, and inspire a team of 30+ therapists and wellness specialists.",
+      "Achieve spa revenue targets and manage operating costs.",
+      "Build relationships with wellness brand partners and local healing practitioners."
+    ],
+    "requirements": [
+      "Degree in Spa Management, Wellness, or Holistic Health.",
+      "Minimum 7 years of spa management experience; 3+ years as Director.",
+      "Experience in luxury resort spa is essential; GCC experience preferred.",
+      "ITEC, CIDESCO, or CIBTAC therapy certification is an advantage.",
+      "Strong operational, business, and people leadership skills."
+    ],
+    "applyEmail": "careers@sixsenses.com",
+    "dateAdded": "2026-08-07",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-017-2026-08-07",
+    "title": "Pharmacist – Clinical",
+    "company": "Cleveland Clinic Abu Dhabi",
+    "logoLetters": "CC",
+    "location": "Abu Dhabi, UAE",
+    "category": "Healthcare",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 18,000 - 24,000",
+    "featured": true,
+    "description": "Cleveland Clinic Abu Dhabi is recruiting a Clinical Pharmacist to join our multidisciplinary healthcare team, providing expert pharmaceutical care to complex medical and surgical inpatients.",
+    "responsibilities": [
+      "Conduct medication reconciliation, clinical review, and pharmacokinetic monitoring.",
+      "Collaborate with physicians and nurses on drug therapy optimisation.",
+      "Provide drug information and pharmacovigilance reporting.",
+      "Participate in antimicrobial stewardship and medication safety programmes.",
+      "Contribute to clinical pharmacy research and quality improvement projects."
+    ],
+    "requirements": [
+      "Bachelor's degree in Pharmacy (BPharm/PharmD) from an accredited institution.",
+      "Minimum 3 years of clinical pharmacy experience in a hospital setting.",
+      "DOH/DHA pharmacy license required; support provided for UAE registration.",
+      "Board certification (BCPS, BCCP, or equivalent) is preferred.",
+      "Strong clinical pharmacology knowledge and patient communication skills."
+    ],
+    "applyEmail": "careers@clevelandclinicabudhabi.ae",
+    "dateAdded": "2026-08-07",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-7bc115b2",
+    "title": "HVAC TECHNICIAN",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/7bc115b2-f8b7-4fcb-bfde-9ef8366ea06d/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified HVAC TECHNICIAN to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as HVAC TECHNICIAN in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for HVAC TECHNICIAN.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-08-07",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-017-2026-08-06",
     "title": "Pharmacist – Clinical",
     "company": "Cleveland Clinic Abu Dhabi",
@@ -27,7 +144,7 @@
     ],
     "applyEmail": "careers@clevelandclinicabudhabi.ae",
     "dateAdded": "2026-08-06",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-016-2026-08-06",
@@ -57,7 +174,7 @@
     ],
     "applyEmail": "careers@adnoc.ae",
     "dateAdded": "2026-08-06",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-015-2026-08-06",
@@ -87,7 +204,7 @@
     ],
     "applyEmail": "careers@dtcm.gov.ae",
     "dateAdded": "2026-08-06",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-014-2026-08-05",
@@ -117,7 +234,7 @@
     ],
     "applyEmail": "medical.staffing@hmc.org.qa",
     "dateAdded": "2026-08-05",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-013-2026-08-05",
@@ -147,7 +264,7 @@
     ],
     "applyEmail": "careers@bankfab.com",
     "dateAdded": "2026-08-05",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-012-2026-08-05",
@@ -177,7 +294,7 @@
     ],
     "applyEmail": "careers@fluor.com",
     "dateAdded": "2026-08-05",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-5486b23b",
@@ -204,7 +321,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-05",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-dbaa4ccf",
@@ -231,7 +348,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-05",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-a91835f6",
@@ -258,7 +375,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-05",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-53bd2be6",
@@ -285,7 +402,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-05",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-4091c905",
@@ -312,7 +429,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-05",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-016-2026-08-04",
@@ -342,7 +459,7 @@
     ],
     "applyEmail": "careers@adnoc.ae",
     "dateAdded": "2026-08-04",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-015-2026-08-04",
@@ -372,7 +489,7 @@
     ],
     "applyEmail": "careers@dtcm.gov.ae",
     "dateAdded": "2026-08-04",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-014-2026-08-04",
@@ -402,7 +519,7 @@
     ],
     "applyEmail": "medical.staffing@hmc.org.qa",
     "dateAdded": "2026-08-04",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-013-2026-08-03",
@@ -432,7 +549,7 @@
     ],
     "applyEmail": "careers@bankfab.com",
     "dateAdded": "2026-08-03",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-012-2026-08-03",
@@ -462,7 +579,7 @@
     ],
     "applyEmail": "careers@fluor.com",
     "dateAdded": "2026-08-03",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-011-2026-08-03",
@@ -492,7 +609,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-08-03",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-010-2026-08-02",
@@ -522,7 +639,7 @@
     ],
     "applyEmail": "careers@aecom.com",
     "dateAdded": "2026-08-02",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-009-2026-08-02",
@@ -552,7 +669,7 @@
     ],
     "applyEmail": "careers@waldorfastoria.com",
     "dateAdded": "2026-08-02",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-008-2026-08-02",
@@ -582,7 +699,7 @@
     ],
     "applyEmail": "culinary.careers@rosewoodhotels.com",
     "dateAdded": "2026-08-02",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-1ecf5cef",
@@ -609,7 +726,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-02",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-008-2026-08-01",
@@ -639,7 +756,7 @@
     ],
     "applyEmail": "culinary.careers@rosewoodhotels.com",
     "dateAdded": "2026-08-01",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-007-2026-08-01",
@@ -669,7 +786,7 @@
     ],
     "applyEmail": "careers@asterhospitals.in",
     "dateAdded": "2026-08-01",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-006-2026-08-01",
@@ -699,7 +816,7 @@
     ],
     "applyEmail": "nursing.recruitment@kfshrc.edu.sa",
     "dateAdded": "2026-08-01",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-005-2026-07-31",
@@ -729,7 +846,7 @@
     ],
     "applyEmail": "careers@microsoft.com",
     "dateAdded": "2026-07-31",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-004-2026-07-31",
@@ -759,7 +876,7 @@
     ],
     "applyEmail": "careers@ooredoo.com",
     "dateAdded": "2026-07-31",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-003-2026-07-31",
@@ -789,7 +906,7 @@
     ],
     "applyEmail": "recruitment@woodplc.com",
     "dateAdded": "2026-07-31",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-82a38d7e",
@@ -816,7 +933,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-31",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-003-2026-07-30",
@@ -933,117 +1050,6 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-30",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "pool-001-2026-07-29",
-    "title": "Quantity Surveyor",
-    "company": "Parsons Corporation",
-    "logoLetters": "PC",
-    "location": "Riyadh, Saudi Arabia",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "SAR 18,000 - 24,000",
-    "featured": true,
-    "description": "Parsons Corporation is recruiting a Quantity Surveyor to support major infrastructure projects in Riyadh under the Vision 2030 programme. You will prepare cost estimates, manage subcontractor payments, and ensure value engineering.",
-    "responsibilities": [
-      "Prepare Bills of Quantities (BOQ), cost plans, and tender documentation.",
-      "Manage subcontractor measurement, valuation, and payment certification.",
-      "Assess and negotiate variation orders and change requests.",
-      "Perform cost monitoring, forecasting, and final account preparation.",
-      "Liaise with project managers, designers, and client quantity surveyors."
-    ],
-    "requirements": [
-      "Bachelor's degree in Quantity Surveying, Civil Engineering, or Construction Management.",
-      "Minimum 5 years of QS experience on infrastructure or building projects.",
-      "Membership of RICS or CIQS is preferred.",
-      "Proficiency in CostX, Candy, or HCSS cost management software.",
-      "Experience on Saudi Vision 2030 projects is a significant advantage."
-    ],
-    "applyEmail": "careers@parsons.com",
-    "dateAdded": "2026-07-29",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-5588e58e",
-    "title": "QC INSPECTOR PIPING",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/5588e58e-5ccd-4de7-a6c4-2dffdc71a2f0/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified QC INSPECTOR PIPING to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as QC INSPECTOR PIPING in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for QC INSPECTOR PIPING.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-29",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-0f7b190a",
-    "title": "QC Inspector – Painting / Coating",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/0f7b190a-76eb-4207-a481-e6117eb4dda4/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified QC Inspector – Painting / Coating to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as QC Inspector – Painting / Coating in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for QC Inspector – Painting / Coating.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-29",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-a4674111",
-    "title": "General Manager",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Management & HR",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/a4674111-0791-4752-a00d-69d1c851f85a/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified General Manager to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as General Manager in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for General Manager.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-29",
     "postedDate": "1 week ago"
   }
 ]
