@@ -1,5 +1,95 @@
 [
   {
+    "id": "pool-022-2026-08-08",
+    "title": "Welding Inspector – CSWIP 3.1",
+    "company": "TechnipFMC",
+    "logoLetters": "TF",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Contract",
+    "experience": "Mid Level",
+    "salary": "QAR 12,000 - 16,000",
+    "featured": false,
+    "description": "TechnipFMC is seeking CSWIP 3.1 certified Welding Inspectors for subsea pipeline and topside structural welding activities on offshore Qatar projects.",
+    "responsibilities": [
+      "Inspect and witness welding activities against approved WPS/PQR documentation.",
+      "Perform visual and dimensional inspections of weld joints.",
+      "Coordinate NDE (UT, RT, MT, PT) testing and interpret results.",
+      "Review and accept welder qualification records and continuity logs.",
+      "Prepare daily inspection reports and nonconformance reports (NCRs)."
+    ],
+    "requirements": [
+      "CSWIP 3.1 Welding Inspector certification (mandatory).",
+      "Minimum 5 years of welding inspection experience in oil & gas projects.",
+      "Knowledge of AWS D1.1, ASME IX, and API 1104 welding codes.",
+      "Experience with subsea pipeline or structural steel inspection.",
+      "PCN Level 2 in UT or RT is preferred."
+    ],
+    "applyEmail": "talent@technipfmc.com",
+    "dateAdded": "2026-08-08",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-021-2026-08-08",
+    "title": "Internal Audit Manager",
+    "company": "Kuwait Finance House (KFH)",
+    "logoLetters": "KH",
+    "location": "Kuwait City, Kuwait",
+    "category": "Finance",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "KWD 2,500 - 3,500",
+    "featured": false,
+    "description": "Kuwait Finance House (KFH) is recruiting an Internal Audit Manager to lead risk-based internal audit reviews across banking, treasury, retail, and operations divisions.",
+    "responsibilities": [
+      "Plan and execute risk-based internal audit engagements across all business lines.",
+      "Lead a team of 5+ auditors, reviewing audit workpapers and reports.",
+      "Assess internal controls, compliance, and risk management effectiveness.",
+      "Present audit findings and management action plans to Audit Committee.",
+      "Monitor implementation of agreed audit recommendations."
+    ],
+    "requirements": [
+      "Bachelor's degree in Accounting or Finance; CIA or CISA certification required.",
+      "Minimum 7 years of internal or external audit experience in banking.",
+      "Knowledge of Islamic banking principles and GCC Central Bank regulations.",
+      "Proficiency in audit management software (TeamMate, ACL, or equivalent).",
+      "Arabic language skills are essential for this role."
+    ],
+    "applyEmail": "hr@kfh.com",
+    "dateAdded": "2026-08-08",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-020-2026-08-08",
+    "title": "Telecom RF Engineer – 5G",
+    "company": "STC (Saudi Telecom Company)",
+    "logoLetters": "ST",
+    "location": "Riyadh, Saudi Arabia",
+    "category": "IT & Tech",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "SAR 18,000 - 25,000",
+    "featured": false,
+    "description": "STC is expanding its 5G network and hiring RF Engineers to plan, optimise, and troubleshoot radio frequency networks across the Kingdom of Saudi Arabia.",
+    "responsibilities": [
+      "Plan, design, and optimise 5G NR and 4G LTE radio networks.",
+      "Conduct drive tests, CQT, and network performance benchmarking.",
+      "Analyse KPIs and identify root causes for RF-related degradations.",
+      "Coordinate with vendors (Ericsson, Nokia, Huawei) on RAN optimisation.",
+      "Prepare RF engineering reports, frequency plans, and tilt/power recommendations."
+    ],
+    "requirements": [
+      "Bachelor's degree in Telecommunications or Electrical Engineering.",
+      "3+ years of RF planning and optimisation experience on 4G/5G networks.",
+      "Proficiency in Atoll, Planet, or Asset radio planning tools.",
+      "Experience with Ericsson OSS or Nokia NetAct is preferred.",
+      "CCNA or relevant vendor certification is an advantage."
+    ],
+    "applyEmail": "careers@stc.com.sa",
+    "dateAdded": "2026-08-08",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-019-2026-08-07",
     "title": "Business Development Manager – Logistics",
     "company": "DP World",
@@ -27,7 +117,7 @@
     ],
     "applyEmail": "careers@dpworld.com",
     "dateAdded": "2026-08-07",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-018-2026-08-07",
@@ -57,7 +147,7 @@
     ],
     "applyEmail": "careers@sixsenses.com",
     "dateAdded": "2026-08-07",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-017-2026-08-07",
@@ -87,7 +177,7 @@
     ],
     "applyEmail": "careers@clevelandclinicabudhabi.ae",
     "dateAdded": "2026-08-07",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-7bc115b2",
@@ -114,7 +204,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-07",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-017-2026-08-06",
@@ -144,7 +234,7 @@
     ],
     "applyEmail": "careers@clevelandclinicabudhabi.ae",
     "dateAdded": "2026-08-06",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-016-2026-08-06",
@@ -174,7 +264,7 @@
     ],
     "applyEmail": "careers@adnoc.ae",
     "dateAdded": "2026-08-06",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-015-2026-08-06",
@@ -204,7 +294,7 @@
     ],
     "applyEmail": "careers@dtcm.gov.ae",
     "dateAdded": "2026-08-06",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-014-2026-08-05",
@@ -234,7 +324,7 @@
     ],
     "applyEmail": "medical.staffing@hmc.org.qa",
     "dateAdded": "2026-08-05",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-013-2026-08-05",
@@ -264,7 +354,7 @@
     ],
     "applyEmail": "careers@bankfab.com",
     "dateAdded": "2026-08-05",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-012-2026-08-05",
@@ -294,7 +384,7 @@
     ],
     "applyEmail": "careers@fluor.com",
     "dateAdded": "2026-08-05",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-5486b23b",
@@ -321,7 +411,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-05",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-dbaa4ccf",
@@ -348,7 +438,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-05",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-a91835f6",
@@ -375,7 +465,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-05",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-53bd2be6",
@@ -402,7 +492,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-05",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-4091c905",
@@ -429,7 +519,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-05",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-016-2026-08-04",
@@ -459,7 +549,7 @@
     ],
     "applyEmail": "careers@adnoc.ae",
     "dateAdded": "2026-08-04",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-015-2026-08-04",
@@ -489,7 +579,7 @@
     ],
     "applyEmail": "careers@dtcm.gov.ae",
     "dateAdded": "2026-08-04",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-014-2026-08-04",
@@ -519,7 +609,7 @@
     ],
     "applyEmail": "medical.staffing@hmc.org.qa",
     "dateAdded": "2026-08-04",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-013-2026-08-03",
@@ -549,7 +639,7 @@
     ],
     "applyEmail": "careers@bankfab.com",
     "dateAdded": "2026-08-03",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-012-2026-08-03",
@@ -579,7 +669,7 @@
     ],
     "applyEmail": "careers@fluor.com",
     "dateAdded": "2026-08-03",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-011-2026-08-03",
@@ -609,7 +699,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-08-03",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-010-2026-08-02",
@@ -639,7 +729,7 @@
     ],
     "applyEmail": "careers@aecom.com",
     "dateAdded": "2026-08-02",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-009-2026-08-02",
@@ -669,7 +759,7 @@
     ],
     "applyEmail": "careers@waldorfastoria.com",
     "dateAdded": "2026-08-02",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-008-2026-08-02",
@@ -699,7 +789,7 @@
     ],
     "applyEmail": "culinary.careers@rosewoodhotels.com",
     "dateAdded": "2026-08-02",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-1ecf5cef",
@@ -726,7 +816,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-02",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-008-2026-08-01",
@@ -756,7 +846,7 @@
     ],
     "applyEmail": "culinary.careers@rosewoodhotels.com",
     "dateAdded": "2026-08-01",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-007-2026-08-01",
@@ -786,7 +876,7 @@
     ],
     "applyEmail": "careers@asterhospitals.in",
     "dateAdded": "2026-08-01",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-006-2026-08-01",
@@ -816,7 +906,7 @@
     ],
     "applyEmail": "nursing.recruitment@kfshrc.edu.sa",
     "dateAdded": "2026-08-01",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-005-2026-07-31",
@@ -933,123 +1023,6 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-07-31",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "pool-003-2026-07-30",
-    "title": "Commissioning Engineer – Oil & Gas",
-    "company": "Wood Group (John Wood Group)",
-    "logoLetters": "WG",
-    "location": "Abu Dhabi, UAE",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "AED 22,000 - 28,000",
-    "featured": true,
-    "description": "Wood Group is seeking a Commissioning Engineer to lead pre-commissioning and commissioning activities for upstream and midstream oil & gas facilities in Abu Dhabi.",
-    "responsibilities": [
-      "Develop commissioning plans, procedures, and punch-list management systems.",
-      "Lead and execute mechanical completion, pre-commissioning, and commissioning activities.",
-      "Oversee completions management and systems handover to operations.",
-      "Coordinate with discipline leads (mechanical, instrument, electrical) during commissioning.",
-      "Participate in start-up and performance testing of process equipment."
-    ],
-    "requirements": [
-      "Bachelor's degree in Mechanical, Chemical, or Process Engineering.",
-      "Minimum 8 years of commissioning experience in oil & gas or petrochemical projects.",
-      "Proficiency in Completions Management Software (ICAPS, Conject, or equivalent).",
-      "Experience with ADNOC or international IOC project standards.",
-      "BOSIET offshore survival certificate preferred."
-    ],
-    "applyEmail": "recruitment@woodplc.com",
-    "dateAdded": "2026-07-30",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "pool-002-2026-07-30",
-    "title": "Electrical Engineer – Power Distribution",
-    "company": "Saudi Electricity Company (SEC)",
-    "logoLetters": "SE",
-    "location": "Riyadh, Saudi Arabia",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "SAR 16,000 - 21,000",
-    "featured": false,
-    "description": "Saudi Electricity Company (SEC) is hiring Electrical Engineers to design and oversee medium and high voltage power distribution networks across the Kingdom.",
-    "responsibilities": [
-      "Design HV/MV power distribution systems (33kV, 132kV, 380kV).",
-      "Review and approve single-line diagrams, protection schemes, and cable routing designs.",
-      "Oversee construction and commissioning of substations and distribution lines.",
-      "Perform load flow, short-circuit, and protection coordination studies.",
-      "Manage interfaces with EPC contractors and equipment vendors."
-    ],
-    "requirements": [
-      "Bachelor's degree in Electrical Power Engineering.",
-      "4+ years in HV/MV power system design or operation.",
-      "Proficiency in ETAP, DIgSILENT PowerFactory, or PSS/E software.",
-      "Knowledge of IEC standards for switchgear, transformers, and protection.",
-      "Saudi Council of Engineers (SCE) registration required."
-    ],
-    "applyEmail": "careers@se.com.sa",
-    "dateAdded": "2026-07-30",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "pool-001-2026-07-30",
-    "title": "Quantity Surveyor",
-    "company": "Parsons Corporation",
-    "logoLetters": "PC",
-    "location": "Riyadh, Saudi Arabia",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "SAR 18,000 - 24,000",
-    "featured": true,
-    "description": "Parsons Corporation is recruiting a Quantity Surveyor to support major infrastructure projects in Riyadh under the Vision 2030 programme. You will prepare cost estimates, manage subcontractor payments, and ensure value engineering.",
-    "responsibilities": [
-      "Prepare Bills of Quantities (BOQ), cost plans, and tender documentation.",
-      "Manage subcontractor measurement, valuation, and payment certification.",
-      "Assess and negotiate variation orders and change requests.",
-      "Perform cost monitoring, forecasting, and final account preparation.",
-      "Liaise with project managers, designers, and client quantity surveyors."
-    ],
-    "requirements": [
-      "Bachelor's degree in Quantity Surveying, Civil Engineering, or Construction Management.",
-      "Minimum 5 years of QS experience on infrastructure or building projects.",
-      "Membership of RICS or CIQS is preferred.",
-      "Proficiency in CostX, Candy, or HCSS cost management software.",
-      "Experience on Saudi Vision 2030 projects is a significant advantage."
-    ],
-    "applyEmail": "careers@parsons.com",
-    "dateAdded": "2026-07-30",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-a8328e83",
-    "title": "Site Engineer - Mechanical",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/a8328e83-3893-4cca-b9fe-2b7bcc91d832/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Site Engineer - Mechanical to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Site Engineer - Mechanical in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Site Engineer - Mechanical.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-30",
     "postedDate": "1 week ago"
   }
 ]

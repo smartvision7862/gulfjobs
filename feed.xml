@@ -2,7 +2,43 @@
 <source>
   <publisher>GullfJob Portal</publisher>
   <publisherurl>https://smartvision7862.github.io/gulfjobs/</publisherurl>
-  <lastBuildDate>Fri, 07 Aug 2026 07:24:40 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 07:01:52 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Welding Inspector – CSWIP 3.1]]></title>
+    <date><![CDATA[Sat, 08 Aug 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-022-2026-08-08]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-022-2026-08-08]]></url>
+    <company><![CDATA[TechnipFMC]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[TechnipFMC is seeking CSWIP 3.1 certified Welding Inspectors for subsea pipeline and topside structural welding activities on offshore Qatar projects.]]></description>
+    <salary><![CDATA[QAR 12,000 - 16,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Internal Audit Manager]]></title>
+    <date><![CDATA[Sat, 08 Aug 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-021-2026-08-08]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-021-2026-08-08]]></url>
+    <company><![CDATA[Kuwait Finance House (KFH)]]></company>
+    <city><![CDATA[Kuwait City]]></city>
+    <country><![CDATA[KW]]></country>
+    <description><![CDATA[Kuwait Finance House (KFH) is recruiting an Internal Audit Manager to lead risk-based internal audit reviews across banking, treasury, retail, and operations divisions.]]></description>
+    <salary><![CDATA[KWD 2,500 - 3,500]]></salary>
+    <category><![CDATA[Finance]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Telecom RF Engineer – 5G]]></title>
+    <date><![CDATA[Sat, 08 Aug 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-020-2026-08-08]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-020-2026-08-08]]></url>
+    <company><![CDATA[STC (Saudi Telecom Company)]]></company>
+    <city><![CDATA[Riyadh]]></city>
+    <country><![CDATA[SA]]></country>
+    <description><![CDATA[STC is expanding its 5G network and hiring RF Engineers to plan, optimise, and troubleshoot radio frequency networks across the Kingdom of Saudi Arabia.]]></description>
+    <salary><![CDATA[SAR 18,000 - 25,000]]></salary>
+    <category><![CDATA[IT & Tech]]></category>
+  </job>
   <job>
     <title><![CDATA[Business Development Manager – Logistics]]></title>
     <date><![CDATA[Fri, 07 Aug 2026 00:00:00 GMT]]></date>
@@ -384,54 +420,6 @@
     <city><![CDATA[Doha]]></city>
     <country><![CDATA[QA]]></country>
     <description><![CDATA[Swan Global is seeking a qualified Pre-Commissioning Supervisor - Piping to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Commissioning Engineer – Oil & Gas]]></title>
-    <date><![CDATA[Thu, 30 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-003-2026-07-30]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-003-2026-07-30]]></url>
-    <company><![CDATA[Wood Group (John Wood Group)]]></company>
-    <city><![CDATA[Abu Dhabi]]></city>
-    <country><![CDATA[AE]]></country>
-    <description><![CDATA[Wood Group is seeking a Commissioning Engineer to lead pre-commissioning and commissioning activities for upstream and midstream oil & gas facilities in Abu Dhabi.]]></description>
-    <salary><![CDATA[AED 22,000 - 28,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Electrical Engineer – Power Distribution]]></title>
-    <date><![CDATA[Thu, 30 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-002-2026-07-30]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-002-2026-07-30]]></url>
-    <company><![CDATA[Saudi Electricity Company (SEC)]]></company>
-    <city><![CDATA[Riyadh]]></city>
-    <country><![CDATA[SA]]></country>
-    <description><![CDATA[Saudi Electricity Company (SEC) is hiring Electrical Engineers to design and oversee medium and high voltage power distribution networks across the Kingdom.]]></description>
-    <salary><![CDATA[SAR 16,000 - 21,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Quantity Surveyor]]></title>
-    <date><![CDATA[Thu, 30 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-001-2026-07-30]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-001-2026-07-30]]></url>
-    <company><![CDATA[Parsons Corporation]]></company>
-    <city><![CDATA[Riyadh]]></city>
-    <country><![CDATA[SA]]></country>
-    <description><![CDATA[Parsons Corporation is recruiting a Quantity Surveyor to support major infrastructure projects in Riyadh under the Vision 2030 programme. You will prepare cost estimates, manage subcontractor payments, and ensure value engineering.]]></description>
-    <salary><![CDATA[SAR 18,000 - 24,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Site Engineer - Mechanical]]></title>
-    <date><![CDATA[Thu, 30 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-a8328e83]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/a8328e83-3893-4cca-b9fe-2b7bcc91d832/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Site Engineer - Mechanical to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
     <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
     <category><![CDATA[Engineering]]></category>
   </job>
