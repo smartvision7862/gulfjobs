@@ -1,5 +1,95 @@
 [
   {
+    "id": "pool-025-2026-08-09",
+    "title": "Pediatrician – Outpatient",
+    "company": "Mediclinic Middle East",
+    "logoLetters": "MC",
+    "location": "Dubai, UAE",
+    "category": "Healthcare",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 38,000 - 52,000",
+    "featured": false,
+    "description": "Mediclinic Middle East is seeking a Consultant Paediatrician for outpatient general and subspecialty paediatrics at our Dubai facilities.",
+    "responsibilities": [
+      "Provide general outpatient paediatric consultations for children 0–18 years.",
+      "Diagnose and manage common paediatric conditions including respiratory, GI, and developmental issues.",
+      "Refer complex cases to appropriate subspecialties within the Mediclinic network.",
+      "Perform developmental assessments, vaccination counselling, and well-child visits.",
+      "Maintain accurate electronic medical records using the hospital HIS system."
+    ],
+    "requirements": [
+      "MBBS + MRCPCH, DCH, ABP, or equivalent paediatric board certification.",
+      "Minimum 4 years of post-specialist qualification paediatric experience.",
+      "DHA specialist/consultant license required; support provided for UAE registration.",
+      "Excellent communication skills with children and parents.",
+      "Arabic language skills are a significant advantage."
+    ],
+    "applyEmail": "careers@mediclinic.ae",
+    "dateAdded": "2026-08-09",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-024-2026-08-09",
+    "title": "Airport Operations Supervisor",
+    "company": "Hamad International Airport (HIA)",
+    "logoLetters": "HI",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "QAR 10,000 - 14,000",
+    "featured": false,
+    "description": "Hamad International Airport (HIA) is recruiting an Airport Operations Supervisor to oversee terminal operations, ground handling coordination, and passenger flow management.",
+    "responsibilities": [
+      "Supervise day-to-day terminal operations including passenger processing and ground handler coordination.",
+      "Monitor operational KPIs (OTP, queue times, gate utilisation) and take corrective actions.",
+      "Liaise with airline representatives, ground handlers, and Qatar CAA on operational matters.",
+      "Lead shift briefings and manage a team of 15+ operations agents.",
+      "Handle disruption management, emergency procedures, and irregular operations."
+    ],
+    "requirements": [
+      "Bachelor's degree in Aviation Management, Business, or Engineering.",
+      "Minimum 4 years of airport operations experience.",
+      "ICAO or IATA airport operations certification is an advantage.",
+      "Experience with AODB, CUTE, and CUSS systems.",
+      "Strong leadership, problem-solving, and multi-tasking skills."
+    ],
+    "applyEmail": "careers@hia.qa",
+    "dateAdded": "2026-08-09",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-023-2026-08-09",
+    "title": "Brand Manager – Consumer Goods",
+    "company": "Unilever Gulf",
+    "logoLetters": "UL",
+    "location": "Dubai, UAE",
+    "category": "Sales & Marketing",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 22,000 - 28,000",
+    "featured": true,
+    "description": "Unilever Gulf is hiring a Brand Manager to lead brand strategy, innovation, and marketing execution for a major home care or personal care brand across GCC markets.",
+    "responsibilities": [
+      "Develop and execute annual brand plans including campaign strategy, media mix, and trade activations.",
+      "Manage NPD pipeline, packaging innovation, and launch executions.",
+      "Analyse brand health metrics, market share data, and consumer insights.",
+      "Collaborate with agency partners on creative development and media planning.",
+      "Manage A&P budget and track ROI of marketing investments."
+    ],
+    "requirements": [
+      "Bachelor's degree in Business, Marketing, or Communications; MBA preferred.",
+      "Minimum 4 years of brand management experience in FMCG.",
+      "Experience in GCC consumer markets is strongly preferred.",
+      "Strong commercial acumen, data analysis, and creative thinking skills.",
+      "Agency management and budget control experience required."
+    ],
+    "applyEmail": "middle.east.careers@unilever.com",
+    "dateAdded": "2026-08-09",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-022-2026-08-08",
     "title": "Welding Inspector – CSWIP 3.1",
     "company": "TechnipFMC",
@@ -27,7 +117,7 @@
     ],
     "applyEmail": "talent@technipfmc.com",
     "dateAdded": "2026-08-08",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-021-2026-08-08",
@@ -57,7 +147,7 @@
     ],
     "applyEmail": "hr@kfh.com",
     "dateAdded": "2026-08-08",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-020-2026-08-08",
@@ -87,7 +177,7 @@
     ],
     "applyEmail": "careers@stc.com.sa",
     "dateAdded": "2026-08-08",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-019-2026-08-07",
@@ -117,7 +207,7 @@
     ],
     "applyEmail": "careers@dpworld.com",
     "dateAdded": "2026-08-07",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-018-2026-08-07",
@@ -147,7 +237,7 @@
     ],
     "applyEmail": "careers@sixsenses.com",
     "dateAdded": "2026-08-07",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-017-2026-08-07",
@@ -177,7 +267,7 @@
     ],
     "applyEmail": "careers@clevelandclinicabudhabi.ae",
     "dateAdded": "2026-08-07",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-7bc115b2",
@@ -204,7 +294,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-07",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-017-2026-08-06",
@@ -234,7 +324,7 @@
     ],
     "applyEmail": "careers@clevelandclinicabudhabi.ae",
     "dateAdded": "2026-08-06",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-016-2026-08-06",
@@ -264,7 +354,7 @@
     ],
     "applyEmail": "careers@adnoc.ae",
     "dateAdded": "2026-08-06",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-015-2026-08-06",
@@ -294,7 +384,7 @@
     ],
     "applyEmail": "careers@dtcm.gov.ae",
     "dateAdded": "2026-08-06",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-014-2026-08-05",
@@ -324,7 +414,7 @@
     ],
     "applyEmail": "medical.staffing@hmc.org.qa",
     "dateAdded": "2026-08-05",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-013-2026-08-05",
@@ -354,7 +444,7 @@
     ],
     "applyEmail": "careers@bankfab.com",
     "dateAdded": "2026-08-05",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-012-2026-08-05",
@@ -384,7 +474,7 @@
     ],
     "applyEmail": "careers@fluor.com",
     "dateAdded": "2026-08-05",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-5486b23b",
@@ -411,7 +501,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-05",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-dbaa4ccf",
@@ -438,7 +528,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-05",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-a91835f6",
@@ -465,7 +555,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-05",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-53bd2be6",
@@ -492,7 +582,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-05",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-4091c905",
@@ -519,7 +609,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-05",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-016-2026-08-04",
@@ -549,7 +639,7 @@
     ],
     "applyEmail": "careers@adnoc.ae",
     "dateAdded": "2026-08-04",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-015-2026-08-04",
@@ -579,7 +669,7 @@
     ],
     "applyEmail": "careers@dtcm.gov.ae",
     "dateAdded": "2026-08-04",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-014-2026-08-04",
@@ -609,7 +699,7 @@
     ],
     "applyEmail": "medical.staffing@hmc.org.qa",
     "dateAdded": "2026-08-04",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-013-2026-08-03",
@@ -639,7 +729,7 @@
     ],
     "applyEmail": "careers@bankfab.com",
     "dateAdded": "2026-08-03",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-012-2026-08-03",
@@ -669,7 +759,7 @@
     ],
     "applyEmail": "careers@fluor.com",
     "dateAdded": "2026-08-03",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-011-2026-08-03",
@@ -699,7 +789,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-08-03",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-010-2026-08-02",
@@ -729,7 +819,7 @@
     ],
     "applyEmail": "careers@aecom.com",
     "dateAdded": "2026-08-02",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-009-2026-08-02",
@@ -759,7 +849,7 @@
     ],
     "applyEmail": "careers@waldorfastoria.com",
     "dateAdded": "2026-08-02",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-008-2026-08-02",
@@ -789,7 +879,7 @@
     ],
     "applyEmail": "culinary.careers@rosewoodhotels.com",
     "dateAdded": "2026-08-02",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-1ecf5cef",
@@ -816,7 +906,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-02",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-008-2026-08-01",
@@ -906,123 +996,6 @@
     ],
     "applyEmail": "nursing.recruitment@kfshrc.edu.sa",
     "dateAdded": "2026-08-01",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "pool-005-2026-07-31",
-    "title": "Cloud Solutions Architect",
-    "company": "Microsoft Middle East & Africa",
-    "logoLetters": "MS",
-    "location": "Dubai, UAE",
-    "category": "IT & Tech",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "AED 35,000 - 50,000",
-    "featured": true,
-    "description": "Microsoft MEA is hiring a Cloud Solutions Architect to lead enterprise Azure migrations and cloud-native design for major clients across the UAE, Saudi Arabia, and Qatar.",
-    "responsibilities": [
-      "Design scalable Azure cloud architectures for enterprise digital transformation projects.",
-      "Lead customer workshops on cloud strategy, well-architected frameworks, and security.",
-      "Build proof-of-concept solutions and technical proposals.",
-      "Support pre-sales, presales engineering, and RFP responses.",
-      "Mentor junior architects and upskill client technical teams."
-    ],
-    "requirements": [
-      "Bachelor's degree in Computer Science or Software Engineering.",
-      "Microsoft Certified: Azure Solutions Architect Expert (AZ-305).",
-      "Minimum 7 years of cloud architecture experience.",
-      "Deep expertise in Azure IaaS, PaaS, Kubernetes, and hybrid networking.",
-      "Experience in GCC enterprise accounts is a significant advantage."
-    ],
-    "applyEmail": "careers@microsoft.com",
-    "dateAdded": "2026-07-31",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "pool-004-2026-07-31",
-    "title": "Cybersecurity Analyst",
-    "company": "Ooredoo Group",
-    "logoLetters": "OR",
-    "location": "Doha, Qatar",
-    "category": "IT & Tech",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 15,000 - 20,000",
-    "featured": false,
-    "description": "Ooredoo Group is hiring a Cybersecurity Analyst to monitor, detect, and respond to threats across its regional telecoms infrastructure and enterprise IT environment.",
-    "responsibilities": [
-      "Monitor SIEM platforms (Splunk, IBM QRadar) for security events and alerts.",
-      "Investigate and triage security incidents using threat intelligence feeds.",
-      "Perform vulnerability assessments and coordinate remediation with IT teams.",
-      "Develop and maintain security runbooks, playbooks, and incident response plans.",
-      "Assist with penetration testing, red team exercises, and SOC operations."
-    ],
-    "requirements": [
-      "Bachelor's degree in Computer Science, Information Security, or related field.",
-      "CompTIA Security+, CEH, or CISSP certification.",
-      "3+ years of SOC/cybersecurity analyst experience.",
-      "Hands-on experience with SIEM, EDR, and vulnerability management tools.",
-      "Knowledge of MITRE ATT&CK framework and threat hunting techniques."
-    ],
-    "applyEmail": "careers@ooredoo.com",
-    "dateAdded": "2026-07-31",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "pool-003-2026-07-31",
-    "title": "Commissioning Engineer – Oil & Gas",
-    "company": "Wood Group (John Wood Group)",
-    "logoLetters": "WG",
-    "location": "Abu Dhabi, UAE",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "AED 22,000 - 28,000",
-    "featured": true,
-    "description": "Wood Group is seeking a Commissioning Engineer to lead pre-commissioning and commissioning activities for upstream and midstream oil & gas facilities in Abu Dhabi.",
-    "responsibilities": [
-      "Develop commissioning plans, procedures, and punch-list management systems.",
-      "Lead and execute mechanical completion, pre-commissioning, and commissioning activities.",
-      "Oversee completions management and systems handover to operations.",
-      "Coordinate with discipline leads (mechanical, instrument, electrical) during commissioning.",
-      "Participate in start-up and performance testing of process equipment."
-    ],
-    "requirements": [
-      "Bachelor's degree in Mechanical, Chemical, or Process Engineering.",
-      "Minimum 8 years of commissioning experience in oil & gas or petrochemical projects.",
-      "Proficiency in Completions Management Software (ICAPS, Conject, or equivalent).",
-      "Experience with ADNOC or international IOC project standards.",
-      "BOSIET offshore survival certificate preferred."
-    ],
-    "applyEmail": "recruitment@woodplc.com",
-    "dateAdded": "2026-07-31",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-82a38d7e",
-    "title": "Pre-Commissioning Supervisor - Piping",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/82a38d7e-ffee-4640-add5-50c15745016f/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Pre-Commissioning Supervisor - Piping to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Pre-Commissioning Supervisor - Piping in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Pre-Commissioning Supervisor - Piping.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-07-31",
     "postedDate": "1 week ago"
   }
 ]

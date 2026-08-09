@@ -2,7 +2,43 @@
 <source>
   <publisher>GullfJob Portal</publisher>
   <publisherurl>https://smartvision7862.github.io/gulfjobs/</publisherurl>
-  <lastBuildDate>Sat, 08 Aug 2026 07:01:52 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 07:04:00 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Pediatrician – Outpatient]]></title>
+    <date><![CDATA[Sun, 09 Aug 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-025-2026-08-09]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-025-2026-08-09]]></url>
+    <company><![CDATA[Mediclinic Middle East]]></company>
+    <city><![CDATA[Dubai]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[Mediclinic Middle East is seeking a Consultant Paediatrician for outpatient general and subspecialty paediatrics at our Dubai facilities.]]></description>
+    <salary><![CDATA[AED 38,000 - 52,000]]></salary>
+    <category><![CDATA[Healthcare]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Airport Operations Supervisor]]></title>
+    <date><![CDATA[Sun, 09 Aug 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-024-2026-08-09]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-024-2026-08-09]]></url>
+    <company><![CDATA[Hamad International Airport (HIA)]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[Hamad International Airport (HIA) is recruiting an Airport Operations Supervisor to oversee terminal operations, ground handling coordination, and passenger flow management.]]></description>
+    <salary><![CDATA[QAR 10,000 - 14,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Brand Manager – Consumer Goods]]></title>
+    <date><![CDATA[Sun, 09 Aug 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-023-2026-08-09]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-023-2026-08-09]]></url>
+    <company><![CDATA[Unilever Gulf]]></company>
+    <city><![CDATA[Dubai]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[Unilever Gulf is hiring a Brand Manager to lead brand strategy, innovation, and marketing execution for a major home care or personal care brand across GCC markets.]]></description>
+    <salary><![CDATA[AED 22,000 - 28,000]]></salary>
+    <category><![CDATA[Sales & Marketing]]></category>
+  </job>
   <job>
     <title><![CDATA[Welding Inspector – CSWIP 3.1]]></title>
     <date><![CDATA[Sat, 08 Aug 2026 00:00:00 GMT]]></date>
@@ -374,53 +410,5 @@
     <description><![CDATA[King Faisal Specialist Hospital & Research Centre (KFSH&RC) is recruiting ICU Registered Nurses to join our world-class critical care team in Riyadh. Tax-free salary plus accommodation, flights, and healthcare.]]></description>
     <salary><![CDATA[SAR 12,000 - 16,000 + Benefits]]></salary>
     <category><![CDATA[Healthcare]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Cloud Solutions Architect]]></title>
-    <date><![CDATA[Fri, 31 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-005-2026-07-31]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-005-2026-07-31]]></url>
-    <company><![CDATA[Microsoft Middle East & Africa]]></company>
-    <city><![CDATA[Dubai]]></city>
-    <country><![CDATA[AE]]></country>
-    <description><![CDATA[Microsoft MEA is hiring a Cloud Solutions Architect to lead enterprise Azure migrations and cloud-native design for major clients across the UAE, Saudi Arabia, and Qatar.]]></description>
-    <salary><![CDATA[AED 35,000 - 50,000]]></salary>
-    <category><![CDATA[IT & Tech]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Cybersecurity Analyst]]></title>
-    <date><![CDATA[Fri, 31 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-004-2026-07-31]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-004-2026-07-31]]></url>
-    <company><![CDATA[Ooredoo Group]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Ooredoo Group is hiring a Cybersecurity Analyst to monitor, detect, and respond to threats across its regional telecoms infrastructure and enterprise IT environment.]]></description>
-    <salary><![CDATA[QAR 15,000 - 20,000]]></salary>
-    <category><![CDATA[IT & Tech]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Commissioning Engineer – Oil & Gas]]></title>
-    <date><![CDATA[Fri, 31 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-003-2026-07-31]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-003-2026-07-31]]></url>
-    <company><![CDATA[Wood Group (John Wood Group)]]></company>
-    <city><![CDATA[Abu Dhabi]]></city>
-    <country><![CDATA[AE]]></country>
-    <description><![CDATA[Wood Group is seeking a Commissioning Engineer to lead pre-commissioning and commissioning activities for upstream and midstream oil & gas facilities in Abu Dhabi.]]></description>
-    <salary><![CDATA[AED 22,000 - 28,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Pre-Commissioning Supervisor - Piping]]></title>
-    <date><![CDATA[Fri, 31 Jul 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-82a38d7e]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/82a38d7e-ffee-4640-add5-50c15745016f/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Pre-Commissioning Supervisor - Piping to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
   </job>
 </source>
