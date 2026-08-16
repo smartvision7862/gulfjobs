@@ -1,5 +1,80 @@
 [
   {
+    "id": "swan-b53ce435",
+    "title": "Mechanical Draftsman",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/b53ce435-cd97-4ab5-b3ae-bd70f12fd0fd/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Mechanical Draftsman to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Mechanical Draftsman in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Mechanical Draftsman.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ]
+  },
+  {
+    "id": "swan-f29c8445",
+    "title": "Aircraft Mechanic",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/f29c8445-1e15-4136-a558-c07e16e7912c/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Aircraft Mechanic to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Aircraft Mechanic in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Aircraft Mechanic.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ]
+  },
+  {
+    "id": "swan-7af02a75",
+    "title": "Tele Sales Executive",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/7af02a75-abe1-4d18-a044-e70781b5e8ff/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Tele Sales Executive to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Tele Sales Executive in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Tele Sales Executive.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ]
+  },
+  {
     "id": "swan-2800a9fa",
     "title": "Liscensed Aircraft Engineer - B2",
     "company": "Swan Global",
