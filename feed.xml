@@ -2,7 +2,43 @@
 <source>
   <publisher>GullfJob Portal</publisher>
   <publisherurl>https://smartvision7862.github.io/gulfjobs/</publisherurl>
-  <lastBuildDate>Mon, 31 Aug 2026 13:16:21 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 01 Sep 2026 11:26:18 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Cloud Solutions Architect]]></title>
+    <date><![CDATA[Tue, 01 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-005-2026-09-01]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-005-2026-09-01]]></url>
+    <company><![CDATA[Microsoft Middle East & Africa]]></company>
+    <city><![CDATA[Dubai]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[Microsoft MEA is hiring a Cloud Solutions Architect to lead enterprise Azure migrations and cloud-native design for major clients across the UAE, Saudi Arabia, and Qatar.]]></description>
+    <salary><![CDATA[AED 35,000 - 50,000]]></salary>
+    <category><![CDATA[IT & Tech]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Cybersecurity Analyst]]></title>
+    <date><![CDATA[Tue, 01 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-004-2026-09-01]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-004-2026-09-01]]></url>
+    <company><![CDATA[Ooredoo Group]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[Ooredoo Group is hiring a Cybersecurity Analyst to monitor, detect, and respond to threats across its regional telecoms infrastructure and enterprise IT environment.]]></description>
+    <salary><![CDATA[QAR 15,000 - 20,000]]></salary>
+    <category><![CDATA[IT & Tech]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Commissioning Engineer – Oil & Gas]]></title>
+    <date><![CDATA[Tue, 01 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-003-2026-09-01]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-003-2026-09-01]]></url>
+    <company><![CDATA[Wood Group (John Wood Group)]]></company>
+    <city><![CDATA[Abu Dhabi]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[Wood Group is seeking a Commissioning Engineer to lead pre-commissioning and commissioning activities for upstream and midstream oil & gas facilities in Abu Dhabi.]]></description>
+    <salary><![CDATA[AED 22,000 - 28,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
   <job>
     <title><![CDATA[Electrical Engineer – Power Distribution]]></title>
     <date><![CDATA[Mon, 31 Aug 2026 00:00:00 GMT]]></date>
@@ -396,42 +432,6 @@
     <city><![CDATA[Doha]]></city>
     <country><![CDATA[QA]]></country>
     <description><![CDATA[Swan Global is seeking a qualified Reporting & Revenue Officer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[IT Recruitment Specialist]]></title>
-    <date><![CDATA[Sun, 23 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-3860b7f1]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/3860b7f1-494e-4b1b-8d9c-ea8437e0a36f/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified IT Recruitment Specialist to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[IT & Tech]]></category>
-  </job>
-  <job>
-    <title><![CDATA[QC Inspector (Civil)]]></title>
-    <date><![CDATA[Sun, 23 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-934b27b9]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/934b27b9-4808-4475-bacf-c6ce3a685207/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified QC Inspector (Civil) to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Cost Control Engineer]]></title>
-    <date><![CDATA[Sun, 23 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-0e3ccd48]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/0e3ccd48-6ea6-4901-a146-a98ba6996821/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Cost Control Engineer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
     <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
     <category><![CDATA[Engineering]]></category>
   </job>
