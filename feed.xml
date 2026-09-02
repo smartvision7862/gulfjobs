@@ -2,7 +2,43 @@
 <source>
   <publisher>GullfJob Portal</publisher>
   <publisherurl>https://smartvision7862.github.io/gulfjobs/</publisherurl>
-  <lastBuildDate>Tue, 01 Sep 2026 11:26:18 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 02 Sep 2026 10:59:52 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Executive Chef]]></title>
+    <date><![CDATA[Wed, 02 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-008-2026-09-02]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-008-2026-09-02]]></url>
+    <company><![CDATA[Rosewood Hotels & Resorts]]></company>
+    <city><![CDATA[Riyadh]]></city>
+    <country><![CDATA[SA]]></country>
+    <description><![CDATA[Rosewood Riyadh is seeking a talented Executive Chef to lead culinary operations across our fine dining, all-day dining, and banqueting outlets at this ultra-luxury property.]]></description>
+    <salary><![CDATA[SAR 28,000 - 38,000 + Benefits]]></salary>
+    <category><![CDATA[Hospitality]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Radiographer – MRI & CT]]></title>
+    <date><![CDATA[Wed, 02 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-007-2026-09-02]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-007-2026-09-02]]></url>
+    <company><![CDATA[Aster DM Healthcare]]></company>
+    <city><![CDATA[Dubai]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[Aster DM Healthcare is looking for a qualified Radiographer with experience in MRI and CT imaging to join our diagnostic imaging department in Dubai.]]></description>
+    <salary><![CDATA[AED 9,000 - 13,000]]></salary>
+    <category><![CDATA[Healthcare]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Registered Nurse – ICU]]></title>
+    <date><![CDATA[Wed, 02 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-006-2026-09-02]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-006-2026-09-02]]></url>
+    <company><![CDATA[King Faisal Specialist Hospital & Research Centre]]></company>
+    <city><![CDATA[Riyadh]]></city>
+    <country><![CDATA[SA]]></country>
+    <description><![CDATA[King Faisal Specialist Hospital & Research Centre (KFSH&RC) is recruiting ICU Registered Nurses to join our world-class critical care team in Riyadh. Tax-free salary plus accommodation, flights, and healthcare.]]></description>
+    <salary><![CDATA[SAR 12,000 - 16,000 + Benefits]]></salary>
+    <category><![CDATA[Healthcare]]></category>
+  </job>
   <job>
     <title><![CDATA[Cloud Solutions Architect]]></title>
     <date><![CDATA[Tue, 01 Sep 2026 00:00:00 GMT]]></date>
@@ -384,54 +420,6 @@
     <city><![CDATA[Doha]]></city>
     <country><![CDATA[QA]]></country>
     <description><![CDATA[Swan Global is seeking a qualified GRP Technician to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Senior Projects Engineer]]></title>
-    <date><![CDATA[Mon, 24 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-6170ed17]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/6170ed17-4923-46ad-b597-bf517f75c125/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Senior Projects Engineer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Oracle Hyperion Techno-Functional Consultant]]></title>
-    <date><![CDATA[Mon, 24 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-20f9bda0]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/20f9bda0-0027-41bb-9ee6-a025af6c7a48/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Oracle Hyperion Techno-Functional Consultant to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Management & HR]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Switchgear Testing & Commissioning Engineer]]></title>
-    <date><![CDATA[Mon, 24 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-7c987c13]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/7c987c13-dd8c-4d3b-8d8a-fd0e3cc7d4f6/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Switchgear Testing & Commissioning Engineer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Reporting & Revenue Officer]]></title>
-    <date><![CDATA[Mon, 24 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-edea3361]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/edea3361-a975-4a9f-a743-f89dc790df3e/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Reporting & Revenue Officer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
     <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
     <category><![CDATA[Engineering]]></category>
   </job>
