@@ -2,7 +2,43 @@
 <source>
   <publisher>GullfJob Portal</publisher>
   <publisherurl>https://smartvision7862.github.io/gulfjobs/</publisherurl>
-  <lastBuildDate>Wed, 02 Sep 2026 10:59:52 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 10:58:35 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Treasury Manager]]></title>
+    <date><![CDATA[Thu, 03 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-011-2026-09-03]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-011-2026-09-03]]></url>
+    <company><![CDATA[Gulf International Bank (GIB)]]></company>
+    <city><![CDATA[Manama]]></city>
+    <country><![CDATA[BH]]></country>
+    <description><![CDATA[Gulf International Bank (GIB) is recruiting a Treasury Manager to manage the bank's liquidity, funding, and FX hedging activities across GCC markets.]]></description>
+    <salary><![CDATA[BHD 3,500 - 4,500]]></salary>
+    <category><![CDATA[Finance]]></category>
+  </job>
+  <job>
+    <title><![CDATA[HSE Manager – Construction]]></title>
+    <date><![CDATA[Thu, 03 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-010-2026-09-03]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-010-2026-09-03]]></url>
+    <company><![CDATA[AECOM]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[AECOM is hiring an HSE Manager to lead health, safety, and environmental compliance for major infrastructure construction projects in Qatar.]]></description>
+    <salary><![CDATA[QAR 22,000 - 30,000]]></salary>
+    <category><![CDATA[Safety]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Front Office Manager]]></title>
+    <date><![CDATA[Thu, 03 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-009-2026-09-03]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-009-2026-09-03]]></url>
+    <company><![CDATA[Waldorf Astoria Hotels]]></company>
+    <city><![CDATA[Dubai]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[Waldorf Astoria Dubai Palm Jumeirah is seeking a Front Office Manager to oversee all front-of-house operations, ensuring bespoke service for our ultra-luxury guests.]]></description>
+    <salary><![CDATA[AED 18,000 - 24,000]]></salary>
+    <category><![CDATA[Hospitality]]></category>
+  </job>
   <job>
     <title><![CDATA[Executive Chef]]></title>
     <date><![CDATA[Wed, 02 Sep 2026 00:00:00 GMT]]></date>
@@ -350,77 +386,5 @@
     <description><![CDATA[Swan Global is seeking a qualified Sales Manager – Staffing & Recruitment to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
     <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
     <category><![CDATA[IT & Tech]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Cultural Advisor]]></title>
-    <date><![CDATA[Tue, 25 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-77515356]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/77515356-9d1f-43c9-b11a-594dd7564afc/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Abadilah]]></city>
-    <country><![CDATA[AE]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Cultural Advisor to join client operations in Abadilah, United Arab Emirates. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[AED 10,000 - 18,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Graphic Designer]]></title>
-    <date><![CDATA[Tue, 25 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-4b9aef8d]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/4b9aef8d-4bf2-455e-bbc7-ff73db23233e/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Graphic Designer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Project Manager – Building Management & Control Systems (BMS/BEMS)]]></title>
-    <date><![CDATA[Tue, 25 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-d6c7dddc]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/d6c7dddc-cfa0-41fb-96af-25bb219e6b4a/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Project Manager – Building Management & Control Systems (BMS/BEMS) to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[IT & Tech]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Senior Resident Engineer]]></title>
-    <date><![CDATA[Tue, 25 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-b7828753]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/b7828753-d683-4e7b-b104-7cade243574f/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Senior Resident Engineer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[GRP Supervisor]]></title>
-    <date><![CDATA[Tue, 25 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-a325d093]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/a325d093-ff00-4a2e-a9e1-6df0f1002254/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified GRP Supervisor to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[GRP Technician]]></title>
-    <date><![CDATA[Tue, 25 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-a0fa1623]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/a0fa1623-d149-48b9-99e1-c23e2c668e7f/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified GRP Technician to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
   </job>
 </source>
