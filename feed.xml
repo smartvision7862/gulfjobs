@@ -2,7 +2,79 @@
 <source>
   <publisher>GullfJob Portal</publisher>
   <publisherurl>https://smartvision7862.github.io/gulfjobs/</publisherurl>
-  <lastBuildDate>Thu, 03 Sep 2026 10:58:35 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 04 Sep 2026 10:58:52 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Data Scientist]]></title>
+    <date><![CDATA[Fri, 04 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-013-2026-09-04]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-013-2026-09-04]]></url>
+    <company><![CDATA[First Abu Dhabi Bank (FAB)]]></company>
+    <city><![CDATA[Abu Dhabi]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[First Abu Dhabi Bank (FAB) is hiring a Data Scientist to build predictive models and AI solutions for credit risk, fraud detection, and customer behaviour analytics.]]></description>
+    <salary><![CDATA[AED 25,000 - 32,000]]></salary>
+    <category><![CDATA[IT & Tech]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Senior Procurement Engineer]]></title>
+    <date><![CDATA[Fri, 04 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-012-2026-09-04]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-012-2026-09-04]]></url>
+    <company><![CDATA[Fluor Corporation]]></company>
+    <city><![CDATA[Abu Dhabi]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[Fluor Corporation is seeking a Senior Procurement Engineer for our FEED and EPC projects in Abu Dhabi, managing equipment and bulk material procurement for upstream oil & gas facilities.]]></description>
+    <salary><![CDATA[AED 24,000 - 30,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Treasury Manager]]></title>
+    <date><![CDATA[Fri, 04 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-011-2026-09-04]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-011-2026-09-04]]></url>
+    <company><![CDATA[Gulf International Bank (GIB)]]></company>
+    <city><![CDATA[Manama]]></city>
+    <country><![CDATA[BH]]></country>
+    <description><![CDATA[Gulf International Bank (GIB) is recruiting a Treasury Manager to manage the bank's liquidity, funding, and FX hedging activities across GCC markets.]]></description>
+    <salary><![CDATA[BHD 3,500 - 4,500]]></salary>
+    <category><![CDATA[Finance]]></category>
+  </job>
+  <job>
+    <title><![CDATA[GRP Supervisor]]></title>
+    <date><![CDATA[Fri, 04 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[swan-a325d093]]></referencenumber>
+    <url><![CDATA[https://swanglobal.careers-page.com/jobs/a325d093-ff00-4a2e-a9e1-6df0f1002254/apply]]></url>
+    <company><![CDATA[Swan Global]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[Swan Global is seeking a qualified GRP Supervisor to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
+    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
+  <job>
+    <title><![CDATA[GRP Technician]]></title>
+    <date><![CDATA[Fri, 04 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[swan-a0fa1623]]></referencenumber>
+    <url><![CDATA[https://swanglobal.careers-page.com/jobs/a0fa1623-d149-48b9-99e1-c23e2c668e7f/apply]]></url>
+    <company><![CDATA[Swan Global]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[Swan Global is seeking a qualified GRP Technician to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
+    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Safety Engineer]]></title>
+    <date><![CDATA[Fri, 04 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[swan-ebdcce48]]></referencenumber>
+    <url><![CDATA[https://swanglobal.careers-page.com/jobs/ebdcce48-0314-49f5-844e-5e211bca5b6f/apply]]></url>
+    <company><![CDATA[Swan Global]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[Swan Global is seeking a qualified Safety Engineer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
+    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
   <job>
     <title><![CDATA[Treasury Manager]]></title>
     <date><![CDATA[Thu, 03 Sep 2026 00:00:00 GMT]]></date>
@@ -338,53 +410,5 @@
     <description><![CDATA[Swan Global is seeking a qualified TRAILER DRIVER to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
     <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
     <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Contract Supervisor (U.S. Citizen)]]></title>
-    <date><![CDATA[Wed, 26 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-1bc4d28e]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/1bc4d28e-3692-4911-8864-bc667201b6b6/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Contract Supervisor (U.S. Citizen) to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Contract Manager (U.S. Citizen)]]></title>
-    <date><![CDATA[Wed, 26 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-ad2c5e1d]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/ad2c5e1d-97d8-48ee-a145-ad95075ed94c/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Contract Manager (U.S. Citizen) to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[IT & Tech]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Site Lead (Cultural Advisory Services)]]></title>
-    <date><![CDATA[Wed, 26 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-a6f86a73]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/a6f86a73-05b4-47c3-88ad-985531b3a0a0/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Abadilah]]></city>
-    <country><![CDATA[AE]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Site Lead (Cultural Advisory Services) to join client operations in Abadilah, United Arab Emirates. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[AED 10,000 - 18,000]]></salary>
-    <category><![CDATA[IT & Tech]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Sales Manager – Staffing & Recruitment]]></title>
-    <date><![CDATA[Wed, 26 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-04f7fc67]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/04f7fc67-ce83-4c70-b629-09b50c7f5de9/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Sales Manager – Staffing & Recruitment to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[IT & Tech]]></category>
   </job>
 </source>

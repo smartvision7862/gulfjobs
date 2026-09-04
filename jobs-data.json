@@ -1,5 +1,176 @@
 [
   {
+    "id": "pool-013-2026-09-04",
+    "title": "Data Scientist",
+    "company": "First Abu Dhabi Bank (FAB)",
+    "logoLetters": "FA",
+    "location": "Abu Dhabi, UAE",
+    "category": "IT & Tech",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 25,000 - 32,000",
+    "featured": true,
+    "description": "First Abu Dhabi Bank (FAB) is hiring a Data Scientist to build predictive models and AI solutions for credit risk, fraud detection, and customer behaviour analytics.",
+    "responsibilities": [
+      "Develop machine learning models for credit risk scoring and fraud detection.",
+      "Analyse large banking datasets to identify patterns and business insights.",
+      "Deploy models into production using MLflow, Docker, and Azure ML.",
+      "Collaborate with business stakeholders to translate requirements into analytical solutions.",
+      "Communicate model outputs and business impact to senior leadership."
+    ],
+    "requirements": [
+      "Master's degree in Data Science, Statistics, or Computer Science.",
+      "3+ years of data science experience in financial services or banking.",
+      "Proficiency in Python (pandas, scikit-learn, XGBoost, LightGBM).",
+      "Experience with SQL, Spark, and cloud ML platforms (Azure ML or AWS SageMaker).",
+      "Knowledge of credit risk, Basel II/III, or IFRS 9 is a strong plus."
+    ],
+    "applyEmail": "careers@bankfab.com",
+    "dateAdded": "2026-09-04",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-012-2026-09-04",
+    "title": "Senior Procurement Engineer",
+    "company": "Fluor Corporation",
+    "logoLetters": "FL",
+    "location": "Abu Dhabi, UAE",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "AED 24,000 - 30,000",
+    "featured": false,
+    "description": "Fluor Corporation is seeking a Senior Procurement Engineer for our FEED and EPC projects in Abu Dhabi, managing equipment and bulk material procurement for upstream oil & gas facilities.",
+    "responsibilities": [
+      "Lead equipment and material procurement for static and rotating equipment.",
+      "Prepare technical requisitions, bid packages, and bid evaluations.",
+      "Negotiate purchase orders with vendors to achieve best commercial terms.",
+      "Manage vendor inspection, expediting, and logistics coordination.",
+      "Maintain procurement schedules and track delivery commitments."
+    ],
+    "requirements": [
+      "Bachelor's degree in Mechanical or Chemical Engineering.",
+      "Minimum 8 years of procurement engineering experience in oil & gas FEED/EPC.",
+      "Knowledge of pressure vessels, heat exchangers, pumps, and compressors.",
+      "Experience with SAP MM or Oracle Procurement modules.",
+      "Strong negotiation, commercial, and cross-cultural communication skills."
+    ],
+    "applyEmail": "careers@fluor.com",
+    "dateAdded": "2026-09-04",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-011-2026-09-04",
+    "title": "Treasury Manager",
+    "company": "Gulf International Bank (GIB)",
+    "logoLetters": "GB",
+    "location": "Manama, Bahrain",
+    "category": "Finance",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "BHD 3,500 - 4,500",
+    "featured": true,
+    "description": "Gulf International Bank (GIB) is recruiting a Treasury Manager to manage the bank's liquidity, funding, and FX hedging activities across GCC markets.",
+    "responsibilities": [
+      "Manage daily liquidity positions, funding gaps, and short-term investment portfolios.",
+      "Execute FX hedging, interest rate swaps, and money market transactions.",
+      "Prepare liquidity reports and ILAAP documentation for regulatory submission.",
+      "Develop and maintain relationships with correspondent banks and counterparties.",
+      "Support ALCO meetings with data analysis and treasury management reporting."
+    ],
+    "requirements": [
+      "Bachelor's degree in Finance, Economics, or Banking.",
+      "ACI Dealing Certificate or CFA preferred.",
+      "Minimum 7 years of treasury experience in a bank or financial institution.",
+      "Strong knowledge of GCC Central Bank regulations and Basel III liquidity standards.",
+      "Bloomberg and Reuters terminal proficiency required."
+    ],
+    "applyEmail": "hr@gib.com.bh",
+    "dateAdded": "2026-09-04",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-a325d093",
+    "title": "GRP Supervisor",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/a325d093-ff00-4a2e-a9e1-6df0f1002254/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified GRP Supervisor to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as GRP Supervisor in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for GRP Supervisor.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-09-04",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-a0fa1623",
+    "title": "GRP Technician",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/a0fa1623-d149-48b9-99e1-c23e2c668e7f/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified GRP Technician to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as GRP Technician in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for GRP Technician.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-09-04",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-ebdcce48",
+    "title": "Safety Engineer",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/ebdcce48-0314-49f5-844e-5e211bca5b6f/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Safety Engineer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Safety Engineer in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Safety Engineer.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-09-04",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-011-2026-09-03",
     "title": "Treasury Manager",
     "company": "Gulf International Bank (GIB)",
@@ -27,7 +198,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-09-03",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-010-2026-09-03",
@@ -57,7 +228,7 @@
     ],
     "applyEmail": "careers@aecom.com",
     "dateAdded": "2026-09-03",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-009-2026-09-03",
@@ -87,7 +258,7 @@
     ],
     "applyEmail": "careers@waldorfastoria.com",
     "dateAdded": "2026-09-03",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-008-2026-09-02",
@@ -117,7 +288,7 @@
     ],
     "applyEmail": "culinary.careers@rosewoodhotels.com",
     "dateAdded": "2026-09-02",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-007-2026-09-02",
@@ -147,7 +318,7 @@
     ],
     "applyEmail": "careers@asterhospitals.in",
     "dateAdded": "2026-09-02",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-006-2026-09-02",
@@ -177,7 +348,7 @@
     ],
     "applyEmail": "nursing.recruitment@kfshrc.edu.sa",
     "dateAdded": "2026-09-02",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-005-2026-09-01",
@@ -207,7 +378,7 @@
     ],
     "applyEmail": "careers@microsoft.com",
     "dateAdded": "2026-09-01",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-004-2026-09-01",
@@ -237,7 +408,7 @@
     ],
     "applyEmail": "careers@ooredoo.com",
     "dateAdded": "2026-09-01",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-003-2026-09-01",
@@ -267,7 +438,7 @@
     ],
     "applyEmail": "recruitment@woodplc.com",
     "dateAdded": "2026-09-01",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-002-2026-08-31",
@@ -297,7 +468,7 @@
     ],
     "applyEmail": "careers@se.com.sa",
     "dateAdded": "2026-08-31",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-001-2026-08-31",
@@ -327,7 +498,7 @@
     ],
     "applyEmail": "careers@parsons.com",
     "dateAdded": "2026-08-31",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-c40c7171",
@@ -354,7 +525,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-31",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-53f391c1",
@@ -381,7 +552,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-31",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-8b078ad6",
@@ -408,7 +579,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-30",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-3982e101",
@@ -435,7 +606,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-30",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-84e12431",
@@ -462,7 +633,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-30",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-9a342ff7",
@@ -489,7 +660,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-30",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-fe45ab4d",
@@ -516,7 +687,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-29",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-fe4b1f04",
@@ -543,7 +714,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-29",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-1c0489f9",
@@ -570,7 +741,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-29",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-5801ac52",
@@ -597,7 +768,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-28",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-5588e58e",
@@ -624,7 +795,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-28",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-0f7b190a",
@@ -651,7 +822,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-28",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-7b8dfca4",
@@ -786,114 +957,6 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-27",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-1bc4d28e",
-    "title": "Contract Supervisor (U.S. Citizen)",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/1bc4d28e-3692-4911-8864-bc667201b6b6/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Contract Supervisor (U.S. Citizen) to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Contract Supervisor (U.S. Citizen) in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Contract Supervisor (U.S. Citizen).",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-08-26",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-ad2c5e1d",
-    "title": "Contract Manager (U.S. Citizen)",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "IT & Tech",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/ad2c5e1d-97d8-48ee-a145-ad95075ed94c/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Contract Manager (U.S. Citizen) to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Contract Manager (U.S. Citizen) in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Contract Manager (U.S. Citizen).",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-08-26",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-a6f86a73",
-    "title": "Site Lead (Cultural Advisory Services)",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Abadilah, United Arab Emirates",
-    "category": "IT & Tech",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "AED 10,000 - 18,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/a6f86a73-05b4-47c3-88ad-985531b3a0a0/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Site Lead (Cultural Advisory Services) to join client operations in Abadilah, United Arab Emirates. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Site Lead (Cultural Advisory Services) in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Abadilah, United Arab Emirates.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Site Lead (Cultural Advisory Services).",
-      "Proven hands-on experience in Abadilah, United Arab Emirates or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-08-26",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-04f7fc67",
-    "title": "Sales Manager – Staffing & Recruitment",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "IT & Tech",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/04f7fc67-ce83-4c70-b629-09b50c7f5de9/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Sales Manager – Staffing & Recruitment to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Sales Manager – Staffing & Recruitment in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Sales Manager – Staffing & Recruitment.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-08-26",
     "postedDate": "1 week ago"
   }
 ]
