@@ -1,5 +1,176 @@
 [
   {
+    "id": "pool-018-2026-09-06",
+    "title": "Spa & Wellness Director",
+    "company": "Six Senses Hotels Resorts Spas",
+    "logoLetters": "SS",
+    "location": "Muscat, Oman",
+    "category": "Hospitality",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "OMR 2,500 - 3,500 + Benefits",
+    "featured": false,
+    "description": "Six Senses Zighy Bay Oman is seeking a Spa & Wellness Director to lead our award-winning spa programme, integrating holistic wellbeing, ancient healing, and contemporary treatments.",
+    "responsibilities": [
+      "Lead spa and wellness operations including treatments, fitness, and wellness programmes.",
+      "Develop seasonal spa menus, wellness retreats, and signature ritual offerings.",
+      "Recruit, train, and inspire a team of 30+ therapists and wellness specialists.",
+      "Achieve spa revenue targets and manage operating costs.",
+      "Build relationships with wellness brand partners and local healing practitioners."
+    ],
+    "requirements": [
+      "Degree in Spa Management, Wellness, or Holistic Health.",
+      "Minimum 7 years of spa management experience; 3+ years as Director.",
+      "Experience in luxury resort spa is essential; GCC experience preferred.",
+      "ITEC, CIDESCO, or CIBTAC therapy certification is an advantage.",
+      "Strong operational, business, and people leadership skills."
+    ],
+    "applyEmail": "careers@sixsenses.com",
+    "dateAdded": "2026-09-06",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-017-2026-09-06",
+    "title": "Pharmacist – Clinical",
+    "company": "Cleveland Clinic Abu Dhabi",
+    "logoLetters": "CC",
+    "location": "Abu Dhabi, UAE",
+    "category": "Healthcare",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 18,000 - 24,000",
+    "featured": true,
+    "description": "Cleveland Clinic Abu Dhabi is recruiting a Clinical Pharmacist to join our multidisciplinary healthcare team, providing expert pharmaceutical care to complex medical and surgical inpatients.",
+    "responsibilities": [
+      "Conduct medication reconciliation, clinical review, and pharmacokinetic monitoring.",
+      "Collaborate with physicians and nurses on drug therapy optimisation.",
+      "Provide drug information and pharmacovigilance reporting.",
+      "Participate in antimicrobial stewardship and medication safety programmes.",
+      "Contribute to clinical pharmacy research and quality improvement projects."
+    ],
+    "requirements": [
+      "Bachelor's degree in Pharmacy (BPharm/PharmD) from an accredited institution.",
+      "Minimum 3 years of clinical pharmacy experience in a hospital setting.",
+      "DOH/DHA pharmacy license required; support provided for UAE registration.",
+      "Board certification (BCPS, BCCP, or equivalent) is preferred.",
+      "Strong clinical pharmacology knowledge and patient communication skills."
+    ],
+    "applyEmail": "careers@clevelandclinicabudhabi.ae",
+    "dateAdded": "2026-09-06",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-016-2026-09-06",
+    "title": "Maintenance Planner",
+    "company": "ADNOC Onshore",
+    "logoLetters": "AD",
+    "location": "Abu Dhabi, UAE",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 16,000 - 22,000",
+    "featured": false,
+    "description": "ADNOC Onshore is seeking a Maintenance Planner to develop, optimise, and manage preventive and corrective maintenance plans for onshore oil & gas production facilities.",
+    "responsibilities": [
+      "Develop detailed maintenance plans and work packages using SAP PM.",
+      "Schedule preventive maintenance tasks and coordinate with operations teams.",
+      "Analyse equipment reliability data and adjust maintenance strategies.",
+      "Manage spare parts lists, Bill of Materials (BOM), and maintenance history.",
+      "Support turnaround planning and execute shutdown maintenance schedules."
+    ],
+    "requirements": [
+      "Bachelor's degree in Mechanical or Electrical Engineering.",
+      "Minimum 5 years of maintenance planning experience in oil & gas.",
+      "Proficiency in SAP PM (Plant Maintenance) module.",
+      "Knowledge of CMMS, RCM, and reliability-centered maintenance principles.",
+      "Experience in ADNOC or major GCC NOC environment preferred."
+    ],
+    "applyEmail": "careers@adnoc.ae",
+    "dateAdded": "2026-09-06",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-e61c753c",
+    "title": "Senior Resident Engineer - Structure",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/e61c753c-dde0-4ebe-a0f4-6d7259c4efb9/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Senior Resident Engineer - Structure to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Senior Resident Engineer - Structure in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Senior Resident Engineer - Structure.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-09-06",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-30d81b9e",
+    "title": "TRAILER DRIVER",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/30d81b9e-abd5-4a7c-8ce3-7478189ff820/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified TRAILER DRIVER to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as TRAILER DRIVER in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for TRAILER DRIVER.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-09-06",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-1b58cb85",
+    "title": "Technician",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/1b58cb85-9699-49e4-97a6-5c9656f7e5e2/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Technician to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Technician in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Technician.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-09-06",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-016-2026-09-05",
     "title": "Maintenance Planner",
     "company": "ADNOC Onshore",
@@ -27,7 +198,7 @@
     ],
     "applyEmail": "careers@adnoc.ae",
     "dateAdded": "2026-09-05",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-015-2026-09-05",
@@ -57,7 +228,7 @@
     ],
     "applyEmail": "careers@dtcm.gov.ae",
     "dateAdded": "2026-09-05",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-014-2026-09-05",
@@ -87,7 +258,7 @@
     ],
     "applyEmail": "medical.staffing@hmc.org.qa",
     "dateAdded": "2026-09-05",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-04f7fc67",
@@ -114,7 +285,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-05",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-013-2026-09-04",
@@ -144,7 +315,7 @@
     ],
     "applyEmail": "careers@bankfab.com",
     "dateAdded": "2026-09-04",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-012-2026-09-04",
@@ -174,7 +345,7 @@
     ],
     "applyEmail": "careers@fluor.com",
     "dateAdded": "2026-09-04",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-011-2026-09-04",
@@ -204,7 +375,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-09-04",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-a325d093",
@@ -231,7 +402,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-04",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-a0fa1623",
@@ -258,7 +429,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-04",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-ebdcce48",
@@ -285,7 +456,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-04",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-011-2026-09-03",
@@ -315,7 +486,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-09-03",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-010-2026-09-03",
@@ -345,7 +516,7 @@
     ],
     "applyEmail": "careers@aecom.com",
     "dateAdded": "2026-09-03",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-009-2026-09-03",
@@ -375,7 +546,7 @@
     ],
     "applyEmail": "careers@waldorfastoria.com",
     "dateAdded": "2026-09-03",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-008-2026-09-02",
@@ -405,7 +576,7 @@
     ],
     "applyEmail": "culinary.careers@rosewoodhotels.com",
     "dateAdded": "2026-09-02",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-007-2026-09-02",
@@ -435,7 +606,7 @@
     ],
     "applyEmail": "careers@asterhospitals.in",
     "dateAdded": "2026-09-02",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-006-2026-09-02",
@@ -465,7 +636,7 @@
     ],
     "applyEmail": "nursing.recruitment@kfshrc.edu.sa",
     "dateAdded": "2026-09-02",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-005-2026-09-01",
@@ -495,7 +666,7 @@
     ],
     "applyEmail": "careers@microsoft.com",
     "dateAdded": "2026-09-01",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-004-2026-09-01",
@@ -525,7 +696,7 @@
     ],
     "applyEmail": "careers@ooredoo.com",
     "dateAdded": "2026-09-01",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-003-2026-09-01",
@@ -555,7 +726,7 @@
     ],
     "applyEmail": "recruitment@woodplc.com",
     "dateAdded": "2026-09-01",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-002-2026-08-31",
@@ -585,7 +756,7 @@
     ],
     "applyEmail": "careers@se.com.sa",
     "dateAdded": "2026-08-31",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-001-2026-08-31",
@@ -615,7 +786,7 @@
     ],
     "applyEmail": "careers@parsons.com",
     "dateAdded": "2026-08-31",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-c40c7171",
@@ -642,7 +813,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-31",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-53f391c1",
@@ -669,7 +840,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-31",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-8b078ad6",
@@ -696,7 +867,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-30",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-3982e101",
@@ -723,7 +894,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-30",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-84e12431",
@@ -750,7 +921,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-30",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-9a342ff7",
@@ -777,7 +948,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-30",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-fe45ab4d",
@@ -858,87 +1029,6 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-08-29",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-5801ac52",
-    "title": "Facilities Management Consultant",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "IT & Tech",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/5801ac52-67ed-46e4-a77d-cbc5a3858128/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Facilities Management Consultant to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Facilities Management Consultant in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Facilities Management Consultant.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-08-28",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-5588e58e",
-    "title": "QC INSPECTOR PIPING",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/5588e58e-5ccd-4de7-a6c4-2dffdc71a2f0/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified QC INSPECTOR PIPING to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as QC INSPECTOR PIPING in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for QC INSPECTOR PIPING.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-08-28",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-0f7b190a",
-    "title": "QC Inspector – Painting / Coating",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/0f7b190a-76eb-4207-a481-e6117eb4dda4/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified QC Inspector – Painting / Coating to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as QC Inspector – Painting / Coating in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for QC Inspector – Painting / Coating.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-08-28",
     "postedDate": "1 week ago"
   }
 ]
