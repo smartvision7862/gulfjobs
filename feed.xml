@@ -2,7 +2,43 @@
 <source>
   <publisher>GullfJob Portal</publisher>
   <publisherurl>https://smartvision7862.github.io/gulfjobs/</publisherurl>
-  <lastBuildDate>Mon, 07 Sep 2026 12:06:51 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 08 Sep 2026 10:59:07 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Welding Inspector – CSWIP 3.1]]></title>
+    <date><![CDATA[Tue, 08 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-022-2026-09-08]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-022-2026-09-08]]></url>
+    <company><![CDATA[TechnipFMC]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[TechnipFMC is seeking CSWIP 3.1 certified Welding Inspectors for subsea pipeline and topside structural welding activities on offshore Qatar projects.]]></description>
+    <salary><![CDATA[QAR 12,000 - 16,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Internal Audit Manager]]></title>
+    <date><![CDATA[Tue, 08 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-021-2026-09-08]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-021-2026-09-08]]></url>
+    <company><![CDATA[Kuwait Finance House (KFH)]]></company>
+    <city><![CDATA[Kuwait City]]></city>
+    <country><![CDATA[KW]]></country>
+    <description><![CDATA[Kuwait Finance House (KFH) is recruiting an Internal Audit Manager to lead risk-based internal audit reviews across banking, treasury, retail, and operations divisions.]]></description>
+    <salary><![CDATA[KWD 2,500 - 3,500]]></salary>
+    <category><![CDATA[Finance]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Telecom RF Engineer – 5G]]></title>
+    <date><![CDATA[Tue, 08 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-020-2026-09-08]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-020-2026-09-08]]></url>
+    <company><![CDATA[STC (Saudi Telecom Company)]]></company>
+    <city><![CDATA[Riyadh]]></city>
+    <country><![CDATA[SA]]></country>
+    <description><![CDATA[STC is expanding its 5G network and hiring RF Engineers to plan, optimise, and troubleshoot radio frequency networks across the Kingdom of Saudi Arabia.]]></description>
+    <salary><![CDATA[SAR 18,000 - 25,000]]></salary>
+    <category><![CDATA[IT & Tech]]></category>
+  </job>
   <job>
     <title><![CDATA[Business Development Manager – Logistics]]></title>
     <date><![CDATA[Mon, 07 Sep 2026 00:00:00 GMT]]></date>
@@ -410,53 +446,5 @@
     <description><![CDATA[Swan Global is seeking a qualified IT Manager to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
     <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
     <category><![CDATA[IT & Tech]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Refrigeration Technician]]></title>
-    <date><![CDATA[Sun, 30 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-8b078ad6]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/8b078ad6-0bbc-40f2-90b7-689777195375/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Refrigeration Technician to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Electrical Technician]]></title>
-    <date><![CDATA[Sun, 30 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-3982e101]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/3982e101-447b-47e1-904f-d03cd283f1e8/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Electrical Technician to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Maintenance System Administrator]]></title>
-    <date><![CDATA[Sun, 30 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-84e12431]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/84e12431-d9fa-41f2-a8dd-93745f3478e6/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Maintenance System Administrator to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Safety Officer]]></title>
-    <date><![CDATA[Sun, 30 Aug 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-9a342ff7]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/9a342ff7-8187-40e7-a3e7-90b177c2a709/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Safety Officer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
   </job>
 </source>
