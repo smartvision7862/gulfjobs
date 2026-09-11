@@ -2,7 +2,55 @@
 <source>
   <publisher>GullfJob Portal</publisher>
   <publisherurl>https://smartvision7862.github.io/gulfjobs/</publisherurl>
-  <lastBuildDate>Thu, 10 Sep 2026 11:00:13 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 11 Sep 2026 10:58:23 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Welding Inspector – CSWIP 3.1]]></title>
+    <date><![CDATA[Fri, 11 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-022-2026-09-11]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-022-2026-09-11]]></url>
+    <company><![CDATA[TechnipFMC]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[TechnipFMC is seeking CSWIP 3.1 certified Welding Inspectors for subsea pipeline and topside structural welding activities on offshore Qatar projects.]]></description>
+    <salary><![CDATA[QAR 12,000 - 16,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Internal Audit Manager]]></title>
+    <date><![CDATA[Fri, 11 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-021-2026-09-11]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-021-2026-09-11]]></url>
+    <company><![CDATA[Kuwait Finance House (KFH)]]></company>
+    <city><![CDATA[Kuwait City]]></city>
+    <country><![CDATA[KW]]></country>
+    <description><![CDATA[Kuwait Finance House (KFH) is recruiting an Internal Audit Manager to lead risk-based internal audit reviews across banking, treasury, retail, and operations divisions.]]></description>
+    <salary><![CDATA[KWD 2,500 - 3,500]]></salary>
+    <category><![CDATA[Finance]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Telecom RF Engineer – 5G]]></title>
+    <date><![CDATA[Fri, 11 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-020-2026-09-11]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-020-2026-09-11]]></url>
+    <company><![CDATA[STC (Saudi Telecom Company)]]></company>
+    <city><![CDATA[Riyadh]]></city>
+    <country><![CDATA[SA]]></country>
+    <description><![CDATA[STC is expanding its 5G network and hiring RF Engineers to plan, optimise, and troubleshoot radio frequency networks across the Kingdom of Saudi Arabia.]]></description>
+    <salary><![CDATA[SAR 18,000 - 25,000]]></salary>
+    <category><![CDATA[IT & Tech]]></category>
+  </job>
+  <job>
+    <title><![CDATA[WELDING HELPER(6G WELDER)]]></title>
+    <date><![CDATA[Fri, 11 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[swan-7d64d496]]></referencenumber>
+    <url><![CDATA[https://swanglobal.careers-page.com/jobs/7d64d496-c68a-407d-9c8d-0c8f8b81c266/apply]]></url>
+    <company><![CDATA[Swan Global]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[Swan Global is seeking a qualified WELDING HELPER(6G WELDER) to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
+    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
   <job>
     <title><![CDATA[Telecom RF Engineer – 5G]]></title>
     <date><![CDATA[Thu, 10 Sep 2026 00:00:00 GMT]]></date>
@@ -494,41 +542,5 @@
     <description><![CDATA[Waldorf Astoria Dubai Palm Jumeirah is seeking a Front Office Manager to oversee all front-of-house operations, ensuring bespoke service for our ultra-luxury guests.]]></description>
     <salary><![CDATA[AED 18,000 - 24,000]]></salary>
     <category><![CDATA[Hospitality]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Executive Chef]]></title>
-    <date><![CDATA[Wed, 02 Sep 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-008-2026-09-02]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-008-2026-09-02]]></url>
-    <company><![CDATA[Rosewood Hotels & Resorts]]></company>
-    <city><![CDATA[Riyadh]]></city>
-    <country><![CDATA[SA]]></country>
-    <description><![CDATA[Rosewood Riyadh is seeking a talented Executive Chef to lead culinary operations across our fine dining, all-day dining, and banqueting outlets at this ultra-luxury property.]]></description>
-    <salary><![CDATA[SAR 28,000 - 38,000 + Benefits]]></salary>
-    <category><![CDATA[Hospitality]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Radiographer – MRI & CT]]></title>
-    <date><![CDATA[Wed, 02 Sep 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-007-2026-09-02]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-007-2026-09-02]]></url>
-    <company><![CDATA[Aster DM Healthcare]]></company>
-    <city><![CDATA[Dubai]]></city>
-    <country><![CDATA[AE]]></country>
-    <description><![CDATA[Aster DM Healthcare is looking for a qualified Radiographer with experience in MRI and CT imaging to join our diagnostic imaging department in Dubai.]]></description>
-    <salary><![CDATA[AED 9,000 - 13,000]]></salary>
-    <category><![CDATA[Healthcare]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Registered Nurse – ICU]]></title>
-    <date><![CDATA[Wed, 02 Sep 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-006-2026-09-02]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-006-2026-09-02]]></url>
-    <company><![CDATA[King Faisal Specialist Hospital & Research Centre]]></company>
-    <city><![CDATA[Riyadh]]></city>
-    <country><![CDATA[SA]]></country>
-    <description><![CDATA[King Faisal Specialist Hospital & Research Centre (KFSH&RC) is recruiting ICU Registered Nurses to join our world-class critical care team in Riyadh. Tax-free salary plus accommodation, flights, and healthcare.]]></description>
-    <salary><![CDATA[SAR 12,000 - 16,000 + Benefits]]></salary>
-    <category><![CDATA[Healthcare]]></category>
   </job>
 </source>
