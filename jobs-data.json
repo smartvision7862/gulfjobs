@@ -1,5 +1,95 @@
 [
   {
+    "id": "pool-025-2026-09-12",
+    "title": "Pediatrician – Outpatient",
+    "company": "Mediclinic Middle East",
+    "logoLetters": "MC",
+    "location": "Dubai, UAE",
+    "category": "Healthcare",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 38,000 - 52,000",
+    "featured": false,
+    "description": "Mediclinic Middle East is seeking a Consultant Paediatrician for outpatient general and subspecialty paediatrics at our Dubai facilities.",
+    "responsibilities": [
+      "Provide general outpatient paediatric consultations for children 0–18 years.",
+      "Diagnose and manage common paediatric conditions including respiratory, GI, and developmental issues.",
+      "Refer complex cases to appropriate subspecialties within the Mediclinic network.",
+      "Perform developmental assessments, vaccination counselling, and well-child visits.",
+      "Maintain accurate electronic medical records using the hospital HIS system."
+    ],
+    "requirements": [
+      "MBBS + MRCPCH, DCH, ABP, or equivalent paediatric board certification.",
+      "Minimum 4 years of post-specialist qualification paediatric experience.",
+      "DHA specialist/consultant license required; support provided for UAE registration.",
+      "Excellent communication skills with children and parents.",
+      "Arabic language skills are a significant advantage."
+    ],
+    "applyEmail": "careers@mediclinic.ae",
+    "dateAdded": "2026-09-12",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-024-2026-09-12",
+    "title": "Airport Operations Supervisor",
+    "company": "Hamad International Airport (HIA)",
+    "logoLetters": "HI",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "QAR 10,000 - 14,000",
+    "featured": false,
+    "description": "Hamad International Airport (HIA) is recruiting an Airport Operations Supervisor to oversee terminal operations, ground handling coordination, and passenger flow management.",
+    "responsibilities": [
+      "Supervise day-to-day terminal operations including passenger processing and ground handler coordination.",
+      "Monitor operational KPIs (OTP, queue times, gate utilisation) and take corrective actions.",
+      "Liaise with airline representatives, ground handlers, and Qatar CAA on operational matters.",
+      "Lead shift briefings and manage a team of 15+ operations agents.",
+      "Handle disruption management, emergency procedures, and irregular operations."
+    ],
+    "requirements": [
+      "Bachelor's degree in Aviation Management, Business, or Engineering.",
+      "Minimum 4 years of airport operations experience.",
+      "ICAO or IATA airport operations certification is an advantage.",
+      "Experience with AODB, CUTE, and CUSS systems.",
+      "Strong leadership, problem-solving, and multi-tasking skills."
+    ],
+    "applyEmail": "careers@hia.qa",
+    "dateAdded": "2026-09-12",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-023-2026-09-12",
+    "title": "Brand Manager – Consumer Goods",
+    "company": "Unilever Gulf",
+    "logoLetters": "UL",
+    "location": "Dubai, UAE",
+    "category": "Sales & Marketing",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 22,000 - 28,000",
+    "featured": true,
+    "description": "Unilever Gulf is hiring a Brand Manager to lead brand strategy, innovation, and marketing execution for a major home care or personal care brand across GCC markets.",
+    "responsibilities": [
+      "Develop and execute annual brand plans including campaign strategy, media mix, and trade activations.",
+      "Manage NPD pipeline, packaging innovation, and launch executions.",
+      "Analyse brand health metrics, market share data, and consumer insights.",
+      "Collaborate with agency partners on creative development and media planning.",
+      "Manage A&P budget and track ROI of marketing investments."
+    ],
+    "requirements": [
+      "Bachelor's degree in Business, Marketing, or Communications; MBA preferred.",
+      "Minimum 4 years of brand management experience in FMCG.",
+      "Experience in GCC consumer markets is strongly preferred.",
+      "Strong commercial acumen, data analysis, and creative thinking skills.",
+      "Agency management and budget control experience required."
+    ],
+    "applyEmail": "middle.east.careers@unilever.com",
+    "dateAdded": "2026-09-12",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-022-2026-09-11",
     "title": "Welding Inspector – CSWIP 3.1",
     "company": "TechnipFMC",
@@ -27,7 +117,7 @@
     ],
     "applyEmail": "talent@technipfmc.com",
     "dateAdded": "2026-09-11",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-021-2026-09-11",
@@ -57,7 +147,7 @@
     ],
     "applyEmail": "hr@kfh.com",
     "dateAdded": "2026-09-11",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-020-2026-09-11",
@@ -87,7 +177,7 @@
     ],
     "applyEmail": "careers@stc.com.sa",
     "dateAdded": "2026-09-11",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-7d64d496",
@@ -114,7 +204,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-11",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-020-2026-09-10",
@@ -144,7 +234,7 @@
     ],
     "applyEmail": "careers@stc.com.sa",
     "dateAdded": "2026-09-10",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-019-2026-09-10",
@@ -174,7 +264,7 @@
     ],
     "applyEmail": "careers@dpworld.com",
     "dateAdded": "2026-09-10",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-018-2026-09-10",
@@ -204,7 +294,7 @@
     ],
     "applyEmail": "careers@sixsenses.com",
     "dateAdded": "2026-09-10",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-017-2026-09-09",
@@ -234,7 +324,7 @@
     ],
     "applyEmail": "careers@clevelandclinicabudhabi.ae",
     "dateAdded": "2026-09-09",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-016-2026-09-09",
@@ -264,7 +354,7 @@
     ],
     "applyEmail": "careers@adnoc.ae",
     "dateAdded": "2026-09-09",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-015-2026-09-09",
@@ -294,7 +384,7 @@
     ],
     "applyEmail": "careers@dtcm.gov.ae",
     "dateAdded": "2026-09-09",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-92159bf2",
@@ -321,7 +411,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-09",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-908cd976",
@@ -348,7 +438,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-09",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-ee0754ed",
@@ -375,7 +465,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-09",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-b8d3a9e5",
@@ -402,7 +492,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-09",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-8fcaa149",
@@ -429,7 +519,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-09",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-1548de0d",
@@ -456,7 +546,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-09",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-8d24c242",
@@ -483,7 +573,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-09",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-561f3b91",
@@ -510,7 +600,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-09",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-022-2026-09-08",
@@ -540,7 +630,7 @@
     ],
     "applyEmail": "talent@technipfmc.com",
     "dateAdded": "2026-09-08",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-021-2026-09-08",
@@ -570,7 +660,7 @@
     ],
     "applyEmail": "hr@kfh.com",
     "dateAdded": "2026-09-08",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-020-2026-09-08",
@@ -600,7 +690,7 @@
     ],
     "applyEmail": "careers@stc.com.sa",
     "dateAdded": "2026-09-08",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-019-2026-09-07",
@@ -630,7 +720,7 @@
     ],
     "applyEmail": "careers@dpworld.com",
     "dateAdded": "2026-09-07",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-018-2026-09-07",
@@ -660,7 +750,7 @@
     ],
     "applyEmail": "careers@sixsenses.com",
     "dateAdded": "2026-09-07",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-017-2026-09-07",
@@ -690,7 +780,7 @@
     ],
     "applyEmail": "careers@clevelandclinicabudhabi.ae",
     "dateAdded": "2026-09-07",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-f7662400",
@@ -717,7 +807,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-07",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-c1836159",
@@ -744,7 +834,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-07",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-018-2026-09-06",
@@ -774,7 +864,7 @@
     ],
     "applyEmail": "careers@sixsenses.com",
     "dateAdded": "2026-09-06",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-017-2026-09-06",
@@ -804,7 +894,7 @@
     ],
     "applyEmail": "careers@clevelandclinicabudhabi.ae",
     "dateAdded": "2026-09-06",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-016-2026-09-06",
@@ -834,7 +924,7 @@
     ],
     "applyEmail": "careers@adnoc.ae",
     "dateAdded": "2026-09-06",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-e61c753c",
@@ -861,7 +951,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-06",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-30d81b9e",
@@ -888,7 +978,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-06",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-1b58cb85",
@@ -915,7 +1005,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-06",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-016-2026-09-05",
@@ -945,7 +1035,7 @@
     ],
     "applyEmail": "careers@adnoc.ae",
     "dateAdded": "2026-09-05",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-015-2026-09-05",
@@ -975,7 +1065,7 @@
     ],
     "applyEmail": "careers@dtcm.gov.ae",
     "dateAdded": "2026-09-05",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-014-2026-09-05",
@@ -1005,7 +1095,7 @@
     ],
     "applyEmail": "medical.staffing@hmc.org.qa",
     "dateAdded": "2026-09-05",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-04f7fc67",
@@ -1032,7 +1122,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-05",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-013-2026-09-04",
@@ -1203,96 +1293,6 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-04",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "pool-011-2026-09-03",
-    "title": "Treasury Manager",
-    "company": "Gulf International Bank (GIB)",
-    "logoLetters": "GB",
-    "location": "Manama, Bahrain",
-    "category": "Finance",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "BHD 3,500 - 4,500",
-    "featured": true,
-    "description": "Gulf International Bank (GIB) is recruiting a Treasury Manager to manage the bank's liquidity, funding, and FX hedging activities across GCC markets.",
-    "responsibilities": [
-      "Manage daily liquidity positions, funding gaps, and short-term investment portfolios.",
-      "Execute FX hedging, interest rate swaps, and money market transactions.",
-      "Prepare liquidity reports and ILAAP documentation for regulatory submission.",
-      "Develop and maintain relationships with correspondent banks and counterparties.",
-      "Support ALCO meetings with data analysis and treasury management reporting."
-    ],
-    "requirements": [
-      "Bachelor's degree in Finance, Economics, or Banking.",
-      "ACI Dealing Certificate or CFA preferred.",
-      "Minimum 7 years of treasury experience in a bank or financial institution.",
-      "Strong knowledge of GCC Central Bank regulations and Basel III liquidity standards.",
-      "Bloomberg and Reuters terminal proficiency required."
-    ],
-    "applyEmail": "hr@gib.com.bh",
-    "dateAdded": "2026-09-03",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "pool-010-2026-09-03",
-    "title": "HSE Manager – Construction",
-    "company": "AECOM",
-    "logoLetters": "AE",
-    "location": "Doha, Qatar",
-    "category": "Safety",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 22,000 - 30,000",
-    "featured": true,
-    "description": "AECOM is hiring an HSE Manager to lead health, safety, and environmental compliance for major infrastructure construction projects in Qatar.",
-    "responsibilities": [
-      "Develop and implement project-specific HSE management plans.",
-      "Lead HSE inductions, training programmes, and toolbox talks.",
-      "Conduct site inspections, audits, and risk assessments.",
-      "Investigate incidents, root cause analyses, and corrective action plans.",
-      "Ensure compliance with Qatar HSE regulations and client HSE requirements."
-    ],
-    "requirements": [
-      "NEBOSH Diploma in Occupational Health & Safety.",
-      "Minimum 8 years of HSE experience in construction or infrastructure.",
-      "CMIOSH or similar chartered status preferred.",
-      "Experience managing HSE on major GCC infrastructure projects.",
-      "Strong leadership, reporting, and stakeholder management skills."
-    ],
-    "applyEmail": "careers@aecom.com",
-    "dateAdded": "2026-09-03",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "pool-009-2026-09-03",
-    "title": "Front Office Manager",
-    "company": "Waldorf Astoria Hotels",
-    "logoLetters": "WA",
-    "location": "Dubai, UAE",
-    "category": "Hospitality",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "AED 18,000 - 24,000",
-    "featured": false,
-    "description": "Waldorf Astoria Dubai Palm Jumeirah is seeking a Front Office Manager to oversee all front-of-house operations, ensuring bespoke service for our ultra-luxury guests.",
-    "responsibilities": [
-      "Manage front desk, concierge, and guest services operations.",
-      "Lead and coach a team of 35+ front office associates.",
-      "Ensure seamless VIP and repeat guest recognition programmes.",
-      "Collaborate with Housekeeping, F&B, and Revenue teams on room inventory.",
-      "Handle guest escalations and drive service recovery excellence."
-    ],
-    "requirements": [
-      "Bachelor's degree in Hospitality Management.",
-      "Minimum 5 years of front office experience with 2+ years in management.",
-      "Opera PMS expertise required.",
-      "Fluency in English; Arabic or Russian is a significant advantage.",
-      "Experience in luxury Dubai hotel is preferred."
-    ],
-    "applyEmail": "careers@waldorfastoria.com",
-    "dateAdded": "2026-09-03",
     "postedDate": "1 week ago"
   }
 ]

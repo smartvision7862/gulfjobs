@@ -2,7 +2,43 @@
 <source>
   <publisher>GullfJob Portal</publisher>
   <publisherurl>https://smartvision7862.github.io/gulfjobs/</publisherurl>
-  <lastBuildDate>Fri, 11 Sep 2026 10:58:23 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 12 Sep 2026 10:26:35 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Pediatrician – Outpatient]]></title>
+    <date><![CDATA[Sat, 12 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-025-2026-09-12]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-025-2026-09-12]]></url>
+    <company><![CDATA[Mediclinic Middle East]]></company>
+    <city><![CDATA[Dubai]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[Mediclinic Middle East is seeking a Consultant Paediatrician for outpatient general and subspecialty paediatrics at our Dubai facilities.]]></description>
+    <salary><![CDATA[AED 38,000 - 52,000]]></salary>
+    <category><![CDATA[Healthcare]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Airport Operations Supervisor]]></title>
+    <date><![CDATA[Sat, 12 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-024-2026-09-12]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-024-2026-09-12]]></url>
+    <company><![CDATA[Hamad International Airport (HIA)]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[Hamad International Airport (HIA) is recruiting an Airport Operations Supervisor to oversee terminal operations, ground handling coordination, and passenger flow management.]]></description>
+    <salary><![CDATA[QAR 10,000 - 14,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Brand Manager – Consumer Goods]]></title>
+    <date><![CDATA[Sat, 12 Sep 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-023-2026-09-12]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-023-2026-09-12]]></url>
+    <company><![CDATA[Unilever Gulf]]></company>
+    <city><![CDATA[Dubai]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[Unilever Gulf is hiring a Brand Manager to lead brand strategy, innovation, and marketing execution for a major home care or personal care brand across GCC markets.]]></description>
+    <salary><![CDATA[AED 22,000 - 28,000]]></salary>
+    <category><![CDATA[Sales & Marketing]]></category>
+  </job>
   <job>
     <title><![CDATA[Welding Inspector – CSWIP 3.1]]></title>
     <date><![CDATA[Fri, 11 Sep 2026 00:00:00 GMT]]></date>
@@ -506,41 +542,5 @@
     <description><![CDATA[Swan Global is seeking a qualified Safety Engineer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
     <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
     <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Treasury Manager]]></title>
-    <date><![CDATA[Thu, 03 Sep 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-011-2026-09-03]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-011-2026-09-03]]></url>
-    <company><![CDATA[Gulf International Bank (GIB)]]></company>
-    <city><![CDATA[Manama]]></city>
-    <country><![CDATA[BH]]></country>
-    <description><![CDATA[Gulf International Bank (GIB) is recruiting a Treasury Manager to manage the bank's liquidity, funding, and FX hedging activities across GCC markets.]]></description>
-    <salary><![CDATA[BHD 3,500 - 4,500]]></salary>
-    <category><![CDATA[Finance]]></category>
-  </job>
-  <job>
-    <title><![CDATA[HSE Manager – Construction]]></title>
-    <date><![CDATA[Thu, 03 Sep 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-010-2026-09-03]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-010-2026-09-03]]></url>
-    <company><![CDATA[AECOM]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[AECOM is hiring an HSE Manager to lead health, safety, and environmental compliance for major infrastructure construction projects in Qatar.]]></description>
-    <salary><![CDATA[QAR 22,000 - 30,000]]></salary>
-    <category><![CDATA[Safety]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Front Office Manager]]></title>
-    <date><![CDATA[Thu, 03 Sep 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-009-2026-09-03]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-009-2026-09-03]]></url>
-    <company><![CDATA[Waldorf Astoria Hotels]]></company>
-    <city><![CDATA[Dubai]]></city>
-    <country><![CDATA[AE]]></country>
-    <description><![CDATA[Waldorf Astoria Dubai Palm Jumeirah is seeking a Front Office Manager to oversee all front-of-house operations, ensuring bespoke service for our ultra-luxury guests.]]></description>
-    <salary><![CDATA[AED 18,000 - 24,000]]></salary>
-    <category><![CDATA[Hospitality]]></category>
   </job>
 </source>
