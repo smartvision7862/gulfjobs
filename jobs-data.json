@@ -1,5 +1,167 @@
 [
   {
+    "id": "swan-9a342ff7",
+    "title": "Safety Officer",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/9a342ff7-8187-40e7-a3e7-90b177c2a709/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Safety Officer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Safety Officer in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Safety Officer.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-09-13",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-53f391c1",
+    "title": "IT Manager",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "IT & Tech",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/53f391c1-da93-4d34-9754-227547a0e87a/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified IT Manager to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as IT Manager in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for IT Manager.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-09-13",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-ebdcce48",
+    "title": "Safety Engineer",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/ebdcce48-0314-49f5-844e-5e211bca5b6f/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Safety Engineer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Safety Engineer in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Safety Engineer.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-09-13",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-52688fe7",
+    "title": "Mechanical Design Draftsman",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/52688fe7-1595-444b-b19b-308ff19609f6/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Mechanical Design Draftsman to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Mechanical Design Draftsman in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Mechanical Design Draftsman.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-09-13",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-d8f89b57",
+    "title": "AutoCAD Draftsman – Rigging & Lifting",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Mesaieed, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/d8f89b57-cd17-4f66-83de-2577b38bcce2/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified AutoCAD Draftsman – Rigging & Lifting to join client operations in Mesaieed, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as AutoCAD Draftsman – Rigging & Lifting in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Mesaieed, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for AutoCAD Draftsman – Rigging & Lifting.",
+      "Proven hands-on experience in Mesaieed, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-09-13",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-c6846ee4",
+    "title": "Senior QA QC Engineer",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/c6846ee4-1a49-477f-9d70-ddc5df72e96a/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Senior QA QC Engineer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Senior QA QC Engineer in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Senior QA QC Engineer.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-09-13",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-025-2026-09-12",
     "title": "Pediatrician – Outpatient",
     "company": "Mediclinic Middle East",
@@ -27,7 +189,7 @@
     ],
     "applyEmail": "careers@mediclinic.ae",
     "dateAdded": "2026-09-12",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-024-2026-09-12",
@@ -57,7 +219,7 @@
     ],
     "applyEmail": "careers@hia.qa",
     "dateAdded": "2026-09-12",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-023-2026-09-12",
@@ -87,7 +249,7 @@
     ],
     "applyEmail": "middle.east.careers@unilever.com",
     "dateAdded": "2026-09-12",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-022-2026-09-11",
@@ -117,7 +279,7 @@
     ],
     "applyEmail": "talent@technipfmc.com",
     "dateAdded": "2026-09-11",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-021-2026-09-11",
@@ -147,7 +309,7 @@
     ],
     "applyEmail": "hr@kfh.com",
     "dateAdded": "2026-09-11",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-020-2026-09-11",
@@ -177,7 +339,7 @@
     ],
     "applyEmail": "careers@stc.com.sa",
     "dateAdded": "2026-09-11",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-7d64d496",
@@ -204,7 +366,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-11",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-020-2026-09-10",
@@ -234,7 +396,7 @@
     ],
     "applyEmail": "careers@stc.com.sa",
     "dateAdded": "2026-09-10",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-019-2026-09-10",
@@ -264,7 +426,7 @@
     ],
     "applyEmail": "careers@dpworld.com",
     "dateAdded": "2026-09-10",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-018-2026-09-10",
@@ -294,7 +456,7 @@
     ],
     "applyEmail": "careers@sixsenses.com",
     "dateAdded": "2026-09-10",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-017-2026-09-09",
@@ -324,7 +486,7 @@
     ],
     "applyEmail": "careers@clevelandclinicabudhabi.ae",
     "dateAdded": "2026-09-09",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-016-2026-09-09",
@@ -354,7 +516,7 @@
     ],
     "applyEmail": "careers@adnoc.ae",
     "dateAdded": "2026-09-09",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-015-2026-09-09",
@@ -384,7 +546,7 @@
     ],
     "applyEmail": "careers@dtcm.gov.ae",
     "dateAdded": "2026-09-09",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-92159bf2",
@@ -411,7 +573,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-09",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-908cd976",
@@ -438,7 +600,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-09",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-ee0754ed",
@@ -465,7 +627,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-09",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-b8d3a9e5",
@@ -492,7 +654,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-09",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-8fcaa149",
@@ -519,7 +681,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-09",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-1548de0d",
@@ -546,7 +708,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-09",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-8d24c242",
@@ -573,7 +735,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-09",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-561f3b91",
@@ -600,7 +762,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-09",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-022-2026-09-08",
@@ -630,7 +792,7 @@
     ],
     "applyEmail": "talent@technipfmc.com",
     "dateAdded": "2026-09-08",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-021-2026-09-08",
@@ -660,7 +822,7 @@
     ],
     "applyEmail": "hr@kfh.com",
     "dateAdded": "2026-09-08",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-020-2026-09-08",
@@ -690,7 +852,7 @@
     ],
     "applyEmail": "careers@stc.com.sa",
     "dateAdded": "2026-09-08",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-019-2026-09-07",
@@ -720,7 +882,7 @@
     ],
     "applyEmail": "careers@dpworld.com",
     "dateAdded": "2026-09-07",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-018-2026-09-07",
@@ -750,7 +912,7 @@
     ],
     "applyEmail": "careers@sixsenses.com",
     "dateAdded": "2026-09-07",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-017-2026-09-07",
@@ -780,7 +942,7 @@
     ],
     "applyEmail": "careers@clevelandclinicabudhabi.ae",
     "dateAdded": "2026-09-07",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-f7662400",
@@ -807,7 +969,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-07",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-c1836159",
@@ -834,7 +996,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-07",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-018-2026-09-06",
@@ -864,7 +1026,7 @@
     ],
     "applyEmail": "careers@sixsenses.com",
     "dateAdded": "2026-09-06",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-017-2026-09-06",
@@ -894,7 +1056,7 @@
     ],
     "applyEmail": "careers@clevelandclinicabudhabi.ae",
     "dateAdded": "2026-09-06",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-016-2026-09-06",
@@ -924,7 +1086,7 @@
     ],
     "applyEmail": "careers@adnoc.ae",
     "dateAdded": "2026-09-06",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-e61c753c",
@@ -951,7 +1113,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-06",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-30d81b9e",
@@ -978,7 +1140,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-06",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-1b58cb85",
@@ -1005,7 +1167,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-06",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-016-2026-09-05",
@@ -1122,177 +1284,6 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-09-05",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "pool-013-2026-09-04",
-    "title": "Data Scientist",
-    "company": "First Abu Dhabi Bank (FAB)",
-    "logoLetters": "FA",
-    "location": "Abu Dhabi, UAE",
-    "category": "IT & Tech",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "AED 25,000 - 32,000",
-    "featured": true,
-    "description": "First Abu Dhabi Bank (FAB) is hiring a Data Scientist to build predictive models and AI solutions for credit risk, fraud detection, and customer behaviour analytics.",
-    "responsibilities": [
-      "Develop machine learning models for credit risk scoring and fraud detection.",
-      "Analyse large banking datasets to identify patterns and business insights.",
-      "Deploy models into production using MLflow, Docker, and Azure ML.",
-      "Collaborate with business stakeholders to translate requirements into analytical solutions.",
-      "Communicate model outputs and business impact to senior leadership."
-    ],
-    "requirements": [
-      "Master's degree in Data Science, Statistics, or Computer Science.",
-      "3+ years of data science experience in financial services or banking.",
-      "Proficiency in Python (pandas, scikit-learn, XGBoost, LightGBM).",
-      "Experience with SQL, Spark, and cloud ML platforms (Azure ML or AWS SageMaker).",
-      "Knowledge of credit risk, Basel II/III, or IFRS 9 is a strong plus."
-    ],
-    "applyEmail": "careers@bankfab.com",
-    "dateAdded": "2026-09-04",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "pool-012-2026-09-04",
-    "title": "Senior Procurement Engineer",
-    "company": "Fluor Corporation",
-    "logoLetters": "FL",
-    "location": "Abu Dhabi, UAE",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "AED 24,000 - 30,000",
-    "featured": false,
-    "description": "Fluor Corporation is seeking a Senior Procurement Engineer for our FEED and EPC projects in Abu Dhabi, managing equipment and bulk material procurement for upstream oil & gas facilities.",
-    "responsibilities": [
-      "Lead equipment and material procurement for static and rotating equipment.",
-      "Prepare technical requisitions, bid packages, and bid evaluations.",
-      "Negotiate purchase orders with vendors to achieve best commercial terms.",
-      "Manage vendor inspection, expediting, and logistics coordination.",
-      "Maintain procurement schedules and track delivery commitments."
-    ],
-    "requirements": [
-      "Bachelor's degree in Mechanical or Chemical Engineering.",
-      "Minimum 8 years of procurement engineering experience in oil & gas FEED/EPC.",
-      "Knowledge of pressure vessels, heat exchangers, pumps, and compressors.",
-      "Experience with SAP MM or Oracle Procurement modules.",
-      "Strong negotiation, commercial, and cross-cultural communication skills."
-    ],
-    "applyEmail": "careers@fluor.com",
-    "dateAdded": "2026-09-04",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "pool-011-2026-09-04",
-    "title": "Treasury Manager",
-    "company": "Gulf International Bank (GIB)",
-    "logoLetters": "GB",
-    "location": "Manama, Bahrain",
-    "category": "Finance",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "BHD 3,500 - 4,500",
-    "featured": true,
-    "description": "Gulf International Bank (GIB) is recruiting a Treasury Manager to manage the bank's liquidity, funding, and FX hedging activities across GCC markets.",
-    "responsibilities": [
-      "Manage daily liquidity positions, funding gaps, and short-term investment portfolios.",
-      "Execute FX hedging, interest rate swaps, and money market transactions.",
-      "Prepare liquidity reports and ILAAP documentation for regulatory submission.",
-      "Develop and maintain relationships with correspondent banks and counterparties.",
-      "Support ALCO meetings with data analysis and treasury management reporting."
-    ],
-    "requirements": [
-      "Bachelor's degree in Finance, Economics, or Banking.",
-      "ACI Dealing Certificate or CFA preferred.",
-      "Minimum 7 years of treasury experience in a bank or financial institution.",
-      "Strong knowledge of GCC Central Bank regulations and Basel III liquidity standards.",
-      "Bloomberg and Reuters terminal proficiency required."
-    ],
-    "applyEmail": "hr@gib.com.bh",
-    "dateAdded": "2026-09-04",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-a325d093",
-    "title": "GRP Supervisor",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/a325d093-ff00-4a2e-a9e1-6df0f1002254/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified GRP Supervisor to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as GRP Supervisor in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for GRP Supervisor.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-09-04",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-a0fa1623",
-    "title": "GRP Technician",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/a0fa1623-d149-48b9-99e1-c23e2c668e7f/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified GRP Technician to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as GRP Technician in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for GRP Technician.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-09-04",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-ebdcce48",
-    "title": "Safety Engineer",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/ebdcce48-0314-49f5-844e-5e211bca5b6f/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Safety Engineer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Safety Engineer in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Safety Engineer.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-09-04",
     "postedDate": "1 week ago"
   }
 ]
