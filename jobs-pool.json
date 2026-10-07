@@ -1,5 +1,55 @@
 [
   {
+    "id": "swan-affff115",
+    "title": "Recruiter",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "IT & Tech",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/affff115-25ca-4020-b05a-00153670e237/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Recruiter to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Recruiter in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Recruiter.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ]
+  },
+  {
+    "id": "swan-2074a735",
+    "title": "Head of Financial Planning & Analysis",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/2074a735-38bb-4c6f-bc06-55d0bd11b08c/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Head of Financial Planning & Analysis to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Head of Financial Planning & Analysis in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Head of Financial Planning & Analysis.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ]
+  },
+  {
     "id": "swan-b003c721",
     "title": "Oracle Fusion Finance Consultant",
     "company": "Swan Global",
