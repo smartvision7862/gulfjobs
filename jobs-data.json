@@ -1,5 +1,92 @@
 [
   {
+    "id": "pool-002-2026-10-21",
+    "title": "Electrical Engineer – Power Distribution",
+    "company": "Saudi Electricity Company (SEC)",
+    "logoLetters": "SE",
+    "location": "Riyadh, Saudi Arabia",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "SAR 16,000 - 21,000",
+    "featured": false,
+    "description": "Saudi Electricity Company (SEC) is hiring Electrical Engineers to design and oversee medium and high voltage power distribution networks across the Kingdom.",
+    "responsibilities": [
+      "Design HV/MV power distribution systems (33kV, 132kV, 380kV).",
+      "Review and approve single-line diagrams, protection schemes, and cable routing designs.",
+      "Oversee construction and commissioning of substations and distribution lines.",
+      "Perform load flow, short-circuit, and protection coordination studies.",
+      "Manage interfaces with EPC contractors and equipment vendors."
+    ],
+    "requirements": [
+      "Bachelor's degree in Electrical Power Engineering.",
+      "4+ years in HV/MV power system design or operation.",
+      "Proficiency in ETAP, DIgSILENT PowerFactory, or PSS/E software.",
+      "Knowledge of IEC standards for switchgear, transformers, and protection.",
+      "Saudi Council of Engineers (SCE) registration required."
+    ],
+    "applyEmail": "careers@se.com.sa",
+    "dateAdded": "2026-10-21",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-001-2026-10-21",
+    "title": "Quantity Surveyor",
+    "company": "Parsons Corporation",
+    "logoLetters": "PC",
+    "location": "Riyadh, Saudi Arabia",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "SAR 18,000 - 24,000",
+    "featured": true,
+    "description": "Parsons Corporation is recruiting a Quantity Surveyor to support major infrastructure projects in Riyadh under the Vision 2030 programme. You will prepare cost estimates, manage subcontractor payments, and ensure value engineering.",
+    "responsibilities": [
+      "Prepare Bills of Quantities (BOQ), cost plans, and tender documentation.",
+      "Manage subcontractor measurement, valuation, and payment certification.",
+      "Assess and negotiate variation orders and change requests.",
+      "Perform cost monitoring, forecasting, and final account preparation.",
+      "Liaise with project managers, designers, and client quantity surveyors."
+    ],
+    "requirements": [
+      "Bachelor's degree in Quantity Surveying, Civil Engineering, or Construction Management.",
+      "Minimum 5 years of QS experience on infrastructure or building projects.",
+      "Membership of RICS or CIQS is preferred.",
+      "Proficiency in CostX, Candy, or HCSS cost management software.",
+      "Experience on Saudi Vision 2030 projects is a significant advantage."
+    ],
+    "applyEmail": "careers@parsons.com",
+    "dateAdded": "2026-10-21",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-c40c7171",
+    "title": "Painting Supervisor",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/c40c7171-7567-440c-a9ce-4cd62f0d47dc/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Painting Supervisor to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Painting Supervisor in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Painting Supervisor.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-10-21",
+    "postedDate": "Today"
+  },
+  {
     "id": "swan-8b078ad6",
     "title": "Refrigeration Technician",
     "company": "Swan Global",
@@ -24,7 +111,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-20",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-3982e101",
@@ -51,7 +138,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-20",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-84e12431",
@@ -78,7 +165,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-20",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-f573f07f",
@@ -105,7 +192,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-20",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-e963acdf",
@@ -132,7 +219,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-20",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-fe45ab4d",
@@ -159,7 +246,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-19",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-fe4b1f04",
@@ -186,7 +273,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-19",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-1c0489f9",
@@ -213,7 +300,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-19",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-5801ac52",
@@ -240,7 +327,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-18",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-5588e58e",
@@ -267,7 +354,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-18",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-0f7b190a",
@@ -294,7 +381,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-18",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-c8073fec",
@@ -321,7 +408,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-18",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-7b8dfca4",
@@ -348,7 +435,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-17",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-54a0fda3",
@@ -375,7 +462,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-17",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-ce0189bb",
@@ -402,7 +489,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-17",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-1bc4d28e",
@@ -429,7 +516,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-16",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-ad2c5e1d",
@@ -456,7 +543,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-16",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-a6f86a73",
@@ -483,7 +570,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-16",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-2c543556",
@@ -510,7 +597,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-16",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-b36f3067",
@@ -537,7 +624,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-16",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-77515356",
@@ -564,7 +651,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-15",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-4b9aef8d",
@@ -591,7 +678,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-15",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-d6c7dddc",
@@ -618,7 +705,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-15",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-e9865ad6",
@@ -645,7 +732,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-15",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-fb988d2e",
@@ -672,7 +759,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-15",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-dbfca059",
@@ -699,7 +786,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-15",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-5020bb38",
@@ -726,7 +813,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-15",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-6170ed17",
@@ -753,7 +840,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-14",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-20f9bda0",
@@ -780,7 +867,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-14",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-7c987c13",
@@ -807,7 +894,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-14",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-3860b7f1",
@@ -1023,303 +1110,6 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-13",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-932a348d",
-    "title": "Compliance Assistant",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/932a348d-e82c-45bf-a694-b6ba40ac6dbf/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Compliance Assistant to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Compliance Assistant in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Compliance Assistant.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-12",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-1758e53d",
-    "title": "E&I QC Inspector COMPEX 01",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/1758e53d-870f-4aab-bbdc-931276fc4f02/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified E&I QC Inspector COMPEX 01 to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as E&I QC Inspector COMPEX 01 in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for E&I QC Inspector COMPEX 01.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-12",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-b705bfdb",
-    "title": "Pharmacy Associate",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Healthcare",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/b705bfdb-628f-4705-80b2-f2914ca2e07e/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Pharmacy Associate to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Pharmacy Associate in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Pharmacy Associate.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-12",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-b63d0004",
-    "title": "Oracle EBS R12 Supply Chain Functional Consultant",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Management & HR",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/b63d0004-7982-4268-9b39-07e8bd2e1149/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Oracle EBS R12 Supply Chain Functional Consultant to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Oracle EBS R12 Supply Chain Functional Consultant in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Oracle EBS R12 Supply Chain Functional Consultant.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-12",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-27328f00",
-    "title": "Oracle EBS Procurement Functional Consultant",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Riyadh, Saudi Arabia",
-    "category": "Management & HR",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "SAR 10,000 - 18,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/27328f00-1612-450f-a951-a8c905433618/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Oracle EBS Procurement Functional Consultant to join client operations in Riyadh, Saudi Arabia. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Oracle EBS Procurement Functional Consultant in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Riyadh, Saudi Arabia.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Oracle EBS Procurement Functional Consultant.",
-      "Proven hands-on experience in Riyadh, Saudi Arabia or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-12",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-271f8922",
-    "title": "Oracle EBS EAM / Inventory/ Product Hub Cataloging Functional Consultant",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Riyadh, Saudi Arabia",
-    "category": "Management & HR",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "SAR 10,000 - 18,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/271f8922-c0c0-4694-b689-c9bb90dd494f/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Oracle EBS EAM / Inventory/ Product Hub Cataloging Functional Consultant to join client operations in Riyadh, Saudi Arabia. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Oracle EBS EAM / Inventory/ Product Hub Cataloging Functional Consultant in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Riyadh, Saudi Arabia.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Oracle EBS EAM / Inventory/ Product Hub Cataloging Functional Consultant.",
-      "Proven hands-on experience in Riyadh, Saudi Arabia or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-12",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-129f5292",
-    "title": "Oracle EBS Forms/OAF/SCM Techno-Functional Consultant",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Management & HR",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/129f5292-822d-435b-9e30-f7a374e11eec/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Oracle EBS Forms/OAF/SCM Techno-Functional Consultant to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Oracle EBS Forms/OAF/SCM Techno-Functional Consultant in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Oracle EBS Forms/OAF/SCM Techno-Functional Consultant.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-12",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-c7692108",
-    "title": "ORACLE ADF & HR TECHNO-FUNCTIONAL CONSULTANT",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Riyadh, Saudi Arabia",
-    "category": "Management & HR",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "SAR 10,000 - 18,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/c7692108-cfa9-4cb2-b40e-818afb0873f0/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified ORACLE ADF & HR TECHNO-FUNCTIONAL CONSULTANT to join client operations in Riyadh, Saudi Arabia. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as ORACLE ADF & HR TECHNO-FUNCTIONAL CONSULTANT in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Riyadh, Saudi Arabia.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for ORACLE ADF & HR TECHNO-FUNCTIONAL CONSULTANT.",
-      "Proven hands-on experience in Riyadh, Saudi Arabia or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-12",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-d3d86210",
-    "title": "Oracle EBS Financials Techno-Functional Consultant",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Riyadh, Saudi Arabia",
-    "category": "Management & HR",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "SAR 10,000 - 18,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/d3d86210-5f08-4e2f-893f-185c51e3a4b4/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Oracle EBS Financials Techno-Functional Consultant to join client operations in Riyadh, Saudi Arabia. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Oracle EBS Financials Techno-Functional Consultant in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Riyadh, Saudi Arabia.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Oracle EBS Financials Techno-Functional Consultant.",
-      "Proven hands-on experience in Riyadh, Saudi Arabia or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-12",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-82da64bd",
-    "title": "eCommerce Trading Specialist",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/82da64bd-d71c-431a-8f69-ecad95ac3a02/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified eCommerce Trading Specialist to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as eCommerce Trading Specialist in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for eCommerce Trading Specialist.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-12",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-ac29f7d9",
-    "title": "HSE Officer",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/ac29f7d9-6725-4741-bcaa-caa9b216a987/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified HSE Officer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as HSE Officer in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for HSE Officer.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-12",
     "postedDate": "1 week ago"
   }
 ]
