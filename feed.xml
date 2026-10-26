@@ -2,7 +2,79 @@
 <source>
   <publisher>GullfJob Portal</publisher>
   <publisherurl>https://smartvision7862.github.io/gulfjobs/</publisherurl>
-  <lastBuildDate>Sun, 25 Oct 2026 11:04:00 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 12:37:13 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Digital Marketing Manager]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-015-2026-10-26]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-015-2026-10-26]]></url>
+    <company><![CDATA[Dubai Tourism (DTCM)]]></company>
+    <city><![CDATA[Dubai]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[Dubai's Department of Tourism and Commerce Marketing (DTCM) is looking for a Digital Marketing Manager to lead digital campaigns, social media strategy, and influencer marketing promoting Dubai as a global destination.]]></description>
+    <salary><![CDATA[AED 18,000 - 24,000]]></salary>
+    <category><![CDATA[Sales & Marketing]]></category>
+  </job>
+  <job>
+    <title><![CDATA[General Surgeon]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-014-2026-10-26]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-014-2026-10-26]]></url>
+    <company><![CDATA[Hamad Medical Corporation]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[Hamad Medical Corporation (HMC), Qatar's premier government healthcare system, is recruiting Consultant General Surgeons for Hamad General Hospital, Doha.]]></description>
+    <salary><![CDATA[QAR 55,000 - 75,000 + Full Package]]></salary>
+    <category><![CDATA[Healthcare]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Data Scientist]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-013-2026-10-26]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-013-2026-10-26]]></url>
+    <company><![CDATA[First Abu Dhabi Bank (FAB)]]></company>
+    <city><![CDATA[Abu Dhabi]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[First Abu Dhabi Bank (FAB) is hiring a Data Scientist to build predictive models and AI solutions for credit risk, fraud detection, and customer behaviour analytics.]]></description>
+    <salary><![CDATA[AED 25,000 - 32,000]]></salary>
+    <category><![CDATA[IT & Tech]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Paralegal]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[swan-2c543556]]></referencenumber>
+    <url><![CDATA[https://swanglobal.careers-page.com/jobs/2c543556-4a4f-4534-9be4-ae0e0a45bf4b/apply]]></url>
+    <company><![CDATA[Swan Global]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[Swan Global is seeking a qualified Paralegal to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
+    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Legal Counsel]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[swan-b36f3067]]></referencenumber>
+    <url><![CDATA[https://swanglobal.careers-page.com/jobs/b36f3067-1f8c-4403-84c7-404418ef1577/apply]]></url>
+    <company><![CDATA[Swan Global]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[Swan Global is seeking a qualified Legal Counsel to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
+    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Deputy Risk Officer]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[swan-75223e22]]></referencenumber>
+    <url><![CDATA[https://swanglobal.careers-page.com/jobs/75223e22-d8b0-409d-9735-4a80e0b0c5e7/apply]]></url>
+    <company><![CDATA[Swan Global]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[Swan Global is seeking a qualified Deputy Risk Officer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
+    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
   <job>
     <title><![CDATA[Data Scientist]]></title>
     <date><![CDATA[Sun, 25 Oct 2026 00:00:00 GMT]]></date>
@@ -360,42 +432,6 @@
     <city><![CDATA[Doha]]></city>
     <country><![CDATA[QA]]></country>
     <description><![CDATA[Swan Global is seeking a qualified Base Oil Trader to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Qc Inspector Welding]]></title>
-    <date><![CDATA[Sat, 17 Oct 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-7b8dfca4]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/7b8dfca4-f728-4c41-a36b-7f2e4fbf3167/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Qc Inspector Welding to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[IT & Digital Transformation Manager]]></title>
-    <date><![CDATA[Sat, 17 Oct 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-54a0fda3]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/54a0fda3-feb9-4cd7-bb66-96ec7edaceea/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified IT & Digital Transformation Manager to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[IT & Tech]]></category>
-  </job>
-  <job>
-    <title><![CDATA[MEP CAD Operator (Oil & Gas)]]></title>
-    <date><![CDATA[Sat, 17 Oct 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-ce0189bb]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/ce0189bb-3d9b-4608-85ab-81626f74e138/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified MEP CAD Operator (Oil & Gas) to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
     <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
     <category><![CDATA[Engineering]]></category>
   </job>

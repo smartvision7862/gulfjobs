@@ -1,5 +1,176 @@
 [
   {
+    "id": "pool-015-2026-10-26",
+    "title": "Digital Marketing Manager",
+    "company": "Dubai Tourism (DTCM)",
+    "logoLetters": "DT",
+    "location": "Dubai, UAE",
+    "category": "Sales & Marketing",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 18,000 - 24,000",
+    "featured": false,
+    "description": "Dubai's Department of Tourism and Commerce Marketing (DTCM) is looking for a Digital Marketing Manager to lead digital campaigns, social media strategy, and influencer marketing promoting Dubai as a global destination.",
+    "responsibilities": [
+      "Develop and execute integrated digital marketing campaigns across SEO, SEM, and social media.",
+      "Manage influencer partnerships and content creator programmes.",
+      "Analyse campaign performance through Google Analytics, Meta Business Suite, and TikTok Analytics.",
+      "Lead the team managing Dubai Tourism's multilingual social media accounts.",
+      "Collaborate with regional offices on localised digital marketing strategies."
+    ],
+    "requirements": [
+      "Bachelor's degree in Marketing, Digital Media, or Communications.",
+      "4+ years of digital marketing experience, preferably in travel, hospitality, or destination marketing.",
+      "Google Ads and Meta Blueprint certification.",
+      "Strong data analytics skills and experience with marketing automation tools.",
+      "Multilingual skills (Arabic, Chinese, or Russian) are highly valued."
+    ],
+    "applyEmail": "careers@dtcm.gov.ae",
+    "dateAdded": "2026-10-26",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-014-2026-10-26",
+    "title": "General Surgeon",
+    "company": "Hamad Medical Corporation",
+    "logoLetters": "HM",
+    "location": "Doha, Qatar",
+    "category": "Healthcare",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "QAR 55,000 - 75,000 + Full Package",
+    "featured": true,
+    "description": "Hamad Medical Corporation (HMC), Qatar's premier government healthcare system, is recruiting Consultant General Surgeons for Hamad General Hospital, Doha.",
+    "responsibilities": [
+      "Provide general surgical care including emergency, elective, and laparoscopic procedures.",
+      "Lead multidisciplinary surgical team rounds and case conferences.",
+      "Perform advanced laparoscopic, colorectal, and hepatobiliary surgery.",
+      "Supervise and mentor surgical residents and registrars.",
+      "Participate in research, audit, and quality improvement programmes."
+    ],
+    "requirements": [
+      "MBBS + FRCS, FACS, FRACS, or equivalent surgical board certification.",
+      "Minimum 5 years post-CCT or post-fellowship experience as a general surgery consultant.",
+      "Qatar Council for Healthcare Practitioners (QCHP) registration required.",
+      "Advanced laparoscopic surgery skills required.",
+      "Academic/research background is preferred."
+    ],
+    "applyEmail": "medical.staffing@hmc.org.qa",
+    "dateAdded": "2026-10-26",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-013-2026-10-26",
+    "title": "Data Scientist",
+    "company": "First Abu Dhabi Bank (FAB)",
+    "logoLetters": "FA",
+    "location": "Abu Dhabi, UAE",
+    "category": "IT & Tech",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 25,000 - 32,000",
+    "featured": true,
+    "description": "First Abu Dhabi Bank (FAB) is hiring a Data Scientist to build predictive models and AI solutions for credit risk, fraud detection, and customer behaviour analytics.",
+    "responsibilities": [
+      "Develop machine learning models for credit risk scoring and fraud detection.",
+      "Analyse large banking datasets to identify patterns and business insights.",
+      "Deploy models into production using MLflow, Docker, and Azure ML.",
+      "Collaborate with business stakeholders to translate requirements into analytical solutions.",
+      "Communicate model outputs and business impact to senior leadership."
+    ],
+    "requirements": [
+      "Master's degree in Data Science, Statistics, or Computer Science.",
+      "3+ years of data science experience in financial services or banking.",
+      "Proficiency in Python (pandas, scikit-learn, XGBoost, LightGBM).",
+      "Experience with SQL, Spark, and cloud ML platforms (Azure ML or AWS SageMaker).",
+      "Knowledge of credit risk, Basel II/III, or IFRS 9 is a strong plus."
+    ],
+    "applyEmail": "careers@bankfab.com",
+    "dateAdded": "2026-10-26",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-2c543556",
+    "title": "Paralegal",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/2c543556-4a4f-4534-9be4-ae0e0a45bf4b/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Paralegal to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Paralegal in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Paralegal.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-10-26",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-b36f3067",
+    "title": "Legal Counsel",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/b36f3067-1f8c-4403-84c7-404418ef1577/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Legal Counsel to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Legal Counsel in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Legal Counsel.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-10-26",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-75223e22",
+    "title": "Deputy Risk Officer",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/75223e22-d8b0-409d-9735-4a80e0b0c5e7/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Deputy Risk Officer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Deputy Risk Officer in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Deputy Risk Officer.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-10-26",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-013-2026-10-25",
     "title": "Data Scientist",
     "company": "First Abu Dhabi Bank (FAB)",
@@ -27,7 +198,7 @@
     ],
     "applyEmail": "careers@bankfab.com",
     "dateAdded": "2026-10-25",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-012-2026-10-25",
@@ -57,7 +228,7 @@
     ],
     "applyEmail": "careers@fluor.com",
     "dateAdded": "2026-10-25",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-011-2026-10-25",
@@ -87,7 +258,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-10-25",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-dbfca059",
@@ -114,7 +285,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-25",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-5020bb38",
@@ -141,7 +312,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-25",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-fc33968c",
@@ -168,7 +339,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-25",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-011-2026-10-24",
@@ -198,7 +369,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-10-24",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-010-2026-10-24",
@@ -228,7 +399,7 @@
     ],
     "applyEmail": "careers@aecom.com",
     "dateAdded": "2026-10-24",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-009-2026-10-24",
@@ -258,7 +429,7 @@
     ],
     "applyEmail": "careers@waldorfastoria.com",
     "dateAdded": "2026-10-24",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-008-2026-10-23",
@@ -288,7 +459,7 @@
     ],
     "applyEmail": "culinary.careers@rosewoodhotels.com",
     "dateAdded": "2026-10-23",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-007-2026-10-23",
@@ -318,7 +489,7 @@
     ],
     "applyEmail": "careers@asterhospitals.in",
     "dateAdded": "2026-10-23",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-006-2026-10-23",
@@ -348,7 +519,7 @@
     ],
     "applyEmail": "nursing.recruitment@kfshrc.edu.sa",
     "dateAdded": "2026-10-23",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-005-2026-10-22",
@@ -378,7 +549,7 @@
     ],
     "applyEmail": "careers@microsoft.com",
     "dateAdded": "2026-10-22",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-004-2026-10-22",
@@ -408,7 +579,7 @@
     ],
     "applyEmail": "careers@ooredoo.com",
     "dateAdded": "2026-10-22",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-003-2026-10-22",
@@ -438,7 +609,7 @@
     ],
     "applyEmail": "recruitment@woodplc.com",
     "dateAdded": "2026-10-22",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-002-2026-10-21",
@@ -468,7 +639,7 @@
     ],
     "applyEmail": "careers@se.com.sa",
     "dateAdded": "2026-10-21",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-001-2026-10-21",
@@ -498,7 +669,7 @@
     ],
     "applyEmail": "careers@parsons.com",
     "dateAdded": "2026-10-21",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-c40c7171",
@@ -525,7 +696,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-21",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-8b078ad6",
@@ -552,7 +723,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-20",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-3982e101",
@@ -579,7 +750,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-20",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-84e12431",
@@ -606,7 +777,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-20",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-f573f07f",
@@ -633,7 +804,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-20",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-e963acdf",
@@ -660,7 +831,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-20",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-fe45ab4d",
@@ -687,7 +858,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-19",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-fe4b1f04",
@@ -714,7 +885,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-19",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-1c0489f9",
@@ -741,7 +912,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-19",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-5801ac52",
@@ -849,87 +1020,6 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-18",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-7b8dfca4",
-    "title": "Qc Inspector Welding",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/7b8dfca4-f728-4c41-a36b-7f2e4fbf3167/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Qc Inspector Welding to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Qc Inspector Welding in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Qc Inspector Welding.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-17",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-54a0fda3",
-    "title": "IT & Digital Transformation Manager",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "IT & Tech",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/54a0fda3-feb9-4cd7-bb66-96ec7edaceea/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified IT & Digital Transformation Manager to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as IT & Digital Transformation Manager in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for IT & Digital Transformation Manager.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-17",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-ce0189bb",
-    "title": "MEP CAD Operator (Oil & Gas)",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/ce0189bb-3d9b-4608-85ab-81626f74e138/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified MEP CAD Operator (Oil & Gas) to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as MEP CAD Operator (Oil & Gas) in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for MEP CAD Operator (Oil & Gas).",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-17",
     "postedDate": "1 week ago"
   }
 ]
