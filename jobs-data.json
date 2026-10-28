@@ -1,5 +1,95 @@
 [
   {
+    "id": "pool-014-2026-10-28",
+    "title": "General Surgeon",
+    "company": "Hamad Medical Corporation",
+    "logoLetters": "HM",
+    "location": "Doha, Qatar",
+    "category": "Healthcare",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "QAR 55,000 - 75,000 + Full Package",
+    "featured": true,
+    "description": "Hamad Medical Corporation (HMC), Qatar's premier government healthcare system, is recruiting Consultant General Surgeons for Hamad General Hospital, Doha.",
+    "responsibilities": [
+      "Provide general surgical care including emergency, elective, and laparoscopic procedures.",
+      "Lead multidisciplinary surgical team rounds and case conferences.",
+      "Perform advanced laparoscopic, colorectal, and hepatobiliary surgery.",
+      "Supervise and mentor surgical residents and registrars.",
+      "Participate in research, audit, and quality improvement programmes."
+    ],
+    "requirements": [
+      "MBBS + FRCS, FACS, FRACS, or equivalent surgical board certification.",
+      "Minimum 5 years post-CCT or post-fellowship experience as a general surgery consultant.",
+      "Qatar Council for Healthcare Practitioners (QCHP) registration required.",
+      "Advanced laparoscopic surgery skills required.",
+      "Academic/research background is preferred."
+    ],
+    "applyEmail": "medical.staffing@hmc.org.qa",
+    "dateAdded": "2026-10-28",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-013-2026-10-28",
+    "title": "Data Scientist",
+    "company": "First Abu Dhabi Bank (FAB)",
+    "logoLetters": "FA",
+    "location": "Abu Dhabi, UAE",
+    "category": "IT & Tech",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 25,000 - 32,000",
+    "featured": true,
+    "description": "First Abu Dhabi Bank (FAB) is hiring a Data Scientist to build predictive models and AI solutions for credit risk, fraud detection, and customer behaviour analytics.",
+    "responsibilities": [
+      "Develop machine learning models for credit risk scoring and fraud detection.",
+      "Analyse large banking datasets to identify patterns and business insights.",
+      "Deploy models into production using MLflow, Docker, and Azure ML.",
+      "Collaborate with business stakeholders to translate requirements into analytical solutions.",
+      "Communicate model outputs and business impact to senior leadership."
+    ],
+    "requirements": [
+      "Master's degree in Data Science, Statistics, or Computer Science.",
+      "3+ years of data science experience in financial services or banking.",
+      "Proficiency in Python (pandas, scikit-learn, XGBoost, LightGBM).",
+      "Experience with SQL, Spark, and cloud ML platforms (Azure ML or AWS SageMaker).",
+      "Knowledge of credit risk, Basel II/III, or IFRS 9 is a strong plus."
+    ],
+    "applyEmail": "careers@bankfab.com",
+    "dateAdded": "2026-10-28",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-012-2026-10-28",
+    "title": "Senior Procurement Engineer",
+    "company": "Fluor Corporation",
+    "logoLetters": "FL",
+    "location": "Abu Dhabi, UAE",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "AED 24,000 - 30,000",
+    "featured": false,
+    "description": "Fluor Corporation is seeking a Senior Procurement Engineer for our FEED and EPC projects in Abu Dhabi, managing equipment and bulk material procurement for upstream oil & gas facilities.",
+    "responsibilities": [
+      "Lead equipment and material procurement for static and rotating equipment.",
+      "Prepare technical requisitions, bid packages, and bid evaluations.",
+      "Negotiate purchase orders with vendors to achieve best commercial terms.",
+      "Manage vendor inspection, expediting, and logistics coordination.",
+      "Maintain procurement schedules and track delivery commitments."
+    ],
+    "requirements": [
+      "Bachelor's degree in Mechanical or Chemical Engineering.",
+      "Minimum 8 years of procurement engineering experience in oil & gas FEED/EPC.",
+      "Knowledge of pressure vessels, heat exchangers, pumps, and compressors.",
+      "Experience with SAP MM or Oracle Procurement modules.",
+      "Strong negotiation, commercial, and cross-cultural communication skills."
+    ],
+    "applyEmail": "careers@fluor.com",
+    "dateAdded": "2026-10-28",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-011-2026-10-27",
     "title": "Treasury Manager",
     "company": "Gulf International Bank (GIB)",
@@ -27,7 +117,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-10-27",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-010-2026-10-27",
@@ -57,7 +147,7 @@
     ],
     "applyEmail": "careers@aecom.com",
     "dateAdded": "2026-10-27",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-009-2026-10-27",
@@ -87,7 +177,7 @@
     ],
     "applyEmail": "careers@waldorfastoria.com",
     "dateAdded": "2026-10-27",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-22257610",
@@ -114,7 +204,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-782b85f8",
@@ -141,7 +231,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-f19b58c7",
@@ -168,7 +258,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-dda91e79",
@@ -195,7 +285,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-6c340b73",
@@ -222,7 +312,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-d101d5fd",
@@ -249,7 +339,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-9d35c93b",
@@ -276,7 +366,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-015-2026-10-26",
@@ -306,7 +396,7 @@
     ],
     "applyEmail": "careers@dtcm.gov.ae",
     "dateAdded": "2026-10-26",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-014-2026-10-26",
@@ -336,7 +426,7 @@
     ],
     "applyEmail": "medical.staffing@hmc.org.qa",
     "dateAdded": "2026-10-26",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-013-2026-10-26",
@@ -366,7 +456,7 @@
     ],
     "applyEmail": "careers@bankfab.com",
     "dateAdded": "2026-10-26",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-2c543556",
@@ -393,7 +483,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-26",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-b36f3067",
@@ -420,7 +510,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-26",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-75223e22",
@@ -447,7 +537,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-26",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-013-2026-10-25",
@@ -477,7 +567,7 @@
     ],
     "applyEmail": "careers@bankfab.com",
     "dateAdded": "2026-10-25",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-012-2026-10-25",
@@ -507,7 +597,7 @@
     ],
     "applyEmail": "careers@fluor.com",
     "dateAdded": "2026-10-25",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-011-2026-10-25",
@@ -537,7 +627,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-10-25",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-dbfca059",
@@ -564,7 +654,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-25",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-5020bb38",
@@ -591,7 +681,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-25",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-fc33968c",
@@ -618,7 +708,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-25",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-011-2026-10-24",
@@ -648,7 +738,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-10-24",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-010-2026-10-24",
@@ -678,7 +768,7 @@
     ],
     "applyEmail": "careers@aecom.com",
     "dateAdded": "2026-10-24",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-009-2026-10-24",
@@ -708,7 +798,7 @@
     ],
     "applyEmail": "careers@waldorfastoria.com",
     "dateAdded": "2026-10-24",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-008-2026-10-23",
@@ -738,7 +828,7 @@
     ],
     "applyEmail": "culinary.careers@rosewoodhotels.com",
     "dateAdded": "2026-10-23",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-007-2026-10-23",
@@ -768,7 +858,7 @@
     ],
     "applyEmail": "careers@asterhospitals.in",
     "dateAdded": "2026-10-23",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-006-2026-10-23",
@@ -798,7 +888,7 @@
     ],
     "applyEmail": "nursing.recruitment@kfshrc.edu.sa",
     "dateAdded": "2026-10-23",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-005-2026-10-22",
@@ -828,7 +918,7 @@
     ],
     "applyEmail": "careers@microsoft.com",
     "dateAdded": "2026-10-22",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-004-2026-10-22",
@@ -858,7 +948,7 @@
     ],
     "applyEmail": "careers@ooredoo.com",
     "dateAdded": "2026-10-22",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-003-2026-10-22",
@@ -888,7 +978,7 @@
     ],
     "applyEmail": "recruitment@woodplc.com",
     "dateAdded": "2026-10-22",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-002-2026-10-21",
@@ -918,7 +1008,7 @@
     ],
     "applyEmail": "careers@se.com.sa",
     "dateAdded": "2026-10-21",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-001-2026-10-21",
@@ -948,7 +1038,7 @@
     ],
     "applyEmail": "careers@parsons.com",
     "dateAdded": "2026-10-21",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-c40c7171",
@@ -975,7 +1065,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-21",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-8b078ad6",
@@ -1110,87 +1200,6 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-20",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-fe45ab4d",
-    "title": "Recruitment Officer",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "IT & Tech",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/fe45ab4d-cf20-4036-88c2-20ad78c7edb2/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Recruitment Officer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Recruitment Officer in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Recruitment Officer.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-19",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-fe4b1f04",
-    "title": "Administrative Support and Coordination Consultant",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Management & HR",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/fe4b1f04-3142-4eef-9f96-6cbf8fb3cfdc/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Administrative Support and Coordination Consultant to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Administrative Support and Coordination Consultant in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Administrative Support and Coordination Consultant.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-19",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-1c0489f9",
-    "title": "Contracts Management Consultant",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Management & HR",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/1c0489f9-e3fa-4280-98cd-7975bfc5fc6f/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Contracts Management Consultant to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Contracts Management Consultant in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Contracts Management Consultant.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-19",
     "postedDate": "1 week ago"
   }
 ]

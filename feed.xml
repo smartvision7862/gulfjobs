@@ -2,7 +2,43 @@
 <source>
   <publisher>GullfJob Portal</publisher>
   <publisherurl>https://smartvision7862.github.io/gulfjobs/</publisherurl>
-  <lastBuildDate>Tue, 27 Oct 2026 11:54:02 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 12:30:05 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[General Surgeon]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-014-2026-10-28]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-014-2026-10-28]]></url>
+    <company><![CDATA[Hamad Medical Corporation]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[Hamad Medical Corporation (HMC), Qatar's premier government healthcare system, is recruiting Consultant General Surgeons for Hamad General Hospital, Doha.]]></description>
+    <salary><![CDATA[QAR 55,000 - 75,000 + Full Package]]></salary>
+    <category><![CDATA[Healthcare]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Data Scientist]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-013-2026-10-28]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-013-2026-10-28]]></url>
+    <company><![CDATA[First Abu Dhabi Bank (FAB)]]></company>
+    <city><![CDATA[Abu Dhabi]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[First Abu Dhabi Bank (FAB) is hiring a Data Scientist to build predictive models and AI solutions for credit risk, fraud detection, and customer behaviour analytics.]]></description>
+    <salary><![CDATA[AED 25,000 - 32,000]]></salary>
+    <category><![CDATA[IT & Tech]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Senior Procurement Engineer]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-012-2026-10-28]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-012-2026-10-28]]></url>
+    <company><![CDATA[Fluor Corporation]]></company>
+    <city><![CDATA[Abu Dhabi]]></city>
+    <country><![CDATA[AE]]></country>
+    <description><![CDATA[Fluor Corporation is seeking a Senior Procurement Engineer for our FEED and EPC projects in Abu Dhabi, managing equipment and bulk material procurement for upstream oil & gas facilities.]]></description>
+    <salary><![CDATA[AED 24,000 - 30,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
   <job>
     <title><![CDATA[Treasury Manager]]></title>
     <date><![CDATA[Tue, 27 Oct 2026 00:00:00 GMT]]></date>
@@ -470,41 +506,5 @@
     <description><![CDATA[Swan Global is seeking a qualified QC Inspector-Mechanical to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
     <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
     <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Recruitment Officer]]></title>
-    <date><![CDATA[Mon, 19 Oct 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-fe45ab4d]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/fe45ab4d-cf20-4036-88c2-20ad78c7edb2/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Recruitment Officer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[IT & Tech]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Administrative Support and Coordination Consultant]]></title>
-    <date><![CDATA[Mon, 19 Oct 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-fe4b1f04]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/fe4b1f04-3142-4eef-9f96-6cbf8fb3cfdc/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Administrative Support and Coordination Consultant to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Management & HR]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Contracts Management Consultant]]></title>
-    <date><![CDATA[Mon, 19 Oct 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[swan-1c0489f9]]></referencenumber>
-    <url><![CDATA[https://swanglobal.careers-page.com/jobs/1c0489f9-e3fa-4280-98cd-7975bfc5fc6f/apply]]></url>
-    <company><![CDATA[Swan Global]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Swan Global is seeking a qualified Contracts Management Consultant to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
-    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
-    <category><![CDATA[Management & HR]]></category>
   </job>
 </source>
