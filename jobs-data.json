@@ -1,5 +1,95 @@
 [
   {
+    "id": "pool-017-2026-10-29",
+    "title": "Pharmacist – Clinical",
+    "company": "Cleveland Clinic Abu Dhabi",
+    "logoLetters": "CC",
+    "location": "Abu Dhabi, UAE",
+    "category": "Healthcare",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 18,000 - 24,000",
+    "featured": true,
+    "description": "Cleveland Clinic Abu Dhabi is recruiting a Clinical Pharmacist to join our multidisciplinary healthcare team, providing expert pharmaceutical care to complex medical and surgical inpatients.",
+    "responsibilities": [
+      "Conduct medication reconciliation, clinical review, and pharmacokinetic monitoring.",
+      "Collaborate with physicians and nurses on drug therapy optimisation.",
+      "Provide drug information and pharmacovigilance reporting.",
+      "Participate in antimicrobial stewardship and medication safety programmes.",
+      "Contribute to clinical pharmacy research and quality improvement projects."
+    ],
+    "requirements": [
+      "Bachelor's degree in Pharmacy (BPharm/PharmD) from an accredited institution.",
+      "Minimum 3 years of clinical pharmacy experience in a hospital setting.",
+      "DOH/DHA pharmacy license required; support provided for UAE registration.",
+      "Board certification (BCPS, BCCP, or equivalent) is preferred.",
+      "Strong clinical pharmacology knowledge and patient communication skills."
+    ],
+    "applyEmail": "careers@clevelandclinicabudhabi.ae",
+    "dateAdded": "2026-10-29",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-016-2026-10-29",
+    "title": "Maintenance Planner",
+    "company": "ADNOC Onshore",
+    "logoLetters": "AD",
+    "location": "Abu Dhabi, UAE",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 16,000 - 22,000",
+    "featured": false,
+    "description": "ADNOC Onshore is seeking a Maintenance Planner to develop, optimise, and manage preventive and corrective maintenance plans for onshore oil & gas production facilities.",
+    "responsibilities": [
+      "Develop detailed maintenance plans and work packages using SAP PM.",
+      "Schedule preventive maintenance tasks and coordinate with operations teams.",
+      "Analyse equipment reliability data and adjust maintenance strategies.",
+      "Manage spare parts lists, Bill of Materials (BOM), and maintenance history.",
+      "Support turnaround planning and execute shutdown maintenance schedules."
+    ],
+    "requirements": [
+      "Bachelor's degree in Mechanical or Electrical Engineering.",
+      "Minimum 5 years of maintenance planning experience in oil & gas.",
+      "Proficiency in SAP PM (Plant Maintenance) module.",
+      "Knowledge of CMMS, RCM, and reliability-centered maintenance principles.",
+      "Experience in ADNOC or major GCC NOC environment preferred."
+    ],
+    "applyEmail": "careers@adnoc.ae",
+    "dateAdded": "2026-10-29",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-015-2026-10-29",
+    "title": "Digital Marketing Manager",
+    "company": "Dubai Tourism (DTCM)",
+    "logoLetters": "DT",
+    "location": "Dubai, UAE",
+    "category": "Sales & Marketing",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 18,000 - 24,000",
+    "featured": false,
+    "description": "Dubai's Department of Tourism and Commerce Marketing (DTCM) is looking for a Digital Marketing Manager to lead digital campaigns, social media strategy, and influencer marketing promoting Dubai as a global destination.",
+    "responsibilities": [
+      "Develop and execute integrated digital marketing campaigns across SEO, SEM, and social media.",
+      "Manage influencer partnerships and content creator programmes.",
+      "Analyse campaign performance through Google Analytics, Meta Business Suite, and TikTok Analytics.",
+      "Lead the team managing Dubai Tourism's multilingual social media accounts.",
+      "Collaborate with regional offices on localised digital marketing strategies."
+    ],
+    "requirements": [
+      "Bachelor's degree in Marketing, Digital Media, or Communications.",
+      "4+ years of digital marketing experience, preferably in travel, hospitality, or destination marketing.",
+      "Google Ads and Meta Blueprint certification.",
+      "Strong data analytics skills and experience with marketing automation tools.",
+      "Multilingual skills (Arabic, Chinese, or Russian) are highly valued."
+    ],
+    "applyEmail": "careers@dtcm.gov.ae",
+    "dateAdded": "2026-10-29",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-014-2026-10-28",
     "title": "General Surgeon",
     "company": "Hamad Medical Corporation",
@@ -27,7 +117,7 @@
     ],
     "applyEmail": "medical.staffing@hmc.org.qa",
     "dateAdded": "2026-10-28",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-013-2026-10-28",
@@ -57,7 +147,7 @@
     ],
     "applyEmail": "careers@bankfab.com",
     "dateAdded": "2026-10-28",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-012-2026-10-28",
@@ -87,7 +177,7 @@
     ],
     "applyEmail": "careers@fluor.com",
     "dateAdded": "2026-10-28",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-011-2026-10-27",
@@ -117,7 +207,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-10-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-010-2026-10-27",
@@ -147,7 +237,7 @@
     ],
     "applyEmail": "careers@aecom.com",
     "dateAdded": "2026-10-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-009-2026-10-27",
@@ -177,7 +267,7 @@
     ],
     "applyEmail": "careers@waldorfastoria.com",
     "dateAdded": "2026-10-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-22257610",
@@ -204,7 +294,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-782b85f8",
@@ -231,7 +321,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-f19b58c7",
@@ -258,7 +348,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-dda91e79",
@@ -285,7 +375,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-6c340b73",
@@ -312,7 +402,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-d101d5fd",
@@ -339,7 +429,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-9d35c93b",
@@ -366,7 +456,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-015-2026-10-26",
@@ -396,7 +486,7 @@
     ],
     "applyEmail": "careers@dtcm.gov.ae",
     "dateAdded": "2026-10-26",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-014-2026-10-26",
@@ -426,7 +516,7 @@
     ],
     "applyEmail": "medical.staffing@hmc.org.qa",
     "dateAdded": "2026-10-26",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-013-2026-10-26",
@@ -456,7 +546,7 @@
     ],
     "applyEmail": "careers@bankfab.com",
     "dateAdded": "2026-10-26",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-2c543556",
@@ -483,7 +573,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-26",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-b36f3067",
@@ -510,7 +600,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-26",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-75223e22",
@@ -537,7 +627,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-26",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-013-2026-10-25",
@@ -567,7 +657,7 @@
     ],
     "applyEmail": "careers@bankfab.com",
     "dateAdded": "2026-10-25",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-012-2026-10-25",
@@ -597,7 +687,7 @@
     ],
     "applyEmail": "careers@fluor.com",
     "dateAdded": "2026-10-25",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-011-2026-10-25",
@@ -627,7 +717,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-10-25",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-dbfca059",
@@ -654,7 +744,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-25",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-5020bb38",
@@ -681,7 +771,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-25",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-fc33968c",
@@ -708,7 +798,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-25",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-011-2026-10-24",
@@ -738,7 +828,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-10-24",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-010-2026-10-24",
@@ -768,7 +858,7 @@
     ],
     "applyEmail": "careers@aecom.com",
     "dateAdded": "2026-10-24",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-009-2026-10-24",
@@ -798,7 +888,7 @@
     ],
     "applyEmail": "careers@waldorfastoria.com",
     "dateAdded": "2026-10-24",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-008-2026-10-23",
@@ -828,7 +918,7 @@
     ],
     "applyEmail": "culinary.careers@rosewoodhotels.com",
     "dateAdded": "2026-10-23",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-007-2026-10-23",
@@ -858,7 +948,7 @@
     ],
     "applyEmail": "careers@asterhospitals.in",
     "dateAdded": "2026-10-23",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-006-2026-10-23",
@@ -888,7 +978,7 @@
     ],
     "applyEmail": "nursing.recruitment@kfshrc.edu.sa",
     "dateAdded": "2026-10-23",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-005-2026-10-22",
@@ -918,7 +1008,7 @@
     ],
     "applyEmail": "careers@microsoft.com",
     "dateAdded": "2026-10-22",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-004-2026-10-22",
@@ -948,7 +1038,7 @@
     ],
     "applyEmail": "careers@ooredoo.com",
     "dateAdded": "2026-10-22",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-003-2026-10-22",
@@ -978,7 +1068,7 @@
     ],
     "applyEmail": "recruitment@woodplc.com",
     "dateAdded": "2026-10-22",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-002-2026-10-21",
@@ -1065,141 +1155,6 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-21",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-8b078ad6",
-    "title": "Refrigeration Technician",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/8b078ad6-0bbc-40f2-90b7-689777195375/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Refrigeration Technician to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Refrigeration Technician in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Refrigeration Technician.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-20",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-3982e101",
-    "title": "Electrical Technician",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/3982e101-447b-47e1-904f-d03cd283f1e8/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Electrical Technician to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Electrical Technician in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Electrical Technician.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-20",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-84e12431",
-    "title": "Maintenance System Administrator",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/84e12431-d9fa-41f2-a8dd-93745f3478e6/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Maintenance System Administrator to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Maintenance System Administrator in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Maintenance System Administrator.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-20",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-f573f07f",
-    "title": "Switch Gear Technician",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/f573f07f-dd8e-40da-baed-02e7f27211d0/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Switch Gear Technician to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Switch Gear Technician in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Switch Gear Technician.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-20",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-e963acdf",
-    "title": "QC Inspector-Mechanical",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/e963acdf-e469-4394-a9c9-cb4cf0fde05d/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified QC Inspector-Mechanical to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as QC Inspector-Mechanical in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for QC Inspector-Mechanical.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-10-20",
     "postedDate": "1 week ago"
   }
 ]
