@@ -2,7 +2,43 @@
 <source>
   <publisher>GullfJob Portal</publisher>
   <publisherurl>https://smartvision7862.github.io/gulfjobs/</publisherurl>
-  <lastBuildDate>Fri, 30 Oct 2026 12:32:27 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 11:58:59 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Welding Inspector – CSWIP 3.1]]></title>
+    <date><![CDATA[Sat, 31 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-022-2026-10-31]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-022-2026-10-31]]></url>
+    <company><![CDATA[TechnipFMC]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[TechnipFMC is seeking CSWIP 3.1 certified Welding Inspectors for subsea pipeline and topside structural welding activities on offshore Qatar projects.]]></description>
+    <salary><![CDATA[QAR 12,000 - 16,000]]></salary>
+    <category><![CDATA[Engineering]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Internal Audit Manager]]></title>
+    <date><![CDATA[Sat, 31 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-021-2026-10-31]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-021-2026-10-31]]></url>
+    <company><![CDATA[Kuwait Finance House (KFH)]]></company>
+    <city><![CDATA[Kuwait City]]></city>
+    <country><![CDATA[KW]]></country>
+    <description><![CDATA[Kuwait Finance House (KFH) is recruiting an Internal Audit Manager to lead risk-based internal audit reviews across banking, treasury, retail, and operations divisions.]]></description>
+    <salary><![CDATA[KWD 2,500 - 3,500]]></salary>
+    <category><![CDATA[Finance]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Telecom RF Engineer – 5G]]></title>
+    <date><![CDATA[Sat, 31 Oct 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[pool-020-2026-10-31]]></referencenumber>
+    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-020-2026-10-31]]></url>
+    <company><![CDATA[STC (Saudi Telecom Company)]]></company>
+    <city><![CDATA[Riyadh]]></city>
+    <country><![CDATA[SA]]></country>
+    <description><![CDATA[STC is expanding its 5G network and hiring RF Engineers to plan, optimise, and troubleshoot radio frequency networks across the Kingdom of Saudi Arabia.]]></description>
+    <salary><![CDATA[SAR 18,000 - 25,000]]></salary>
+    <category><![CDATA[IT & Tech]]></category>
+  </job>
   <job>
     <title><![CDATA[Business Development Manager – Logistics]]></title>
     <date><![CDATA[Fri, 30 Oct 2026 00:00:00 GMT]]></date>
@@ -458,41 +494,5 @@
     <description><![CDATA[King Faisal Specialist Hospital & Research Centre (KFSH&RC) is recruiting ICU Registered Nurses to join our world-class critical care team in Riyadh. Tax-free salary plus accommodation, flights, and healthcare.]]></description>
     <salary><![CDATA[SAR 12,000 - 16,000 + Benefits]]></salary>
     <category><![CDATA[Healthcare]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Cloud Solutions Architect]]></title>
-    <date><![CDATA[Thu, 22 Oct 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-005-2026-10-22]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-005-2026-10-22]]></url>
-    <company><![CDATA[Microsoft Middle East & Africa]]></company>
-    <city><![CDATA[Dubai]]></city>
-    <country><![CDATA[AE]]></country>
-    <description><![CDATA[Microsoft MEA is hiring a Cloud Solutions Architect to lead enterprise Azure migrations and cloud-native design for major clients across the UAE, Saudi Arabia, and Qatar.]]></description>
-    <salary><![CDATA[AED 35,000 - 50,000]]></salary>
-    <category><![CDATA[IT & Tech]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Cybersecurity Analyst]]></title>
-    <date><![CDATA[Thu, 22 Oct 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-004-2026-10-22]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-004-2026-10-22]]></url>
-    <company><![CDATA[Ooredoo Group]]></company>
-    <city><![CDATA[Doha]]></city>
-    <country><![CDATA[QA]]></country>
-    <description><![CDATA[Ooredoo Group is hiring a Cybersecurity Analyst to monitor, detect, and respond to threats across its regional telecoms infrastructure and enterprise IT environment.]]></description>
-    <salary><![CDATA[QAR 15,000 - 20,000]]></salary>
-    <category><![CDATA[IT & Tech]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Commissioning Engineer – Oil & Gas]]></title>
-    <date><![CDATA[Thu, 22 Oct 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-003-2026-10-22]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-003-2026-10-22]]></url>
-    <company><![CDATA[Wood Group (John Wood Group)]]></company>
-    <city><![CDATA[Abu Dhabi]]></city>
-    <country><![CDATA[AE]]></country>
-    <description><![CDATA[Wood Group is seeking a Commissioning Engineer to lead pre-commissioning and commissioning activities for upstream and midstream oil & gas facilities in Abu Dhabi.]]></description>
-    <salary><![CDATA[AED 22,000 - 28,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
   </job>
 </source>
