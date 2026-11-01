@@ -1,5 +1,149 @@
 [
   {
+    "id": "pool-023-2026-11-01",
+    "title": "Brand Manager – Consumer Goods",
+    "company": "Unilever Gulf",
+    "logoLetters": "UL",
+    "location": "Dubai, UAE",
+    "category": "Sales & Marketing",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "AED 22,000 - 28,000",
+    "featured": true,
+    "description": "Unilever Gulf is hiring a Brand Manager to lead brand strategy, innovation, and marketing execution for a major home care or personal care brand across GCC markets.",
+    "responsibilities": [
+      "Develop and execute annual brand plans including campaign strategy, media mix, and trade activations.",
+      "Manage NPD pipeline, packaging innovation, and launch executions.",
+      "Analyse brand health metrics, market share data, and consumer insights.",
+      "Collaborate with agency partners on creative development and media planning.",
+      "Manage A&P budget and track ROI of marketing investments."
+    ],
+    "requirements": [
+      "Bachelor's degree in Business, Marketing, or Communications; MBA preferred.",
+      "Minimum 4 years of brand management experience in FMCG.",
+      "Experience in GCC consumer markets is strongly preferred.",
+      "Strong commercial acumen, data analysis, and creative thinking skills.",
+      "Agency management and budget control experience required."
+    ],
+    "applyEmail": "middle.east.careers@unilever.com",
+    "dateAdded": "2026-11-01",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-022-2026-11-01",
+    "title": "Welding Inspector – CSWIP 3.1",
+    "company": "TechnipFMC",
+    "logoLetters": "TF",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Contract",
+    "experience": "Mid Level",
+    "salary": "QAR 12,000 - 16,000",
+    "featured": false,
+    "description": "TechnipFMC is seeking CSWIP 3.1 certified Welding Inspectors for subsea pipeline and topside structural welding activities on offshore Qatar projects.",
+    "responsibilities": [
+      "Inspect and witness welding activities against approved WPS/PQR documentation.",
+      "Perform visual and dimensional inspections of weld joints.",
+      "Coordinate NDE (UT, RT, MT, PT) testing and interpret results.",
+      "Review and accept welder qualification records and continuity logs.",
+      "Prepare daily inspection reports and nonconformance reports (NCRs)."
+    ],
+    "requirements": [
+      "CSWIP 3.1 Welding Inspector certification (mandatory).",
+      "Minimum 5 years of welding inspection experience in oil & gas projects.",
+      "Knowledge of AWS D1.1, ASME IX, and API 1104 welding codes.",
+      "Experience with subsea pipeline or structural steel inspection.",
+      "PCN Level 2 in UT or RT is preferred."
+    ],
+    "applyEmail": "talent@technipfmc.com",
+    "dateAdded": "2026-11-01",
+    "postedDate": "Today"
+  },
+  {
+    "id": "pool-021-2026-11-01",
+    "title": "Internal Audit Manager",
+    "company": "Kuwait Finance House (KFH)",
+    "logoLetters": "KH",
+    "location": "Kuwait City, Kuwait",
+    "category": "Finance",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "KWD 2,500 - 3,500",
+    "featured": false,
+    "description": "Kuwait Finance House (KFH) is recruiting an Internal Audit Manager to lead risk-based internal audit reviews across banking, treasury, retail, and operations divisions.",
+    "responsibilities": [
+      "Plan and execute risk-based internal audit engagements across all business lines.",
+      "Lead a team of 5+ auditors, reviewing audit workpapers and reports.",
+      "Assess internal controls, compliance, and risk management effectiveness.",
+      "Present audit findings and management action plans to Audit Committee.",
+      "Monitor implementation of agreed audit recommendations."
+    ],
+    "requirements": [
+      "Bachelor's degree in Accounting or Finance; CIA or CISA certification required.",
+      "Minimum 7 years of internal or external audit experience in banking.",
+      "Knowledge of Islamic banking principles and GCC Central Bank regulations.",
+      "Proficiency in audit management software (TeamMate, ACL, or equivalent).",
+      "Arabic language skills are essential for this role."
+    ],
+    "applyEmail": "hr@kfh.com",
+    "dateAdded": "2026-11-01",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-6f308021",
+    "title": "IT Techno-Functional ERP Specialist",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "IT & Tech",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/6f308021-ac72-4f57-a1d4-0f116f715cc3/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified IT Techno-Functional ERP Specialist to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as IT Techno-Functional ERP Specialist in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for IT Techno-Functional ERP Specialist.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-11-01",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-178da30b",
+    "title": "IT Coordinator",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "IT & Tech",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/178da30b-e6f1-46e1-92de-4f1aa5b6b557/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified IT Coordinator to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as IT Coordinator in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for IT Coordinator.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-11-01",
+    "postedDate": "Today"
+  },
+  {
     "id": "pool-022-2026-10-31",
     "title": "Welding Inspector – CSWIP 3.1",
     "company": "TechnipFMC",
@@ -27,7 +171,7 @@
     ],
     "applyEmail": "talent@technipfmc.com",
     "dateAdded": "2026-10-31",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-021-2026-10-31",
@@ -57,7 +201,7 @@
     ],
     "applyEmail": "hr@kfh.com",
     "dateAdded": "2026-10-31",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-020-2026-10-31",
@@ -87,7 +231,7 @@
     ],
     "applyEmail": "careers@stc.com.sa",
     "dateAdded": "2026-10-31",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "pool-019-2026-10-30",
@@ -117,7 +261,7 @@
     ],
     "applyEmail": "careers@dpworld.com",
     "dateAdded": "2026-10-30",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-018-2026-10-30",
@@ -147,7 +291,7 @@
     ],
     "applyEmail": "careers@sixsenses.com",
     "dateAdded": "2026-10-30",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-017-2026-10-30",
@@ -177,7 +321,7 @@
     ],
     "applyEmail": "careers@clevelandclinicabudhabi.ae",
     "dateAdded": "2026-10-30",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-c29c4efa",
@@ -204,7 +348,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-30",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "pool-017-2026-10-29",
@@ -234,7 +378,7 @@
     ],
     "applyEmail": "careers@clevelandclinicabudhabi.ae",
     "dateAdded": "2026-10-29",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-016-2026-10-29",
@@ -264,7 +408,7 @@
     ],
     "applyEmail": "careers@adnoc.ae",
     "dateAdded": "2026-10-29",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-015-2026-10-29",
@@ -294,7 +438,7 @@
     ],
     "applyEmail": "careers@dtcm.gov.ae",
     "dateAdded": "2026-10-29",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "pool-014-2026-10-28",
@@ -324,7 +468,7 @@
     ],
     "applyEmail": "medical.staffing@hmc.org.qa",
     "dateAdded": "2026-10-28",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-013-2026-10-28",
@@ -354,7 +498,7 @@
     ],
     "applyEmail": "careers@bankfab.com",
     "dateAdded": "2026-10-28",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-012-2026-10-28",
@@ -384,7 +528,7 @@
     ],
     "applyEmail": "careers@fluor.com",
     "dateAdded": "2026-10-28",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "pool-011-2026-10-27",
@@ -414,7 +558,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-10-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-010-2026-10-27",
@@ -444,7 +588,7 @@
     ],
     "applyEmail": "careers@aecom.com",
     "dateAdded": "2026-10-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-009-2026-10-27",
@@ -474,7 +618,7 @@
     ],
     "applyEmail": "careers@waldorfastoria.com",
     "dateAdded": "2026-10-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-22257610",
@@ -501,7 +645,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-782b85f8",
@@ -528,7 +672,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-f19b58c7",
@@ -555,7 +699,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-dda91e79",
@@ -582,7 +726,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-6c340b73",
@@ -609,7 +753,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-d101d5fd",
@@ -636,7 +780,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-9d35c93b",
@@ -663,7 +807,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-27",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "pool-015-2026-10-26",
@@ -693,7 +837,7 @@
     ],
     "applyEmail": "careers@dtcm.gov.ae",
     "dateAdded": "2026-10-26",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-014-2026-10-26",
@@ -723,7 +867,7 @@
     ],
     "applyEmail": "medical.staffing@hmc.org.qa",
     "dateAdded": "2026-10-26",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-013-2026-10-26",
@@ -753,7 +897,7 @@
     ],
     "applyEmail": "careers@bankfab.com",
     "dateAdded": "2026-10-26",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-2c543556",
@@ -780,7 +924,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-26",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-b36f3067",
@@ -807,7 +951,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-26",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-75223e22",
@@ -834,7 +978,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-26",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "pool-013-2026-10-25",
@@ -864,7 +1008,7 @@
     ],
     "applyEmail": "careers@bankfab.com",
     "dateAdded": "2026-10-25",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-012-2026-10-25",
@@ -894,7 +1038,7 @@
     ],
     "applyEmail": "careers@fluor.com",
     "dateAdded": "2026-10-25",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-011-2026-10-25",
@@ -924,7 +1068,7 @@
     ],
     "applyEmail": "hr@gib.com.bh",
     "dateAdded": "2026-10-25",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-dbfca059",
@@ -951,7 +1095,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-25",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-5020bb38",
@@ -978,7 +1122,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-25",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-fc33968c",
@@ -1005,7 +1149,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-10-25",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "pool-011-2026-10-24",
@@ -1095,96 +1239,6 @@
     ],
     "applyEmail": "careers@waldorfastoria.com",
     "dateAdded": "2026-10-24",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "pool-008-2026-10-23",
-    "title": "Executive Chef",
-    "company": "Rosewood Hotels & Resorts",
-    "logoLetters": "RW",
-    "location": "Riyadh, Saudi Arabia",
-    "category": "Hospitality",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "SAR 28,000 - 38,000 + Benefits",
-    "featured": true,
-    "description": "Rosewood Riyadh is seeking a talented Executive Chef to lead culinary operations across our fine dining, all-day dining, and banqueting outlets at this ultra-luxury property.",
-    "responsibilities": [
-      "Lead and inspire a team of 60+ chefs across multiple restaurant concepts.",
-      "Develop innovative menus that reflect Rosewood's culinary philosophy.",
-      "Ensure consistency, presentation standards, and food safety compliance.",
-      "Control food cost, wastage, and kitchen operating budgets.",
-      "Recruit, train, and mentor culinary team members."
-    ],
-    "requirements": [
-      "Culinary arts degree or equivalent professional training.",
-      "Minimum 8 years of culinary experience with 3+ years as Executive Chef.",
-      "Luxury 5-star hotel or restaurant background required.",
-      "Experience in multiple cuisines (Western, Arabic/Levantine, Asian).",
-      "HACCP certification and strong leadership skills."
-    ],
-    "applyEmail": "culinary.careers@rosewoodhotels.com",
-    "dateAdded": "2026-10-23",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "pool-007-2026-10-23",
-    "title": "Radiographer – MRI & CT",
-    "company": "Aster DM Healthcare",
-    "logoLetters": "AS",
-    "location": "Dubai, UAE",
-    "category": "Healthcare",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "AED 9,000 - 13,000",
-    "featured": false,
-    "description": "Aster DM Healthcare is looking for a qualified Radiographer with experience in MRI and CT imaging to join our diagnostic imaging department in Dubai.",
-    "responsibilities": [
-      "Perform MRI, CT, and X-ray examinations on patients following radiologist protocols.",
-      "Ensure accurate patient positioning and image quality.",
-      "Administer IV contrast media as prescribed and monitor for reactions.",
-      "Maintain imaging equipment and escalate maintenance issues.",
-      "Maintain patient safety standards and radiation protection guidelines."
-    ],
-    "requirements": [
-      "Bachelor's degree in Radiography or Medical Imaging Technology.",
-      "Minimum 2 years of MRI/CT radiographer experience.",
-      "DHA/DOH license required; support provided for UAE registration.",
-      "Experience with Siemens, GE, or Philips MRI and CT systems.",
-      "Strong patient communication and attention to detail."
-    ],
-    "applyEmail": "careers@asterhospitals.in",
-    "dateAdded": "2026-10-23",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "pool-006-2026-10-23",
-    "title": "Registered Nurse – ICU",
-    "company": "King Faisal Specialist Hospital & Research Centre",
-    "logoLetters": "KF",
-    "location": "Riyadh, Saudi Arabia",
-    "category": "Healthcare",
-    "jobType": "Full-time",
-    "experience": "Mid Level",
-    "salary": "SAR 12,000 - 16,000 + Benefits",
-    "featured": true,
-    "description": "King Faisal Specialist Hospital & Research Centre (KFSH&RC) is recruiting ICU Registered Nurses to join our world-class critical care team in Riyadh. Tax-free salary plus accommodation, flights, and healthcare.",
-    "responsibilities": [
-      "Provide high-quality nursing care to critically ill adult ICU patients.",
-      "Monitor patients on mechanical ventilation, vasopressors, and invasive monitoring.",
-      "Administer IV medications, blood products, and complex infusion therapies.",
-      "Collaborate with physicians, intensivists, and multidisciplinary ICU team.",
-      "Respond to deteriorating patients and code blue situations."
-    ],
-    "requirements": [
-      "Bachelor's or Diploma in Nursing from an accredited programme.",
-      "Minimum 2 years of ICU/Critical Care nursing experience.",
-      "BLS and ACLS certification required; CCRN is preferred.",
-      "SCFHS/MOH registration required; support provided for Saudi licensing.",
-      "English fluency required; Arabic is an advantage."
-    ],
-    "applyEmail": "nursing.recruitment@kfshrc.edu.sa",
-    "dateAdded": "2026-10-23",
     "postedDate": "1 week ago"
   }
 ]
