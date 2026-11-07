@@ -2,7 +2,43 @@
 <source>
   <publisher>GullfJob Portal</publisher>
   <publisherurl>https://smartvision7862.github.io/gulfjobs/</publisherurl>
-  <lastBuildDate>Fri, 06 Nov 2026 14:01:08 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 12:45:13 GMT</lastBuildDate>
+  <job>
+    <title><![CDATA[Oracle EBS Procurement Functional Consultant]]></title>
+    <date><![CDATA[Sat, 07 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[swan-27328f00]]></referencenumber>
+    <url><![CDATA[https://swanglobal.careers-page.com/jobs/27328f00-1612-450f-a951-a8c905433618/apply]]></url>
+    <company><![CDATA[Swan Global]]></company>
+    <city><![CDATA[Riyadh]]></city>
+    <country><![CDATA[SA]]></country>
+    <description><![CDATA[Swan Global is seeking a qualified Oracle EBS Procurement Functional Consultant to join client operations in Riyadh, Saudi Arabia. Apply directly via Swan Global Careers Portal.]]></description>
+    <salary><![CDATA[SAR 10,000 - 18,000]]></salary>
+    <category><![CDATA[Management & HR]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Oracle EBS R12 Supply Chain Functional Consultant]]></title>
+    <date><![CDATA[Sat, 07 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[swan-b63d0004]]></referencenumber>
+    <url><![CDATA[https://swanglobal.careers-page.com/jobs/b63d0004-7982-4268-9b39-07e8bd2e1149/apply]]></url>
+    <company><![CDATA[Swan Global]]></company>
+    <city><![CDATA[Doha]]></city>
+    <country><![CDATA[QA]]></country>
+    <description><![CDATA[Swan Global is seeking a qualified Oracle EBS R12 Supply Chain Functional Consultant to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
+    <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
+    <category><![CDATA[Management & HR]]></category>
+  </job>
+  <job>
+    <title><![CDATA[Oracle EBS SCM Techno-Functional Consultant (Transportation)]]></title>
+    <date><![CDATA[Sat, 07 Nov 2026 00:00:00 GMT]]></date>
+    <referencenumber><![CDATA[swan-78bfb215]]></referencenumber>
+    <url><![CDATA[https://swanglobal.careers-page.com/jobs/78bfb215-55c0-4099-9235-7db72d93c520/apply]]></url>
+    <company><![CDATA[Swan Global]]></company>
+    <city><![CDATA[Riyadh]]></city>
+    <country><![CDATA[SA]]></country>
+    <description><![CDATA[Swan Global is seeking a qualified Oracle EBS SCM Techno-Functional Consultant (Transportation) to join client operations in Riyadh, Saudi Arabia. Apply directly via Swan Global Careers Portal.]]></description>
+    <salary><![CDATA[SAR 10,000 - 18,000]]></salary>
+    <category><![CDATA[Management & HR]]></category>
+  </job>
   <job>
     <title><![CDATA[Oracle Primavera Unifier Solution Architect]]></title>
     <date><![CDATA[Fri, 06 Nov 2026 00:00:00 GMT]]></date>
@@ -386,41 +422,5 @@
     <description><![CDATA[Swan Global is seeking a qualified Boiler Operator / Technician to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.]]></description>
     <salary><![CDATA[QAR 8,000 - 15,000]]></salary>
     <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Pharmacist – Clinical]]></title>
-    <date><![CDATA[Thu, 29 Oct 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-017-2026-10-29]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-017-2026-10-29]]></url>
-    <company><![CDATA[Cleveland Clinic Abu Dhabi]]></company>
-    <city><![CDATA[Abu Dhabi]]></city>
-    <country><![CDATA[AE]]></country>
-    <description><![CDATA[Cleveland Clinic Abu Dhabi is recruiting a Clinical Pharmacist to join our multidisciplinary healthcare team, providing expert pharmaceutical care to complex medical and surgical inpatients.]]></description>
-    <salary><![CDATA[AED 18,000 - 24,000]]></salary>
-    <category><![CDATA[Healthcare]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Maintenance Planner]]></title>
-    <date><![CDATA[Thu, 29 Oct 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-016-2026-10-29]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-016-2026-10-29]]></url>
-    <company><![CDATA[ADNOC Onshore]]></company>
-    <city><![CDATA[Abu Dhabi]]></city>
-    <country><![CDATA[AE]]></country>
-    <description><![CDATA[ADNOC Onshore is seeking a Maintenance Planner to develop, optimise, and manage preventive and corrective maintenance plans for onshore oil & gas production facilities.]]></description>
-    <salary><![CDATA[AED 16,000 - 22,000]]></salary>
-    <category><![CDATA[Engineering]]></category>
-  </job>
-  <job>
-    <title><![CDATA[Digital Marketing Manager]]></title>
-    <date><![CDATA[Thu, 29 Oct 2026 00:00:00 GMT]]></date>
-    <referencenumber><![CDATA[pool-015-2026-10-29]]></referencenumber>
-    <url><![CDATA[https://smartvision7862.github.io/gulfjobs/#job-pool-015-2026-10-29]]></url>
-    <company><![CDATA[Dubai Tourism (DTCM)]]></company>
-    <city><![CDATA[Dubai]]></city>
-    <country><![CDATA[AE]]></country>
-    <description><![CDATA[Dubai's Department of Tourism and Commerce Marketing (DTCM) is looking for a Digital Marketing Manager to lead digital campaigns, social media strategy, and influencer marketing promoting Dubai as a global destination.]]></description>
-    <salary><![CDATA[AED 18,000 - 24,000]]></salary>
-    <category><![CDATA[Sales & Marketing]]></category>
   </job>
 </source>
