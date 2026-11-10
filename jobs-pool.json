@@ -1,5 +1,55 @@
 [
   {
+    "id": "swan-3a90b80f",
+    "title": "BMS Engineer / Supervisor",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/3a90b80f-18e0-4c6a-aac0-4da5042040ec/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified BMS Engineer / Supervisor to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as BMS Engineer / Supervisor in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for BMS Engineer / Supervisor.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ]
+  },
+  {
+    "id": "swan-7af0f607",
+    "title": "Project Engineer",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/7af0f607-eeb5-43ae-8a63-c8dcd0da6d44/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Project Engineer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Project Engineer in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Project Engineer.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ]
+  },
+  {
     "id": "swan-a78a4858",
     "title": "Reporting & Revenue Officer",
     "company": "Swan Global",
