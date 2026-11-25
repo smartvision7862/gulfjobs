@@ -1,5 +1,140 @@
 [
   {
+    "id": "swan-a279b798",
+    "title": "Lean Engineer",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/a279b798-8a7e-47ec-a471-e6989eb8d77d/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Lean Engineer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Lean Engineer in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Lean Engineer.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-11-25",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-70126de1",
+    "title": "Assistant Resident Engineer- Structure",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/70126de1-5152-4c39-89bf-bb4a42b19ab2/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Assistant Resident Engineer- Structure to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Assistant Resident Engineer- Structure in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Assistant Resident Engineer- Structure.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-11-25",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-2cb57d0d",
+    "title": "Resident Engineer - Structure",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Entry / Mid Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/2cb57d0d-b37c-4346-9961-f328ffe73a32/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Resident Engineer - Structure to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Resident Engineer - Structure in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Resident Engineer - Structure.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-11-25",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-0451b2a9",
+    "title": "Head of Marketing & Relations Officer",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Engineering",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/0451b2a9-3792-48ca-8401-a704b33c45b8/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Head of Marketing & Relations Officer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Head of Marketing & Relations Officer in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Head of Marketing & Relations Officer.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-11-25",
+    "postedDate": "Today"
+  },
+  {
+    "id": "swan-d7dd001c",
+    "title": "Client Relationship Manager",
+    "company": "Swan Global",
+    "logoLetters": "SG",
+    "location": "Doha, Qatar",
+    "category": "Management & HR",
+    "jobType": "Full-time",
+    "experience": "Senior Level",
+    "salary": "QAR 8,000 - 15,000",
+    "featured": true,
+    "applyUrl": "https://swanglobal.careers-page.com/jobs/d7dd001c-22bb-47ad-9d9c-5c247c68fa94/apply",
+    "applyEmail": "careers@swan.qa",
+    "description": "Swan Global is seeking a qualified Client Relationship Manager to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
+    "responsibilities": [
+      "Execute duties as Client Relationship Manager in accordance with industry standards.",
+      "Collaborate with site supervisors and management in Doha, Qatar.",
+      "Maintain strict compliance with safety, quality control, and reporting."
+    ],
+    "requirements": [
+      "Relevant technical qualification or degree for Client Relationship Manager.",
+      "Proven hands-on experience in Doha, Qatar or GCC region.",
+      "Strong communication and teamwork capabilities."
+    ],
+    "dateAdded": "2026-11-25",
+    "postedDate": "Today"
+  },
+  {
     "id": "swan-e07a1eb1",
     "title": "QA/QC Manager",
     "company": "Swan Global",
@@ -24,7 +159,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-24",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-7b32934e",
@@ -51,7 +186,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-24",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-f4688277",
@@ -78,7 +213,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-24",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-98a16ea9",
@@ -105,7 +240,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-24",
-    "postedDate": "Today"
+    "postedDate": "1 day ago"
   },
   {
     "id": "swan-8d76b3da",
@@ -132,7 +267,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-23",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-edea3361",
@@ -159,7 +294,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-23",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-a0fa1623",
@@ -186,7 +321,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-23",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-ca9edab5",
@@ -213,7 +348,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-23",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-a2dfd640",
@@ -240,7 +375,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-23",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "id": "swan-a325d093",
@@ -267,7 +402,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-22",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-b7828753",
@@ -294,7 +429,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-22",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-04f7fc67",
@@ -321,7 +456,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-22",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-fa97d8f3",
@@ -348,7 +483,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-22",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-5dbfa6e6",
@@ -375,7 +510,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-22",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-7b14fcde",
@@ -402,7 +537,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-22",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-18f5d54a",
@@ -429,7 +564,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-22",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-402c8eb2",
@@ -456,7 +591,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-22",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-3176bdee",
@@ -483,7 +618,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-22",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-68a722bd",
@@ -510,7 +645,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-22",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-ef6f78d9",
@@ -537,7 +672,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-22",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "id": "swan-30d81b9e",
@@ -564,7 +699,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-21",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-e61c753c",
@@ -591,7 +726,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-21",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-9a342ff7",
@@ -618,7 +753,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-21",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-09cfc7af",
@@ -645,7 +780,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-21",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-6d277b0a",
@@ -672,7 +807,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-21",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-a9d2b308",
@@ -699,7 +834,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-21",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "id": "swan-53f391c1",
@@ -726,7 +861,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-20",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-ebdcce48",
@@ -753,7 +888,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-20",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-1b58cb85",
@@ -780,7 +915,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-20",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "id": "swan-c1836159",
@@ -807,7 +942,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-19",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-f7662400",
@@ -834,7 +969,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-19",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-561f3b91",
@@ -861,7 +996,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-19",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-9600181b",
@@ -888,7 +1023,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-19",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "id": "swan-8d24c242",
@@ -915,7 +1050,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-18",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-1548de0d",
@@ -942,7 +1077,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-18",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-8fcaa149",
@@ -969,7 +1104,7 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-18",
-    "postedDate": "6 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "id": "swan-b8d3a9e5",
@@ -1050,114 +1185,6 @@
       "Strong communication and teamwork capabilities."
     ],
     "dateAdded": "2026-11-17",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-92159bf2",
-    "title": "Quantity Surveyor Civil",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "IT & Tech",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/92159bf2-81a5-4c9c-9c10-f485795f9265/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Quantity Surveyor Civil to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Quantity Surveyor Civil in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Quantity Surveyor Civil.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-11-16",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-7d64d496",
-    "title": "WELDING HELPER(6G WELDER)",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/7d64d496-c68a-407d-9c8d-0c8f8b81c266/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified WELDING HELPER(6G WELDER) to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as WELDING HELPER(6G WELDER) in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for WELDING HELPER(6G WELDER).",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-11-16",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-c6846ee4",
-    "title": "Senior QA QC Engineer",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Senior Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/c6846ee4-1a49-477f-9d70-ddc5df72e96a/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified Senior QA QC Engineer to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as Senior QA QC Engineer in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for Senior QA QC Engineer.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-11-16",
-    "postedDate": "1 week ago"
-  },
-  {
-    "id": "swan-d99d0b1b",
-    "title": "MEG Plant Operator",
-    "company": "Swan Global",
-    "logoLetters": "SG",
-    "location": "Doha, Qatar",
-    "category": "Engineering",
-    "jobType": "Full-time",
-    "experience": "Entry / Mid Level",
-    "salary": "QAR 8,000 - 15,000",
-    "featured": true,
-    "applyUrl": "https://swanglobal.careers-page.com/jobs/d99d0b1b-2d66-4f52-aa92-4f56000a6a87/apply",
-    "applyEmail": "careers@swan.qa",
-    "description": "Swan Global is seeking a qualified MEG Plant Operator to join client operations in Doha, Qatar. Apply directly via Swan Global Careers Portal.",
-    "responsibilities": [
-      "Execute duties as MEG Plant Operator in accordance with industry standards.",
-      "Collaborate with site supervisors and management in Doha, Qatar.",
-      "Maintain strict compliance with safety, quality control, and reporting."
-    ],
-    "requirements": [
-      "Relevant technical qualification or degree for MEG Plant Operator.",
-      "Proven hands-on experience in Doha, Qatar or GCC region.",
-      "Strong communication and teamwork capabilities."
-    ],
-    "dateAdded": "2026-11-16",
     "postedDate": "1 week ago"
   }
 ]
